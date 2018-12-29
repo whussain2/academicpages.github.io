@@ -13,6 +13,7 @@ redirect_from:
 
 <span style="color:darkblue">**Education**</span>
 ======
+------
 * B.S., Agriculture Specialization in Research, [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, June 2009
 * M.S., Plant Breeding and Genetics, [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, December 2011
 	* Advisor: [Dr. Gulzar Singh Sanghera](https://www.researchgate.net/profile/Gulzar_S_Sanghera)
@@ -25,6 +26,7 @@ redirect_from:
  
 <span style="color:darkblue">**Research Experience**</span>
 ======
+------
 **March 2018 to Current: Postdoctoral Research Associate**
 * Department of Agronomy and Horticulture, University of Nebraska - Lincoln
 * Supervisors: [Gota Morota](https://www.apsc.vt.edu/OurPeople/Faculty/GotaMorota.html) and [Harkamal Walia](https://agronomy.unl.edu/walia)
@@ -65,6 +67,7 @@ redirect_from:
  
 <span style="color:darkblue">**Publications**</span>
 ======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -73,6 +76,7 @@ redirect_from:
 
 <span style="color:darkblue">**Talks**</span>
 ======
+------
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
@@ -81,6 +85,7 @@ redirect_from:
 
 <span style="color:darkblue">**Awards and Fellowships**</span>
 ======
+------
 * [Open Science Grid User School Travel Grant Award 2018](https://opensciencegrid.org/user-school-2018/).
 * [Travel Grant Award Kansas State Plant Breeding Symposium-2017](https://www.k-state.edu/pbg/symposium2017/speakers.html)
 * [USDA ICQG Award-2016](https://agronomy.unl.edu/news/bandillo-mcconaughy-and-waseem-awarded-fellowships).
@@ -94,6 +99,7 @@ redirect_from:
 
 <span style="color:darkblue">**Training and Short-courses**</span>
 ======
+------
 * [Software Carpentry Workshop on computational skills, including task automation, version control, and modular programming. Learn Bash, Git and Python. Holland Computing Center, University of Nebraska, Lincoln. August 13 & 14, 2018](https://unlhcc.github.io/2018-08-13-NU/)
 * [Open Science Grid (OSG) User School 2018: Workshop on High Throughput Computing and Running Large Scale Computing Applications at University of Wisconsin Madison. July 9-13](https://opensciencegrid.org/user-school-2018/)
 * [Work shop Series on Unix Shell, Git and use of HCC’s High-Performance Computing, High Throughput Computing and Cloud computing resources. Holland Computing Center, University of Nebraska Lincoln. June 05-26, 2018](https://hcc.unl.edu/june-workshop-series-2018)
@@ -106,12 +112,14 @@ redirect_from:
 
 <span style="color:darkblue">**Open Source Contribution**</span>
 ======
+------
 * ShinyAIM: Shiny-based Application of Interactive Manhattan Plots for Longitudinal GWAS using R and Shiny. The application is available online at [https://chikudaisei.shinyapps.io/shinyaim/](https://chikudaisei.shinyapps.io/shinyaim/). The source code and materials can be downloaded from GitHub [https://github.com/whussain2/ShinyAIM](https://github.com/whussain2/ShinyAIM)
 
 ------
 
 <span style="color:darkblue">**Leadership Roles**</span>
 ======
+------
 * A representative of Department of Agronomy and Horticulture Safety Committee in the year 2015.
 * Member of organizing a committee of UNL plant breeding symposium-2016.
 * Hosted 2015- World Food Prize Nebraska Youth Institute in Department of Agronomy and Horticulture.
@@ -122,6 +130,7 @@ redirect_from:
 
 <span style="color:darkblue">**Professional Memberships**</span>
 ======
+------
 * ASA, CSSA,and SSSA since June-2014
 * National Association of Plant Breeders since Feb. 2018
 * American Society of Plant Biologists since April 2018
@@ -130,6 +139,7 @@ redirect_from:
 
 <span style="color:darkblue">**Professional Experience**</span>
 ======
+------
 * Associate Editor: Agronomy Journal (March 2018 to present)
 * Peer Reviewer: Agronomy Journal (American Society of Agronomy); PNAS, Biological Sciences, India; Physiology and Molecular Biology of Plants; Agronomy (MPDI). 
 
@@ -137,6 +147,7 @@ redirect_from:
 
 <span style="color:darkblue">**Posters**</span>
 ======
+------
 * Development of High Density Linkage Map and Genome-Wide QTL Mapping for Grain Yield in Wheat Across Multiple Rainfed Environments. ASA, CSSA and SSSA Minneapolis, Nov. 6-9, 2106
 * SNP Discovery in Wheat RIL Population Using Genotyping-by-Sequencing and Genome-Wide QTL Mapping for Plant Height. Conference: 5th International Conference on Quantitative Genetics, At Madison, Wisconsin, USA. DOI: 10.13140/RG.2.1.1949.6567
 * Mapping QTLs for Plant Height Variation in RIL Population Derived from Cross Between Harry X Wesley Semi-Dwarf Wheat Lines. ASA, CSSA and SSSA Minneapolis, Nov. 15-18, 2105.
@@ -173,6 +184,7 @@ redirect_from:
 
 <span style="color:darkblue">**Teaching Experience**</span>
 ======
+------
 * Guest Lectures on course “Quantitative methods for genomics of complex traits”
 	* University of Nebraska Lincoln, Department of Animal Sciences
 
@@ -180,6 +192,7 @@ redirect_from:
 
 <span style="color:darkblue">**Invited Talks**</span>
 ======
+------
 * Shiny Based Imaging GWAS Server, at University of Nebraska Lincoln, Deptt. of Statistics, 2018.
 * New tools to Understand and Improve Wheat in Genomics Era, at Maharashtra Hybrid Seed Company (MAHYCO), India, 2017.
 * Genotyping-by-sequencing derived high-density linkage map and its application to QTL mapping of flag leaf traits in bread wheat” at Kansas State Plant Breeding symposium, 2017.
