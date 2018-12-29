@@ -54,8 +54,7 @@ redirect_from:
 	
 **June 2009 - December 20111: Graduate Research Assistant (M.S.)**
 * Department of Plant Breeding and Genetics, Agricultural University [SKUAST-K](http://www.skuastkashmir.ac.in), Srinagar, india
-
-  	* Focused on identification of potential restorers for newly developed temperate CMS lines and identify the heterotic combinations
+	* Focused on identification of potential restorers for newly developed temperate CMS lines and identify the heterotic combinations
   	 
 **June 2004 - May 2009: Undergraduate** 
 
