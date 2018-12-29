@@ -16,3 +16,5 @@ main:
     
   - title: "Resources"
     url: /resources/
+colors:
+  blue:      '#49a7e9'
