@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+------
 <span style="color:darkblue">**Education**</span>
+
 ======
 * B.S., Agriculture Specialization in Research, [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, June 2009
 * M.S., Plant Breeding and Genetics, [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, December 2011
@@ -19,7 +21,7 @@ redirect_from:
 	* Advisor: [Dr. Stephen Baenziger](https://agronomy.unl.edu/baenziger)
 		* Dissertation: "Development of High-Density Linkage Map and QTL Mapping For Agronomic Traits in Bread Wheat Evaluated Across Multiple Rainfed Environments"
   
-  
+ ------ 
 <span style="color:darkblue">**Research Experience**</span>
 ======
 **March 2018 to Current: Postdoctoral Research Associate**
@@ -58,19 +60,19 @@ redirect_from:
   	 
 **June 2004 to May 2009: Undergraduate** 
 
-  
+ ------ 
 <span style="color:darkblue">**Publications**</span>
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+------
 <span style="color:darkblue">**Talks**</span>
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+------  
 <span style="color:darkblue">**Awards and Fellowships**</span>
 ======
 * [Open Science Grid User School Travel Grant Award 2018](https://opensciencegrid.org/user-school-2018/).
@@ -81,7 +83,7 @@ redirect_from:
 * [Inspire Fellowship (Ministry of Science & Technology, Department of Science & Technology, India (2012-2104)](http://www.inspire-dst.gov.in/)
 * [University Merit Certificate (M.Sc. Plant breeding &Genetics) (2011)](http://www.skuastkashmir.ac.in))
 * [Qualified ASRB National Eligibility Test 2012, 2013 and 2014 for Assistant Professorship](http://www.asrb.org.in/)
-
+------
 <span style="color:darkblue">**Training and Short-courses**</span>
 ======
 * [Software Carpentry Workshop on computational skills, including task automation, version control, and modular programming. Learn Bash, Git and Python. Holland Computing Center, University of Nebraska, Lincoln. August 13 & 14, 2018](https://unlhcc.github.io/2018-08-13-NU/)
@@ -91,12 +93,12 @@ redirect_from:
 * Understanding genome-wide association studies and other big data biological applications. University of Nebraska, Lincoln. June 23-24, 2014.
 * Fundamental writing skills workshop researchers. University of Nebraska, Lincoln. Sept 2015.
 * Write Wining Grant Proposals, University of Nebraska, Lincoln, March 18, 2016.
-
+------
 <span style="color:darkblue">**Open Source Contribution**</span>
 ======
 * ShinyAIM: Shiny-based Application of Interactive Manhattan Plots for Longitudinal GWAS using R and Shiny. The application is available online at [https://chikudaisei.shinyapps.io/shinyaim/](https://chikudaisei.shinyapps.io/shinyaim/). The source code and materials can be downloaded from GitHub [https://github.com/whussain2/ShinyAIM](https://github.com/whussain2/ShinyAIM)
 
-
+------
 <span style="color:darkblue">**Leadership Roles**</span>
 ======
 * A representative of Department of Agronomy and Horticulture Safety Committee in the year 2015.
@@ -104,18 +106,18 @@ redirect_from:
 * Hosted 2015- World Food Prize Nebraska Youth Institute in Department of Agronomy and Horticulture.
 * Poster Judge (Undergraduate and Graduate) at University of Nebraska, Lincoln Spring Research Fair-2018.
 * Poster Judge (Undergraduate) at ASA, CSSA Anual meetings in Baltimore, Maryland-2018.
-
+------
 <span style="color:darkblue">**Professional Memberships**</span>
 ======
 * ASA, CSSA,and SSSA since June-2014
 * National Association of Plant Breeders since Feb. 2018
 * American Society of Plant Biologists since April 2018
-
+------
 <span style="color:darkblue">**Professional Experience**</span>
 ======
 * Associate Editor: Agronomy Journal (March 2018 to present)
 * Peer Reviewer: Agronomy Journal (American Society of Agronomy); PNAS, Biological Sciences, India; Physiology and Molecular Biology of Plants; Agronomy (MPDI). 
-
+------
 <span style="color:darkblue">**Posters**</span>
 ======
 * Development of High Density Linkage Map and Genome-Wide QTL Mapping for Grain Yield in Wheat Across Multiple Rainfed Environments. ASA, CSSA and SSSA Minneapolis, Nov. 6-9, 2106
@@ -124,8 +126,7 @@ redirect_from:
 * Genetic Analysis for Various Agro-Morphological Traits in Rice (Oryza Sativa L.) Using CMS System Under Temperate Conditions. Proc. Int. Conf Sustainable Agriculture for Food and Livelihood Security. Nov. 27-29, 2012, Ludhiana, India, crop improvement: vol. 4: pp 455-456. 
 * Hybrid Rice Research Development in Kashmir: Where Are We Now? In: Mountain Agriculture in Transition- Challenges and Way- Forward held at SKUAST-K, sep. 8-10, 2011. 
 * Breeding for Rice (Oryza sativa L.) Cold Tolerance in Genomics era. In: Indian Agriculture: Present Situation, Challenges, Remedies and Road Map, held at CSKHPKV, Palampur (H.P) on Aug 04-05, 2012.
-
-
+------
 <span style="color:darkblue">**Skills**</span>
 ======
 * Quantitative Skills
@@ -146,13 +147,12 @@ redirect_from:
   * Operating Systems: LINUX, OS X, Windows
   * LATEX
   * Perl
-  
-
+------
 <span style="color:darkblue">**Teaching Experience**</span>
 ======
 * Guest Lectures on course “Quantitative methods for genomics of complex traits”
 	* University of Nebraska Lincoln, Department of Animal Sciences
-
+------
 <span style="color:darkblue">**Invited Talks**</span>
 ======
 * Shiny Based Imaging GWAS Server, at University of Nebraska Lincoln, Deptt. of Statistics, 2018.

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm Waseem, a plant breeder and quantitative geneticist. Currently, I am a post-doctoral research associcate  at the University of Nebraska Lincoln working with [Gota Morota](http://morotalab.org/) and [Harkamal Walia](https://ard.unl.edu/phenotyping/research-teams/walia-lab). My background is plant breeding and genetics, molecular breeding, and quantitative genetics. Currently, my research focuses (i) applying methods in quantitative genetics for genome-wide association and genomic prediction of longitudinal traits derived from high-throughput phenotyping platforms in rice and wheat; (ii) modelling variance-heterogeneity in genome-wide association studies using novel statistical tools; and (iii) develop applications related to quantitative genetic studies.
+I'm Waseem, a plant breeder and quantitative geneticist. Currently, I am a post-doctoral research associcate  at the University of Nebraska Lincoln working with [Gota Morota](http://morotalab.org/) and [Harkamal Walia](http://cropstressgenomics.org/). My background is plant breeding and genetics, molecular breeding, and quantitative genetics. Currently, my research focuses (i) applying methods in quantitative genetics for genome-wide association and genomic prediction of longitudinal traits derived from high-throughput phenotyping platforms in rice and wheat; (ii) modelling variance-heterogeneity in genome-wide association studies using novel statistical tools; and (iii) develop applications related to quantitative genetic studies.
 
 Outside of my professional life I enjoy playing cricket, travelling, reading, and spending time with family.
 
