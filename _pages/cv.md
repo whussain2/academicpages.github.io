@@ -25,26 +25,27 @@ redirect_from:
 **March 2018 - Current: Postdoctoral Research Associate**
 * Department of Agronomy and Horticulture, University of Nebraska - Lincoln
 * Supervisors: [Gota Morota](https://www.apsc.vt.edu/OurPeople/Faculty/GotaMorota.html) and [Harkamal Walia](https://agronomy.unl.edu/walia)
-	* Responsibilities:
-  	* Quantitative genetic analysis of longitudinal high-throughput image data of night temperature stress in wheat and rice
+* Responsibilities:
+	* Quantitative genetic analysis of longitudinal high-throughput image data of night temperature stress in wheat and rice
 	* Perform genome-wide analysis and genomic predictions of high-throughput image data combined with high dimensional genomic, transcriptomic and metabolomics data
 	
 **May 2017 to December 2017: Research Associate Scientist-II (Wheat Breeder)**
 * Maharashtra Hybrid Seed Company ([MAHYCO](https://mahyco.com/)), Aurangabad, Jalna, India
 	* The goal was to develop wheat lines and hybrids using advanced statistical and genomics tools
 	
-**January 2014 - April 2017: [ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship(Ph.D.)**
+**January 2014 - April 2017: [ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship (Ph.D.)**
 * Department of Agronomy and Horticulture, University of Nebraska - Lincoln
+
 	* Focused on the development and evaluation of RIL mapping population related to drought tolerance
- 	* Development of high-density linkage map based on SNPs derived from genotyping by sequencing
- 	* Genome-wide QTL mapping for various agro-physiological traits phenotyped across a wide range of environments
-  	* High-throughput phenotyping in wheat and soybean using newly developed phenotyping platforms
-  	* Genome selection/predictions in Nebraska Wheat breeding program.
-  	* Gained proficiency in statistical analysis and programming including Unix operating system, Perl languages, GBS data analysis, and statistical analysis using R packages and SAS software
-  	* Conducted extensive field trials, crossing, phenoyping and data collections across multiple environments for the four years
-  	* Analyzed multi-environment phenotypic data in ASREML package in R and incorporating spatial corrections using mixed linear models and generate variance components and
-  	* BLUP/BLUE estimates for genomic selections and QTL mapping
-  	* Molecular mapping of Tan spot resistance in wheat
+	* Development of high-density linkage map based on SNPs derived from genotyping by sequencing
+	* Genome-wide QTL mapping for various agro-physiological traits phenotyped across a wide range of environments
+	* High-throughput phenotyping in wheat and soybean using newly developed phenotyping platforms
+	* Genome selection/predictions in Nebraska Wheat breeding program.
+	* Gained proficiency in statistical analysis and programming including Unix operating system, Perl languages, GBS data analysis, and statistical analysis using R packages and SAS software
+	* Conducted extensive field trials, crossing, phenoyping and data collections across multiple environments for the four years
+	* Analyzed multi-environment phenotypic data in ASREML package in R and incorporating spatial corrections using mixed linear models and generate variance components and
+	* BLUP/BLUE estimates for genomic selections and QTL mapping
+	* Molecular mapping of Tan spot resistance in wheat
   	
 **December 2011 to December 2013: Research Fellow ([INSPIRE Fellowship](http://www.inspire-dst.gov.in/))**
 * Agricultral University, [CSKHPKV](http://www.hillagric.ac.in/), Palampur India.
@@ -53,6 +54,7 @@ redirect_from:
 	
 **June 2009 - December 20111: Graduate Research Assistant (M.S.)**
 * Department of Plant Breeding and Genetics, Agricultural University [SKUAST-K](http://www.skuastkashmir.ac.in), Srinagar, india
+
   	* Focused on identification of potential restorers for newly developed temperate CMS lines and identify the heterotic combinations
   	 
 **June 2004 - May 2009: Undergraduate** 
@@ -77,16 +79,16 @@ redirect_from:
 * [USDA ICQG Award-2016](https://agronomy.unl.edu/news/bandillo-mcconaughy-and-waseem-awarded-fellowships).
 * [Best Oral Presentation Award, UNL Plant breeding Symposium-2016](https://agronomy.unl.edu/plant-breeding-symposium)
 * [Indian Council of Agricultural Research (ICAR)-International Fellowship(2014-2017)](https://icar.org.in/node/5142)
-* [Inspire Fellowship (Ministry of Science & Technology, Department of Science & Technology, India (2012-2104)] (http://www.inspire-dst.gov.in/)
+* [Inspire Fellowship (Ministry of Science & Technology, Department of Science & Technology, India (2012-2104)](http://www.inspire-dst.gov.in/)
 * [University Merit Certificate (M.Sc. Plant breeding &Genetics) (2011)](http://www.skuastkashmir.ac.in))
 * [Qualified ASRB National Eligibility Test 2012, 2013 and 2014 for Assistant Professorship](http://www.asrb.org.in/)
 
 <span style="color:darkblue">**Training and Short-courses**</span>
 ======
-* Software Carpentry Workshop on computational skills, including task automation, version control, and modular programming. Holland Computing Center, University of Nebraska, Lincoln. August 13 & 14, 2018.
-* Open Science Grid (OSG) User School 2018: Workshop on High Throughput Computing and Running Large Scale Computing Applications at University of Wisconsin Madison. July 9-13.
-* Work shop Series on Unix Shell, Git and use of HCC’s High-Performance Computing, High Throughput Computing and Cloud computing resources. Holland Computing Center, University of Nebraska Lincoln. June 05-26, 2018.
-* Short term bioinformatics training (RNA-seq and DNA-seq). ArrayGen Technologies, India, Pune . 23 Oct-21 Nov. 2017.
+* [Software Carpentry Workshop on computational skills, including task automation, version control, and modular programming. Learn Bash, Git and Python. Holland Computing Center, University of Nebraska, Lincoln. August 13 & 14, 2018](https://unlhcc.github.io/2018-08-13-NU/)
+* [Open Science Grid (OSG) User School 2018: Workshop on High Throughput Computing and Running Large Scale Computing Applications at University of Wisconsin Madison. July 9-13](https://opensciencegrid.org/user-school-2018/)
+* [Work shop Series on Unix Shell, Git and use of HCC’s High-Performance Computing, High Throughput Computing and Cloud computing resources. Holland Computing Center, University of Nebraska Lincoln. June 05-26, 2018](https://hcc.unl.edu/june-workshop-series-2018)
+* [Short term bioinformatics training (RNA-seq and DNA-seq). ArrayGen Technologies, India, Pune . 23 Oct-21 Nov. 2017](http://www.arraygen.com/workshop-training.php)
 * Understanding genome-wide association studies and other big data biological applications. University of Nebraska, Lincoln. June 23-24, 2014.
 * Fundamental writing skills workshop researchers. University of Nebraska, Lincoln. Sept 2015.
 * Write Wining Grant Proposals, University of Nebraska, Lincoln, March 18, 2016.
