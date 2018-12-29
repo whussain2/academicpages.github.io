@@ -1,0 +1,11 @@
+---
+title: "ShinyAim: Shiny-Based Application of Interactive Manhattan Plots for Longitudinal GWAS"
+collection: talks
+type: "Conference Talk"
+permalink: /talks/2018-11-06-Shiny-Based-Application-of-Interactive-Manhattan-Plots-for-Longitudinal-GWAS.
+venue: "ASA, CSSA Meeting (2018)"
+date: 2018-11-06
+location: "Baltimore, Maryland"
+---
+
+Here I am talking about our developed application ShinyAIM. It is Shiny based application aimed to visualize the interactive Manhattan plots for longitudinal data. The paper describing the ShinyAIM is published[here](https://doi-org.libproxy.unl.edu/10.1002/pld3.91).
