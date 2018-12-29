@@ -21,7 +21,7 @@ Interested in incorporating quantitative genetics, statistical genomics, bioinfo
 
 ------
 
-> <span style="color:darkred">"Innovations do not come from brain, innovations do come from sharing of ideas"</span>
-> <span style="color:darkred">"Together we can make things better"</span>
+> <span style="color:darkred">-Innovations do not come from brain, innovations do come from sharing of ideas</span>
+> <span style="color:darkred">-Together we can make things better</span>
 >
-> --- <p style='text-align: Right;'>Anonymous</p>
+> --- <span style='text-align: Right">Anonymous</span>
