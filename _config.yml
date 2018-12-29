@@ -86,7 +86,7 @@ author:
   location         : "Lincoln, Nebraska, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=ECbwMvkAAAAJ&hl=en"
-  email            :
+  email            : "waseemhussain907@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Waseem_Hussain2"
   uri              :
   bitbucket        :
@@ -178,10 +178,10 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  talks:
     output: true
     permalink: /:collection/:path/
-  talks:
+ resources:
     output: true
     permalink: /:collection/:path/
 
