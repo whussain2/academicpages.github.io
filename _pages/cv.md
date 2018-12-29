@@ -148,6 +148,8 @@ redirect_from:
 
 <span style="color:darkblue">**Skills**</span>
 ======
+
+------
 * Quantitative Skills
   * Genotyping-by-sequencing data analysis
   * Quantitative Genetics
