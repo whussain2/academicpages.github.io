@@ -30,7 +30,7 @@ redirect_from:
  * May 2017 to December 2017: Research Associate Scientist-II (Wheat Breeder)
 	* Maharashtra Hybrid Seed Company ([MAHYCO](https://mahyco.com/)), Aurangabad, Jalna, India
 	* The goal was to develop wheat lines and hybrids using advanced statistical and genomics tools.
-* January 2014 - April 2017: [ICAR](https://icar.org.in/) International Fellow and Graduate Research Assista(Ph.D.)
+* January 2014 - April 2017: [ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship(Ph.D.)
   * Department of Agronomy and Horticulture, University of Nebraska - Lincoln
   * Supervisor: P. Stephen Baenziger
   * Focused on the development and evaluation of RIL mapping population related to drought tolerance. 
@@ -69,13 +69,13 @@ Talks
 Awards and Fellowships
 ======
 * [Open Science Grid User School Travel Grant Award 2018](https://opensciencegrid.org/user-school-2018/).
-* Travel Grant Award Kansas State Plant Breeding Symposium-2017.
-* USDA ICQG Award-2016.
-* Best Oral Presentation Award, UNL Plant breeding Symposium-2016
-* Indian Council of Agricultural Research (ICAR)-International Fellowship (2014-2017)
-* Inspire Fellowship (Ministry of Science & Technology, Department of Science & Technology, India (2012-2104).
-* University Merit Certificate (M.Sc. Plant breeding &Genetics) (2011).
-* Qualified ASRB National Eligibility Test 2012, 2013 and 2014 for Assistant Professorship.
+* [Travel Grant Award Kansas State Plant Breeding Symposium-2017](https://www.k-state.edu/pbg/symposium2017/speakers.html)
+* [USDA ICQG Award-2016](https://agronomy.unl.edu/news/bandillo-mcconaughy-and-waseem-awarded-fellowships).
+* [Best Oral Presentation Award, UNL Plant breeding Symposium-2016](https://agronomy.unl.edu/plant-breeding-symposium)
+* [Indian Council of Agricultural Research (ICAR)-International Fellowship(2014-2017)](https://icar.org.in/node/5142)
+* [Inspire Fellowship (Ministry of Science & Technology, Department of Science & Technology, India (2012-2104)] (http://www.inspire-dst.gov.in/)
+* [University Merit Certificate (M.Sc. Plant breeding &Genetics) (2011)](http://www.skuastkashmir.ac.in))
+* [Qualified ASRB National Eligibility Test 2012, 2013 and 2014 for Assistant Professorship](http://www.asrb.org.in/)
 
 Training and Short-Courses
 ======
@@ -120,12 +120,6 @@ Posters
 * Hybrid Rice Research Development in Kashmir: Where Are We Now? In: Mountain Agriculture in Transition- Challenges and Way- Forward held at SKUAST-K, sep. 8-10, 2011. 
 * Breeding for Rice (Oryza sativa L.) Cold Tolerance in Genomics era. In: Indian Agriculture: Present Situation, Challenges, Remedies and Road Map, held at CSKHPKV, Palampur (H.P) on Aug 04-05, 2012.
 
-Awards
-======
-* 2017: Student Oral Presentation Award, Nebraska Plant Breeding Symposium, University of Nebraska Lincoln, Department of Agronomy and Horticulture
-* 2016: Best Oral Presentation, UNL Plant Science Retreat, University of Nebraska Lincoln, Plant Science Initiative
-* 2012: Hardin Distinguished Graduate Fellowship, University of Nebraska Lincoln, Department of Agronomy and Horticulture
-* 2010: Plant Science Excellence Award: Rutgers, Cook College, Department of Plant Science
 
 Skills
 ======
@@ -152,9 +146,7 @@ Skills
 Teaching Experience
 ======
 * Guest Lectures on course “Quantitative methods for genomics of complex traits”
-	* University of Nebraska Lincoln
-	* Department of Animal Sciences
-	
+	* University of Nebraska Lincoln, Department of Animal Sciences
 Invited Talks
 ======
 * Shiny Based Imaging GWAS Server, at University of Nebraska Lincoln, Deptt. of Statistics, 2018.
