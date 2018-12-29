@@ -89,7 +89,7 @@ Training and Short-Courses
 
 Open Source Contributions and Software Development 
 ======
-* ShinyAIM: Shiny-based Application of Interactive Manhattan Plots for Longitudinal GWAS using R and Shiny. The application is available online at <href='https://chikudaisei.shinyapps.io/shinyaim/'</a>. The source code and materials can be downloaded from GitHub <href='https://github.com/whussain2/ShinyAIM'</a>
+* ShinyAIM: Shiny-based Application of Interactive Manhattan Plots for Longitudinal GWAS using R and Shiny. The application is available online at https://chikudaisei.shinyapps.io/shinyaim/. The source code and materials can be downloaded from GitHub https://github.com/whussain2/ShinyAIM
 
 
 Leadership Roles
