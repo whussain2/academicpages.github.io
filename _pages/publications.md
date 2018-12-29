@@ -30,7 +30,7 @@ ShinyAIM is a nice tool to visualize the Manhattan plots in interactive and easy
 
 <br>
 
-![Hussain2018](http://whussain2.github.io/images/hussain_2018_JPR.jpg){: .align-left height="200px" width="186px"}
+![Hussain2018](http://whussain2.github.io/images/hussain_2018_jpr.jpg){: .align-left height="200px" width="186px"}
 
 <b>[Registration of a bread Wheat recombinant inbred line mapping population derived from a cross between ‘Harry’ and ‘Wesley’.](http://whussain2.github.io/publications/2018-07-02-Registration-of-a-bread-wheat-recombinant-inbred-line-mapping-population-derived-from-a-cross-between-Harry-and-Wesley)</b> <b>Hussain, W. </b>, M.J. Guttieri, V. Belamkar, J. Polland, A.Sallam, and P. Baenziger.(2018). <i>Journal of Plant Registrations</i>.
 

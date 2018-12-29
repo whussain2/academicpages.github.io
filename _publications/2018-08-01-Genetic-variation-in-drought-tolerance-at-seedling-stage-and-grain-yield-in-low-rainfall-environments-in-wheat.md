@@ -1,5 +1,5 @@
 ---
-title: "Genetic variation in drought tolerance at seedling stage and grain yield in low rainfall environments in wheat"
+title: "Genetic variation in drought tolerance at seedling stage and grain yield in low rainfall environments in wheat (<i> Triticum aestivum L.<i/>)."
 collection: publications
 permalink: /publications/2018-08-01-Genetic-variation-in-drought-tolerance-at-seedling-stage-and-grain-yield-in-low-rainfall-environments-in-wheat
 excerpt: 'The manuscript describes the newly developed protocol to identify the drought genotypes in winter wheat at seedling stage in the green house and compare it across the field trials.'
