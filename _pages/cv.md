@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae,"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+<span style="color:red">some **Education** text</span>
 ======
 * B.S., Agriculture Specialization in Research, [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, June 2009
 * M.S., Plant Breeding and Genetics, [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, December 2011
