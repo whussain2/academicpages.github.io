@@ -18,19 +18,19 @@ redirect_from:
   * Dissertation: "Development of High-Density Linkage Map and QTL Mapping For Agronomic Traits in Bread Wheat Evaluated Across Multiple Rainfed Environments".
   * Advisor: [Dr. Stephen Baenziger](https://agronomy.unl.edu/baenziger)
   
-Research Experience
+<span style="color:darkblue">**Research Experience**</span>
 ======
 * March 2018 - Current: Postdoctoral Research Associate
-  * Department of Animal Science, and Department of Agronomy and Horticulture, University of Nebraska - Lincoln
-  * Supervisor: Gota Morota and Harkamal Walia
+  * Department of Agronomy and Horticulture, University of Nebraska - Lincoln
+  * Supervisor: [Gota Morota](https://www.apsc.vt.edu/OurPeople/Faculty/GotaMorota.html) and [Harkamal Walia](https://agronomy.unl.edu/walia)
   * Responsibilities
   	* Quantitative genetic analysis of longitudinal high-throughput image data of night temperature stress in wheat and rice.
 	* Perform genome-wide analysis and genomic predictions of high-throughput image data combined with high dimensional genomic, transcriptomic and metabolomics data.
 	* Software developments in R, and Shiny.
  * May 2017 to December 2017: Research Associate Scientist-II (Wheat Breeder)
-	* Maharashtra Hybrid Seed Company (MAHYCO), Aurangabad, Jalna, India
+	* Maharashtra Hybrid Seed Company ([MAHYCO](https://mahyco.com/)), Aurangabad, Jalna, India
 	* The goal was to develop wheat lines and hybrids using advanced statistical and genomics tools.
-* January 2014 - April 2017: ICAR International Fellow and Graduate Research Assista(Ph.D.)
+* January 2014 - April 2017: [ICAR](https://icar.org.in/) International Fellow and Graduate Research Assista(Ph.D.)
   * Department of Agronomy and Horticulture, University of Nebraska - Lincoln
   * Supervisor: P. Stephen Baenziger
   * Focused on the development and evaluation of RIL mapping population related to drought tolerance. 
@@ -43,13 +43,13 @@ Research Experience
   * Analyzed multi-environment phenotypic data in ASREML package in R and incorporating spatial corrections using mixed linear models and generate variance components and
   * BLUP/BLUE estimates for genomic selections and QTL mapping
   * Molecular mapping of Tan spot resistance in wheat.
-* December 2011 to December 2013: Graduate Research Fellow (INSPIRE Fellowship)
-	* Agricultral University, CSKHPKV, Palampur India.
+* December 2011 to December 2013: Research Fellow ([INSPIRE Fellowship](http://www.inspire-dst.gov.in/))
+	* Agricultral University, [CSKHPKV](http://www.hillagric.ac.in/), Palampur India.
     * Diversity analysis in oats, screening and molecular mapping of powdery mildew resistance in oats.
 	* Also, focused on double haploid breeding in wheat using Imperata cylindrica grass.
 * June 2009 - December 20111: Graduate Research Assistant (M.S.)
-  * Department of Plant Breeding and Genetics, Agricultural University SKUAST-K, Srinagar, india
-  * Supervisor: Dr. Gulzar Singh Sanghera
+  * Department of Plant Breeding and Genetics, Agricultural University [SKUAST-K](http://www.skuastkashmir.ac.in), Srinagar, india
+  * Supervisor: [Dr. Gulzar Singh Sanghera](https://www.researchgate.net/profile/Gulzar_S_Sanghera)
   * Focused on identification of potential restorers for newly developed temperate CMS lines and identify the heterotic combinations. 
 * June 2004 - May 2009: Undergraduate 
 
@@ -68,7 +68,7 @@ Talks
   
 Awards and Fellowships
 ======
-* Open Science Grid User School Travel Grant Award 2018.
+* [Open Science Grid User School Travel Grant Award 2018](https://opensciencegrid.org/user-school-2018/).
 * Travel Grant Award Kansas State Plant Breeding Symposium-2017.
 * USDA ICQG Award-2016.
 * Best Oral Presentation Award, UNL Plant breeding Symposium-2016
