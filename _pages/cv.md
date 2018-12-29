@@ -22,7 +22,7 @@ redirect_from:
   
 <span style="color:darkblue">**Research Experience**</span>
 ======
-* March 2018 - Current: Postdoctoral Research Associate
+* **March 2018 - Current: Postdoctoral Research Associate**
 * Department of Agronomy and Horticulture, University of Nebraska - Lincoln
 * Supervisor: [Gota Morota](https://www.apsc.vt.edu/OurPeople/Faculty/GotaMorota.html) and [Harkamal Walia](https://agronomy.unl.edu/walia)
 	* Responsibilities:
