@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S., Agriculture Specialization in Research, SKUAST-K, Srinagar, India, June 2009
-* M.S., Plant Breeding and Genetics, SKUAST-K, Srinagar, India, December 2011
+* B.S., Agriculture Specialization in Research, [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, June 2009
+* M.S., Plant Breeding and Genetics, [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, December 2011
 	* Dissertation: " Genetic Studies on Heterosis and Combining Ability for Hybrid Rice (<i>Oryza sativa</i>) Development Under Temperate Conditions"
-* Ph.D., Agronomy, Specialization in Plant Breeding and Genetics, University of Nebraska - Lincoln, May 2017
+* Ph.D., Agronomy, Specialization in Plant Breeding and Genetics, [University of Nebraska](https://www.unl.edu/) - Lincoln, May 2017
   * Dissertation: "Development of High-Density Linkage Map and QTL Mapping For Agronomic Traits in Bread Wheat Evaluated Across Multiple Rainfed Environments".
-  * Advisor: Dr. Stephen Baenziger
+  * Advisor: [Dr. Stephen Baenziger](https://agronomy.unl.edu/baenziger)
   
 Research Experience
 ======
@@ -89,7 +89,7 @@ Training and Short-Courses
 
 Open Source Contributions and Software Development 
 ======
-* ShinyAIM: Shiny-based Application of Interactive Manhattan Plots for Longitudinal GWAS using R and Shiny. The application is available online at [!](https://chikudaisei.shinyapps.io/shinyaim/). The source code and materials can be downloaded from GitHub [!](https://github.com/whussain2/ShinyAIM)
+* ShinyAIM: Shiny-based Application of Interactive Manhattan Plots for Longitudinal GWAS using R and Shiny. The application is available online at [https://chikudaisei.shinyapps.io/shinyaim/](https://chikudaisei.shinyapps.io/shinyaim/). The source code and materials can be downloaded from GitHub [https://github.com/whussain2/ShinyAIM](https://github.com/whussain2/ShinyAIM)
 
 
 Leadership Roles
