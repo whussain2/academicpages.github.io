@@ -7,7 +7,7 @@ author_profile: true
 <br>
 
 ## Peer-reviewed Publications
-![Kariyawasam2018](http://whussain2.github.io/images/kariyawasam_2018_molecular_breeding.jpg){: .align-right height="200px" width="191px"}
+![Kariyawasam2018](http://whussain2.github.io/images/kariyawasam_2018.jpg){: .align-right height="200px" width="191px"}
 <b>[Identification of quantitative trait loci conferring resistance to tan spot in a bi-parental population derived from two Nebraskan hard red winter wheat cultivars.](http://whussain2.github.io/publications/2018-11-01-Identification-of-quantitative-trait-loci-conferring-resistance-to-tan-spot-in-a-bi-parental-population-derived-from-two-Nebraskan-hard-red-winter-wheat-cultivars)</b> Kariyawasam, G.K., <b>W. Hussain</b>, A. Easterly, M. Guttieri, V. Belamkar, J. Poland, J. Venegas, S. Baenziger, F. Marias, J.B. Rasmussen, and Z.(2018). <i>Molecular Breeding</i>.
 
 This paper characterizes the Tan spot resistance in Harry and Wesley cultivars and reveals high resistance to tan spot in Wesley cultivar is largely due to lack of two <i> Ptr ToxA-Tsn1 <i\> and <i>Ptr ToxC-Tsc1 <i\> tan spot sensitivity genes.
