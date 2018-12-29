@@ -28,9 +28,11 @@ redirect_from:
 	* Responsibilities:
   	* Quantitative genetic analysis of longitudinal high-throughput image data of night temperature stress in wheat and rice
 	* Perform genome-wide analysis and genomic predictions of high-throughput image data combined with high dimensional genomic, transcriptomic and metabolomics data
+	
 **May 2017 to December 2017: Research Associate Scientist-II (Wheat Breeder)**
 * Maharashtra Hybrid Seed Company ([MAHYCO](https://mahyco.com/)), Aurangabad, Jalna, India
 	* The goal was to develop wheat lines and hybrids using advanced statistical and genomics tools
+	
 **January 2014 - April 2017: [ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship(Ph.D.)**
 * Department of Agronomy and Horticulture, University of Nebraska - Lincoln
 	* Focused on the development and evaluation of RIL mapping population related to drought tolerance
@@ -42,14 +44,17 @@ redirect_from:
   	* Conducted extensive field trials, crossing, phenoyping and data collections across multiple environments for the four years
   	* Analyzed multi-environment phenotypic data in ASREML package in R and incorporating spatial corrections using mixed linear models and generate variance components and
   	* BLUP/BLUE estimates for genomic selections and QTL mapping
-  	* Molecular mapping of Tan spot resistance in wheat.
+  	* Molecular mapping of Tan spot resistance in wheat
+  	
 **December 2011 to December 2013: Research Fellow ([INSPIRE Fellowship](http://www.inspire-dst.gov.in/))**
 * Agricultral University, [CSKHPKV](http://www.hillagric.ac.in/), Palampur India.
     * Diversity analysis in oats, screening and molecular mapping of powdery mildew resistance in oats
 	* Also, focused on double haploid breeding in wheat using Imperata cylindrica grass
+	
 **June 2009 - December 20111: Graduate Research Assistant (M.S.)**
 * Department of Plant Breeding and Genetics, Agricultural University [SKUAST-K](http://www.skuastkashmir.ac.in), Srinagar, india
-  	* Focused on identification of potential restorers for newly developed temperate CMS lines and identify the heterotic combinations. 
+  	* Focused on identification of potential restorers for newly developed temperate CMS lines and identify the heterotic combinations
+  	 
 **June 2004 - May 2009: Undergraduate** 
 
   
