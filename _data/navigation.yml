@@ -1,8 +1,5 @@
 # main links links
-
 main:
-colors:
-  blue:      '#49a7e9'
   - title: "Publications"
     url: /publications/
 
