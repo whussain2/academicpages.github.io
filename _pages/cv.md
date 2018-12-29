@@ -22,7 +22,7 @@ redirect_from:
   
 <span style="color:darkblue">**Research Experience**</span>
 ======
-**March 2018 - Current: Postdoctoral Research Associate**
+**March 2018 to Current: Postdoctoral Research Associate**
 * Department of Agronomy and Horticulture, University of Nebraska - Lincoln
 * Supervisors: [Gota Morota](https://www.apsc.vt.edu/OurPeople/Faculty/GotaMorota.html) and [Harkamal Walia](https://agronomy.unl.edu/walia)
 * Responsibilities:
@@ -33,7 +33,7 @@ redirect_from:
 * Maharashtra Hybrid Seed Company ([MAHYCO](https://mahyco.com/)), Aurangabad, Jalna, India
 	* The goal was to develop wheat lines and hybrids using advanced statistical and genomics tools
 	
-**January 2014 - April 2017: [ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship (Ph.D.)**
+**January 2014 to April 2017: [ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship (Ph.D.)**
 * Department of Agronomy and Horticulture, University of Nebraska - Lincoln
 
 	* Focused on the development and evaluation of RIL mapping population related to drought tolerance
@@ -52,11 +52,11 @@ redirect_from:
     * Diversity analysis in oats, screening and molecular mapping of powdery mildew resistance in oats
 	* Also, focused on double haploid breeding in wheat using Imperata cylindrica grass
 	
-**June 2009 - December 20111: Graduate Research Assistant (M.S.)**
+**June 2009 to December 2011: Graduate Research Assistant (M.S.)**
 * Department of Plant Breeding and Genetics, Agricultural University [SKUAST-K](http://www.skuastkashmir.ac.in), Srinagar, india
 	* Focused on identification of potential restorers for newly developed temperate CMS lines and identify the heterotic combinations
   	 
-**June 2004 - May 2009: Undergraduate** 
+**June 2004 to May 2009: Undergraduate** 
 
   
 <span style="color:darkblue">**Publications**</span>
