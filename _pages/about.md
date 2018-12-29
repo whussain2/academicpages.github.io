@@ -20,3 +20,7 @@ Research Interests
 Interested in incorporating quantitative genetics, statistical genomics, bioinformatics and high-throughput phenotyping to bridge the gap between phenotype and genotype. The primary research areas I want to focus is a characterization of alleles and diversity analysis using advanced genomic technologies, mapping (via linkage and or association) QTLs with emphasis on biotic and abiotic stresses, genomic selection/predictions in cultivar and hybrid development, gene cloning and characterization of candidate genes and marker-assisted breeding.
 
 ****
+
+> "Innovations do not come from brain, innovations do come from sharing of ideas."
+>
+> --- Anonymous
