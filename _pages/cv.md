@@ -54,19 +54,19 @@ redirect_from:
 * June 2004 - May 2009: Undergraduate 
 
   
-Publications
+<span style="color:darkblue">**Publications**</span>
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+<span style="color:darkblue">**Talks**</span>
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Awards and Fellowships
+<span style="color:darkblue">**Awards and Fellowships**</span>
 ======
 * [Open Science Grid User School Travel Grant Award 2018](https://opensciencegrid.org/user-school-2018/).
 * [Travel Grant Award Kansas State Plant Breeding Symposium-2017](https://www.k-state.edu/pbg/symposium2017/speakers.html)
@@ -77,7 +77,7 @@ Awards and Fellowships
 * [University Merit Certificate (M.Sc. Plant breeding &Genetics) (2011)](http://www.skuastkashmir.ac.in))
 * [Qualified ASRB National Eligibility Test 2012, 2013 and 2014 for Assistant Professorship](http://www.asrb.org.in/)
 
-Training and Short-Courses
+<span style="color:darkblue">**Training and Short-courses**</span>
 ======
 * Software Carpentry Workshop on computational skills, including task automation, version control, and modular programming. Holland Computing Center, University of Nebraska, Lincoln. August 13 & 14, 2018.
 * Open Science Grid (OSG) User School 2018: Workshop on High Throughput Computing and Running Large Scale Computing Applications at University of Wisconsin Madison. July 9-13.
@@ -87,12 +87,12 @@ Training and Short-Courses
 * Fundamental writing skills workshop researchers. University of Nebraska, Lincoln. Sept 2015.
 * Write Wining Grant Proposals, University of Nebraska, Lincoln, March 18, 2016.
 
-Open Source Contributions and Software Development 
+<span style="color:darkblue">**Open Source Contribution**</span>
 ======
 * ShinyAIM: Shiny-based Application of Interactive Manhattan Plots for Longitudinal GWAS using R and Shiny. The application is available online at [https://chikudaisei.shinyapps.io/shinyaim/](https://chikudaisei.shinyapps.io/shinyaim/). The source code and materials can be downloaded from GitHub [https://github.com/whussain2/ShinyAIM](https://github.com/whussain2/ShinyAIM)
 
 
-Leadership Roles
+<span style="color:darkblue">**Leadership Roles**</span>
 ======
 * A representative of Department of Agronomy and Horticulture Safety Committee in the year 2015.
 * Member of organizing a committee of UNL plant breeding symposium-2016.
@@ -100,18 +100,18 @@ Leadership Roles
 * Poster Judge (Undergraduate and Graduate) at University of Nebraska, Lincoln Spring Research Fair-2018.
 * Poster Judge (Undergraduate) at ASA, CSSA Anual meetings in Baltimore, Maryland-2018.
 
-Professional Memberships
+<span style="color:darkblue">**Professional Memberships**</span>
 ======
 * ASA, CSSA,and SSSA since June-2014
 * National Association of Plant Breeders since Feb. 2018
 * American Society of Plant Biologists since April 2018
 
-Professional Experience 
+<span style="color:darkblue">**Professional Experience**</span>
 ======
 * Associate Editor: Agronomy Journal (March 2018 to present)
 * Peer Reviewer: Agronomy Journal (American Society of Agronomy); PNAS, Biological Sciences, India; Physiology and Molecular Biology of Plants; Agronomy (MPDI). 
 
-Posters
+<span style="color:darkblue">**Posters**</span>
 ======
 * Development of High Density Linkage Map and Genome-Wide QTL Mapping for Grain Yield in Wheat Across Multiple Rainfed Environments. ASA, CSSA and SSSA Minneapolis, Nov. 6-9, 2106
 * SNP Discovery in Wheat RIL Population Using Genotyping-by-Sequencing and Genome-Wide QTL Mapping for Plant Height. Conference: 5th International Conference on Quantitative Genetics, At Madison, Wisconsin, USA. DOI: 10.13140/RG.2.1.1949.6567
@@ -121,7 +121,7 @@ Posters
 * Breeding for Rice (Oryza sativa L.) Cold Tolerance in Genomics era. In: Indian Agriculture: Present Situation, Challenges, Remedies and Road Map, held at CSKHPKV, Palampur (H.P) on Aug 04-05, 2012.
 
 
-Skills
+<span style="color:darkblue">**Skills**</span>
 ======
 * Quantitative Skills
   * Genotyping-by-sequencing data analysis
@@ -143,11 +143,12 @@ Skills
   * Perl
   
 
-Teaching Experience
+<span style="color:darkblue">**Teaching Experience**</span>
 ======
 * Guest Lectures on course “Quantitative methods for genomics of complex traits”
 	* University of Nebraska Lincoln, Department of Animal Sciences
-Invited Talks
+
+<span style="color:darkblue">**Invited Talks**</span>
 ======
 * Shiny Based Imaging GWAS Server, at University of Nebraska Lincoln, Deptt. of Statistics, 2018.
 * New tools to Understand and Improve Wheat in Genomics Era, at Maharashtra Hybrid Seed Company (MAHYCO), India, 2017.
