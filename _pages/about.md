@@ -21,6 +21,6 @@ Interested in incorporating quantitative genetics, statistical genomics, bioinfo
 
 ------
 
->  <i> "Innovations do not come from brain, innovations do come from sharing of ideas" <i/>
+>  <span style="color:darkblue"> **"Innovations do not come from brain, innovations do come from sharing of ideas"**</span>
 >
 > ---                                                                    Anonymous
