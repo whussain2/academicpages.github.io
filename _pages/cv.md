@@ -89,7 +89,8 @@ Training and Short-Courses
 
 Open Source Contributions and Software Development 
 ======
-* ShinyAIM: Shiny-based Application of Interactive Manhattan Plots for Longitudinal GWAS using R and Shiny.
+* ShinyAIM: Shiny-based Application of Interactive Manhattan Plots for Longitudinal GWAS using R and Shiny. The application is available online at <href='https://chikudaisei.shinyapps.io/shinyaim/'</a>. The source code and materials can be downloaded from GitHub <href='https://github.com/whussain2/ShinyAIM'</a>
+
 
 Leadership Roles
 ======
@@ -156,7 +157,6 @@ Teaching Experience
 	
 Invited Talks
 ======
-* 
 * Shiny Based Imaging GWAS Server, at University of Nebraska Lincoln, Deptt. of Statistics, 2018.
 * New tools to Understand and Improve Wheat in Genomics Era, at Maharashtra Hybrid Seed Company (MAHYCO), India, 2017.
 * Genotyping-by-sequencing derived high-density linkage map and its application to QTL mapping of flag leaf traits in bread wheat” at Kansas State Plant Breeding symposium, 2017.
