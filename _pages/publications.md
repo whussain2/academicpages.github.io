@@ -7,7 +7,7 @@ author_profile: true
 <br>
 
 ## Peer-reviewed Publications
-![Kariyawasam2018](http://whussain2.github.io/images/kariyawasam_2018.jpg){: .align-right height="300px" width="291px"}
+![Kariyawasam2018](http://whussain2.github.io/images/kariyawasam_2018.jpg){: .align-right height="260px" width="250px"}
 <b>[Identification of quantitative trait loci conferring resistance to tan spot in a bi-parental population derived from two Nebraskan hard red winter wheat cultivars.](http://whussain2.github.io/publications/2018-11-01-Identification-of-quantitative-trait-loci-conferring-resistance-to-tan-spot-in-a-bi-parental-population-derived-from-two-Nebraskan-hard-red-winter-wheat-cultivars)</b> Kariyawasam, G.K., <b>W. Hussain</b>, A. Easterly, M. Guttieri, V. Belamkar, J. Poland, J. Venegas, S. Baenziger, F. Marias, J.B. Rasmussen, and Z.(2018). <i>Molecular Breeding</i>.
 
 This paper characterizes the Tan spot resistance in Harry and Wesley cultivars and reveals high resistance to tan spot in Wesley cultivar is largely due to lack of two *Ptr ToxA-Tsn1* and *Ptr ToxC-Tsc1* tan spot sensitivity genes.
@@ -22,7 +22,7 @@ ShinyAIM is a nice tool to visualize the Manhattan plots in interactive and easy
 
 <br>
 
-![Sallam2018](http://whussain2.github.io/images/sallam_2018_euphytica.jpg){: .align-right height="350px" width="290px"}
+![Sallam2018](http://whussain2.github.io/images/sallam_2018_euphytica.jpg){: .align-right height="390px" width="320px"}
 
 <b>[Genetic variation in drought tolerance at seedling stage and grain yield in low rainfall environments in wheat.](http://whussain2.github.io/publications/2018-08-01-Genetic-variation-in-drought-tolerance-at-seedling-stage-and-grain-yield-in-low-rainfall-environments-in-wheat)</b> A. Sallam, A. Mourad, <b>W. Hussain</b>, P. Baenziger.(2018).<i> Euphytica</i>.
 
@@ -30,7 +30,7 @@ The manuscript describes the newly developed protocol to identify the drought ge
 
 <br>
 
-![Hussain2018](http://whussain2.github.io/images/hussain_2018_reg.jpg){: .align-right height="350px" width="290px"}
+![Hussain2018](http://whussain2.github.io/images/hussain_2018_reg.jpg){: .align-right height="390px" width="230px"}
 
 <b>[Registration of a bread Wheat recombinant inbred line mapping population derived from a cross between ‘Harry’ and ‘Wesley’.](http://whussain2.github.io/publications/2018-07-02-Registration-of-a-bread-wheat-recombinant-inbred-line-mapping-population-derived-from-a-cross-between-Harry-and-Wesley)</b> <b>W. Hussain </b>, M.J. Guttieri, V. Belamkar, J. Polland, A.Sallam, and P. Baenziger.(2018). <i>Journal of Plant Registrations</i>.
 
@@ -38,7 +38,7 @@ The manuscript describes the newly developed protocol to identify the drought ge
 
 <br>
 
-![Belamkar2018](http://whussain2.github.io/images/belamkar_2018_g3.jpg){: .align-right height="350px" width="290px"}
+![Belamkar2018](http://whussain2.github.io/images/belamkar_2018_g3.jpg){: .align-right height="310px" width="290px"}
 
 <b>[Genomic selection in preliminary yield trials in a winter wheat breeding program.](http://whussain2.github.io/publications/2018-06-19-Genomic-selection-in-preliminary-yield-trials-in-a-winter-wheat-breeding-program)</b> Belamkar, V., M.J. Guttieri, <b>W. Hussain</b>, D. Jarquin, I. Ei-basyoni, J. Polland, A.J. Lorenz, and P. Baenziger.(2017). <i>G3</i>.
 
@@ -47,7 +47,7 @@ The manuscript provides insights and assesses the the integration of genomic sel
 
 <br>
 
-![Jamwal2018](http://whussain2.github.io/images/jamwal_2018_currentmicro.jpg){: .align-right height="350px" width="290px"}
+![Jamwal2018](http://whussain2.github.io/images/jamwal_2018_currentmicro.jpg){: .align-right height="350px" width="200px"}
 
 <b>[Success in inducing effective rooting in triticale x wheat and wheat x wheat derived haploid plantlets in cocopeat mixture.](http://whussain2.github.io/publications/2018-05-10-Success-in-inducing-effective-rooting-in-triticale-x-wheat-and-wheat-x-wheat-derived-haploid-plantlets-in-cocopeat-mixture)</b> N.S. Jamwal, H.K. Chaudhary, A. Badiyal, <b> W. Hussain</b> , P. Katoch, N. Kumar.(2018). <i>International Journal of Current Microbiology and Applied Sciences</i>.
 
@@ -55,7 +55,7 @@ The manuscript reveals the success of  the Cocopeat mixture in inducing rooting 
 
 <br>
 
-![Hussain2017](http://whussain2.github.io/images/hussain_2017_sr.jpg){: .align-right height="200px" width="186px"}
+![Hussain2017](http://whussain2.github.io/images/hussain_2017_sr.jpg){: .align-right height="300px" width="220px"}
 
 <b>[Genotyping-by-sequencing derived high-density linkage map and its application to QTL mapping of flag leaf traits in bread wheat](http://whussain2.github.io/publications/2017-11-27-Genotyping-by-sequencing-derived-high-density-linkage-map-and-its-application-to-QTL-mapping-of-flag-leaf-traits-in-bread-wheat)</b> <b>W. Hussain </b>,  P. Baenziger, V. Belamkar, M.J. Guttieri, J.P. Venegas, A. Easterly, J. Polland, A.Sallam. (2018). <i>Scientific Reports</i>.
 
@@ -63,7 +63,7 @@ The manuscript reveals the success of  the Cocopeat mixture in inducing rooting 
 
 <br>
 
-![Bai2016](http://whussain2.github.io/images/bai_2016_computers_electronics_agriculture.jpg){: .align-right height="200px" width="186px"}
+![Bai2016](http://whussain2.github.io/images/bai_2016_computers_electronics_agriculture.jpg){: .align-right height="280px" width="220px"}
 
 <b>[A multi-sensor system for high throughput field phenotyping in soybean and wheat breeding.](http://whussain2.github.io/publications/2016-10-14-A-multi-sensor-system-for-high-throughput-field-phenotyping-in-soybean-and-wheat-breeding) </b>B. Geng, Y. Ge, <b>W. Hussain</b>, P.S. Baenziger, G.Graef.(2017). <i>Computers and Electronics in Agriculture</i>.
 
