@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+a {
+    text-decoration: none;
+    }
+
 ------
 
 <span style="color:black">**Education**</span>
@@ -146,9 +150,6 @@ redirect_from:
 ------
 
 <span style="color:black">**Posters**</span>
-a {
-text-decoration: none;
-}
 ======
 ------
 * [Lata, S., Guleria, S.K., Thakur, K., Kumari, R., Rana, M., and **Hussain, W**: Introgression of *Opaque2* Gene Through Marker-Assisted Backcross Breeding in Elite Maize Inbred Lines. 13th Asian Maize Conference and Expert Consultation on Maize for Food, Feed, Nutrition and Environmental Security, Ludhiana, India October 8-10,2018. P140.](https://maize.org/wp-content/uploads/sites/5/2018/09/13thAMCBookofAbstracts.pdf)
@@ -162,8 +163,6 @@ text-decoration: none;
 * [**Hussain, W**., Baenziger, P.B., Belamkar, V., Guttieri, M.J., Easterly, A., Venegas, J.P., Guedira, G.B., Poland, J: SNP Discovery in Wheat RIL Population Using Genotyping-by-Sequencing and Genome-Wide QTL Mapping for Plant Height. Conference: 5th International Conference on Quantitative Genetics, At Madison, Wisconsin, USA.](https://www.researchgate.net/publication/304116172_SNP_Discovery_in_Wheat_RIL_Population_Using_Genotyping-by-Sequencing_and_Genome-Wide_QTL_Mapping_for_Plant_Height)
 * [Belamkar, V.,  Guttieri, M.J., El-Basyoni, I., **Hussain, W**., Poland, J., Jarquín, D., Lorenz, A.J., Baenziger, P.B: Genomic Selection Shows Promise for Improving Winter Wheat: Insights from the University of Nebraska-Lincoln Wheat Breeding Program. Conference: 5th International Conference on Quantitative Genetics, At Madison, Wisconsin, USA.](https://www.researchgate.net/publication/304116191_Genomic_selection_shows_promise_for_improving_winter_wheat_Insights_from_the_University_of_Nebraska-Lincoln_wheat_breeding_program)
 * [Belamkar, V.,  Guttieri, M.J., El-Basyoni, I., **Hussain, W**., Poland, J., Jarquín, D., Lorenz, A.J., Baenziger, P.B: Integration of Genomic Selection in the Nebraska Wheat Breeding Program. Plant and Animal Genome Conference XXIV,, San Diego, CA; 01/2016](https://www.researchgate.net/publication/290998355_Integration_of_genomic_selection_in_the_Nebraska_wheat_breeding_program)
-* [Hussain, W., Stephen, P.B, Guttieri, M.J., Easterly, A., Venegas, J.P., Guedira, G.B., Poland, J: Mapping QTLs for Plant Height Variation in RIL Population Derived from Cross Between Harry X Wesley Semi-Dwarf Wheat Lines. ASA, CSSA and SSSA Minneapolis, Nov. 15-18, 2105.](https://scisoc.confex.com/crops/2015am/webprogram/Paper92536.html)
-------
 
 <span style="color:black">**Book Chapters**</span>
 ======
