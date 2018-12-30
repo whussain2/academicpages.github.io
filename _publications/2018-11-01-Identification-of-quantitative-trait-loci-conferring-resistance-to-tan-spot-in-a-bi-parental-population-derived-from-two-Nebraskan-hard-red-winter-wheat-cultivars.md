@@ -7,7 +7,6 @@ date: 2018-11-01
 venue: 'Molecular Breeding'
 paperurl: 'https://link.springer.com/article/10.1007/s11032-018-0901-3'
 citation: 'Kariyawasam, G.K., Hussain, W., Easterly, A., Guttieri, M., Belamkar, V., Poland, J., et al. (2018) Identification of quantitative trait loci conferring resistance to tan spot in a biparental population derived from two Nebraska hard red winter wheat cultivars. *Mol Breeding*, 38, 140.'
-
 ---
 
 <a href='https://link.springer.com/article/10.1007/s11032-018-0901-3'>Full length manuscript is available here:</a>
