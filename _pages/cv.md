@@ -148,12 +148,19 @@ redirect_from:
 <span style="color:black">**Posters**</span>
 ======
 ------
-* Development of High Density Linkage Map and Genome-Wide QTL Mapping for Grain Yield in Wheat Across Multiple Rainfed Environments. ASA, CSSA and SSSA Minneapolis, Nov. 6-9, 2106
-* SNP Discovery in Wheat RIL Population Using Genotyping-by-Sequencing and Genome-Wide QTL Mapping for Plant Height. Conference: 5th International Conference on Quantitative Genetics, At Madison, Wisconsin, USA. DOI: 10.13140/RG.2.1.1949.6567
-* Mapping QTLs for Plant Height Variation in RIL Population Derived from Cross Between Harry X Wesley Semi-Dwarf Wheat Lines. ASA, CSSA and SSSA Minneapolis, Nov. 15-18, 2105.
-* Genetic Analysis for Various Agro-Morphological Traits in Rice (Oryza Sativa L.) Using CMS System Under Temperate Conditions. Proc. Int. Conf Sustainable Agriculture for Food and Livelihood Security. Nov. 27-29, 2012, Ludhiana, India, crop improvement: vol. 4: pp 455-456. 
-* Hybrid Rice Research Development in Kashmir: Where Are We Now? In: Mountain Agriculture in Transition- Challenges and Way- Forward held at SKUAST-K, sep. 8-10, 2011. 
-* Breeding for Rice (Oryza sativa L.) Cold Tolerance in Genomics era. In: Indian Agriculture: Present Situation, Challenges, Remedies and Road Map, held at CSKHPKV, Palampur (H.P) on Aug 04-05, 2012.
+* Lata, L., Guleria, S.K., Thakur, K., Kumari, R., Rana, M., and **Hussain, W**: Introgression of Opaque2 Gene Through Marker-Assisted Backcross Breeding in Elite Maize Inbred Lines. 13th Asian Maize Conference and Expert Consultation on Maize for Food, Feed, Nutrition and Environmental Security, Ludhiana, India October 8-10,2018. P140. www 
+* Venegas, J.P., Graybosch, R., **Hussain, W**., Bai, G., St Amand, P., Baenziger, P.S., Blecha, S: High-Density Linkage Map Construction and Mapping of Mutant Low Phytate QTLs in Winter Wheat (*Triticum Aestivum L.*) Using Genotyping-By-Sequencing (GBS). ASA, CSSA and SSSA Tampa, Florida, Oct. 22-25, 2017. 
+* Rana, M., Verma, P., **Hussain,W**., Kaldate, R., Shikha, D., Kaachra, A., Chahota, R.K., Bhatia,S., and Sharma, T.R: Molecular Mapping of QTLs for Drought Tolerance and Yield Traits in Lentil. InterDrought-V, Hyderabad International Convention Center (HICC), At Hyderabad India, 21-25 Feb. 2017.
+* Sallam, A., **Hussain, W**., Belmaker, V., and Baenziger, P.S: QTL Mapping for Traits Associated with Drought Tolerance and Combined Drought and Heat Tolerance in Seedling Winter Wheat. Plant and Animal Genome Conference, San Diego, CA; 01/2017 (WWW).
+* **Hussain, W**.,Stephen, P.B., Belamkar, V., Guttieri, M.J., Easterly, A., Venegas, J.P., Guedira, G.B., Poland, J: Development of High Density Linkage Map and Genome-Wide QTL Mapping for Grain Yield in Wheat Across Multiple Rainfed Environments. ASA, CSSA and SSSA Minneapolis, Nov. 6-9, 2106.
+* Sallam, A., **Hussain, W**., Belmaker, V., and Baenziger, P.S: Molecular Genetic Dissection to Improve Seedling Drought Tolerance inn Winter Wheat Using QTL Mapping. At: Nebraska City, USA, Conference: Plant Science Retreat-october 2016.
+* Kariyawasam, G., **Hussain, W**., Easterly, A., Guttieri, M.J., Belamkar, V., Venegas, J.P., Baenziger, P.B., Poland, J., Faris, J., Xu, S., Rasmussen, J., and Liu, Z: QTL Mapping of Resistance to Tan Spot in a Winter Recombinant Inbred Line Population Derived from Cross between Harry and Wesley. Conference: American Phytopathological Society Annual Meeting-2016, At Tampa, Florida
+* **Hussain, W**., Baenziger, P.B., Belamkar, V., Guttieri, M.J., Easterly, A., Venegas, J.P., Guedira, G.B., Poland, J: SNP Discovery in Wheat RIL Population Using Genotyping-by-Sequencing and Genome-Wide QTL Mapping for Plant Height. Conference: 5th International Conference on Quantitative Genetics, At Madison, Wisconsin, USA. DOI: 10.13140/RG.2.1.1949.6567
+* Belamkar, V.,  Guttieri, M.J., El-Basyoni, I., **Hussain, W**., Poland, J., Jarquín, D., Lorenz, A.J., Baenziger, P.B: Genomic Selection Shows Promise for Improving Winter Wheat: Insights from the University of Nebraska-Lincoln Wheat Breeding Program. Conference: 5th International Conference on Quantitative Genetics, At Madison, Wisconsin, USA. DOI: 10.13140/RG.2.1.5193.6887
+* Belamkar, V.,  Guttieri, M.J., El-Basyoni, I., **Hussain, W**., Poland, J., Jarquín, D., Lorenz, A.J., Baenziger, P.B:: Integration of Genomic Selection in the Nebraska Wheat Breeding Program. Plant and Animal Genome Conference XXIV,, San Diego, CA; 01/2016
+* **Hussain, W**., Stephen, P.B, Guttieri, M.J., Easterly, A., Venegas, J.P., Guedira, G.B., Poland, J: Mapping QTLs for Plant Height Variation in RIL Population Derived from Cross Between Harry X Wesley Semi-Dwarf Wheat Lines. ASA, CSSA and SSSA Minneapolis, Nov. 15-18, 2105.
+* **Hussain, W**., and Sanghera, G.S: Genetic Analysis for Various Agro-Morphological Traits in Rice (*Oryza Sativa L.*) Using CMS System Under Temperate Conditions. Proc. Int. Conf Sustainable Agriculture for Food and Livelihood Security. Nov. 27-29, 2012, Ludhiana, India, crop improvement: vol. 4: pp 455-456. 
+* Sood, V. K., and **Hussain, W**: Combining Ability Analysis for Various Forage Traits through Polycross Analysis in Setaria (*Setaria Anceps L.*) Grass. Proc. Int. Conf Sustainable Agriculture for Food and Livelihood Security. Nov. 27-29, 2012, Ludhiana, India, crop improvement: vol. 4: pp 453-454. 
 
 ------
 
@@ -181,15 +188,15 @@ redirect_from:
   * Statistics
     * SAS
     * R
-    * asREML
+    * ASReml
     * Python
 
 * Wet Lab Skills
-  *  DNA extractions, PCR, real-time PCR, electrophoresis, SSR marker and KASP
- * Computational Skills
-  * Operating Systems: LINUX, OS X, Windows
-  * LATEX
-  * Perl
+	*  DNA extractions, PCR, real-time PCR, electrophoresis, SSR marker and KASP
+	* Computational Skills
+	* Operating Systems: LINUX, OS X, Windows
+	* LATEX
+	* Perl
 
 ------
 
