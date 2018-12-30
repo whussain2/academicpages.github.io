@@ -6,6 +6,8 @@ excerpt: 'In this paper we review the moder concept of heterosis, and genetic an
 date: 2011-02-02
 venue: 'Nature and Science'
 paperurl: 'https://www.researchgate.net/publication/230787693_The_Magic_of_Heterosis_New_Tools_and_Complexities'
+citation: Sanghera, G.S., Wani, S.H., Hussain, W., Shafi, W., and Haribhushan, A. (2011) The Magic of Heterosis: New Tools and Complexities. *Nature and Science* **9** (11)
+
 ---
 
 <a href='https://www.researchgate.net/publication/230787693_The_Magic_of_Heterosis_New_Tools_and_Complexities'>Full length manuscript available here:</a>
