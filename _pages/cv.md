@@ -159,11 +159,12 @@ redirect_from:
 
 <span style="color:black">**Book Chapters**</span>
 ======
-* Rana,M., Sood, A., **Hussain, W**., Kaldate, R., Sharma, T.R., Gill, R.K.,  Kumar, S., Singh, S. (2019). In: Mohar Singh (eds), Gene Pyramiding and Multiple Character Breeding, Lentils: Potential Resources for Enhancing Genetic Gains, 2019, Pages 83-124. https://doi.org/10.1016/B978-0-12-813522-8.00006-6.
-* Sanghera, G.S., Wani, S.H.,  **Hussain, W**., and Singh, N.B. (2015). Genetic Engineering for Cold Stress Tolerance in Crop Plants. In book: Advances in Genome Science, Edition: Volume 4, Publisher: Bentham Science, Editors: Atta-ur-Rahman, pp.Pp. 173-201. DOI: 10.2174/97816810817311160401 
-* Chaudhary, H.K., Kaila, V., Rather, S.A., Badiyal, A., **Hussain, W**., Jamwal, N.S., and Mahato, A. (2013). In: Pratap and J. Kumar (eds.), Alien Gene Transfer in Crop Plants, Volume Achievements and Impacts. Springer, pp 1-26. 
-* **Hussain, W**., Sanghera, G.S., Jamawal, N.S, and Badiyal,A. (2013). Crop improvement through genomic interventions in sustainable way. In: Malik CP, Sanghera GS and Sharma P(ed) Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 61-68. ISBN 978-81-7533-456-4
-* Dar, S.H., **Hussain, W**., and Sanghera, G.S. (2013). Advances in hybrid rice technology through applications of novel technologies. In: Malik CP, Sanghera GS and Sharma P(ed), Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 1-12. 
+------
+* [Rana,M., Sood, A., **Hussain, W**., Kaldate, R., Sharma, T.R., Gill, R.K.,  Kumar, S., Singh, S. (2019). In: Mohar Singh (eds), Gene Pyramiding and Multiple Character Breeding, Lentils: Potential Resources for Enhancing Genetic Gains, 2019, Pages 83-124.](https://doi.org/10.1016/B978-0-12-813522-8.00006-6).
+* [Sanghera, G.S., Wani, S.H.,  **Hussain, W**., and Singh, N.B. (2015). Genetic Engineering for Cold Stress Tolerance in Crop Plants. In book: Advances in Genome Science, Edition: Volume 4, Publisher: Bentham Science, Editors: Atta-ur-Rahman, pp. 173-201.](http://www.eurekaselect.com/138849/volume/4)
+* [Chaudhary, H.K., Kaila, V., Rather, S.A., Badiyal, A., **Hussain, W**., Jamwal, N.S., and Mahato, A. (2013). In: Pratap and J. Kumar (eds.), Alien Gene Transfer in Crop Plants, Volume Achievements and Impacts. Springer, pp 1-26.](https://link.springer.com/chapter/10.1007/978-1-4614-9572-7_1)
+* [**Hussain, W**., Sanghera, G.S., Jamawal, N.S, and Badiyal,A. (2013). Crop improvement through genomic interventions in sustainable way. In: Malik CP, Sanghera GS and Sharma P(ed) Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 61-68. ISBN 978-81-7533-456-4](https://www.cabdirect.org/cabdirect/abstract/20143204150)
+* [Dar, S.H., **Hussain, W**., and Sanghera, G.S. (2013). Advances in hybrid rice technology through applications of novel technologies. In: Malik CP, Sanghera GS and Sharma P(ed), Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 1-12.](https://www.cabdirect.org/cabdirect/abstract/20143204150) 
 
 ------
 
