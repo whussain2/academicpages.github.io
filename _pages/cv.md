@@ -146,10 +146,11 @@ redirect_from:
 ------
 
 <span style="color:black">**Posters**</span>
-
+a {
+text-decoration: none;
+}
 ======
 ------
-<span style={text-decoration: none;} </style>
 * [Lata, S., Guleria, S.K., Thakur, K., Kumari, R., Rana, M., and **Hussain, W**: Introgression of *Opaque2* Gene Through Marker-Assisted Backcross Breeding in Elite Maize Inbred Lines. 13th Asian Maize Conference and Expert Consultation on Maize for Food, Feed, Nutrition and Environmental Security, Ludhiana, India October 8-10,2018. P140.](https://maize.org/wp-content/uploads/sites/5/2018/09/13thAMCBookofAbstracts.pdf)
 * [Venegas, J.P., Graybosch, R., **Hussain, W**., Bai, G., St Amand, P., Baenziger, P.S., Blecha, S: High-Density Linkage Map Construction and Mapping of Mutant Low Phytate QTLs in Winter Wheat (*Triticum Aestivum L.*) Using Genotyping-By-Sequencing (GBS). ASA, CSSA and SSSA Tampa, Florida, Oct. 22-25, 2017.](https://scisoc.confex.com/crops/2017am/webprogram/Paper106515.html) 
 * [Rana, M., Verma, P., **Hussain,W**., Kaldate, R., Shikha, D., Kaachra, A., Chahota, R.K., Bhatia,S., and Sharma, T.R: Molecular Mapping of QTLs for Drought Tolerance and Yield Traits in Lentil. InterDrought-V, Hyderabad International Convention Center (HICC), At Hyderabad India, 21-25 Feb. 2017.](http://idv.ceg.icrisat.org/wp-content/uploads/2016/06/Abstracts_Book_Printed.pdf)
@@ -161,7 +162,7 @@ redirect_from:
 * [**Hussain, W**., Baenziger, P.B., Belamkar, V., Guttieri, M.J., Easterly, A., Venegas, J.P., Guedira, G.B., Poland, J: SNP Discovery in Wheat RIL Population Using Genotyping-by-Sequencing and Genome-Wide QTL Mapping for Plant Height. Conference: 5th International Conference on Quantitative Genetics, At Madison, Wisconsin, USA.](https://www.researchgate.net/publication/304116172_SNP_Discovery_in_Wheat_RIL_Population_Using_Genotyping-by-Sequencing_and_Genome-Wide_QTL_Mapping_for_Plant_Height)
 * [Belamkar, V.,  Guttieri, M.J., El-Basyoni, I., **Hussain, W**., Poland, J., Jarquín, D., Lorenz, A.J., Baenziger, P.B: Genomic Selection Shows Promise for Improving Winter Wheat: Insights from the University of Nebraska-Lincoln Wheat Breeding Program. Conference: 5th International Conference on Quantitative Genetics, At Madison, Wisconsin, USA.](https://www.researchgate.net/publication/304116191_Genomic_selection_shows_promise_for_improving_winter_wheat_Insights_from_the_University_of_Nebraska-Lincoln_wheat_breeding_program)
 * [Belamkar, V.,  Guttieri, M.J., El-Basyoni, I., **Hussain, W**., Poland, J., Jarquín, D., Lorenz, A.J., Baenziger, P.B: Integration of Genomic Selection in the Nebraska Wheat Breeding Program. Plant and Animal Genome Conference XXIV,, San Diego, CA; 01/2016](https://www.researchgate.net/publication/290998355_Integration_of_genomic_selection_in_the_Nebraska_wheat_breeding_program)
-* [**Hussain, W**., Stephen, P.B, Guttieri, M.J., Easterly, A., Venegas, J.P., Guedira, G.B., Poland, J: Mapping QTLs for Plant Height Variation in RIL Population Derived from Cross Between Harry X Wesley Semi-Dwarf Wheat Lines. ASA, CSSA and SSSA Minneapolis, Nov. 15-18, 2105.](https://scisoc.confex.com/crops/2015am/webprogram/Paper92536.html)
+* [Hussain, W., Stephen, P.B, Guttieri, M.J., Easterly, A., Venegas, J.P., Guedira, G.B., Poland, J: Mapping QTLs for Plant Height Variation in RIL Population Derived from Cross Between Harry X Wesley Semi-Dwarf Wheat Lines. ASA, CSSA and SSSA Minneapolis, Nov. 15-18, 2105.](https://scisoc.confex.com/crops/2015am/webprogram/Paper92536.html)
 ------
 
 <span style="color:black">**Book Chapters**</span>
