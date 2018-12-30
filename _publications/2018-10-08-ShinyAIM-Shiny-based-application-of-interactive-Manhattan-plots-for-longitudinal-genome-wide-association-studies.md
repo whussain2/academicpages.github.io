@@ -5,7 +5,7 @@ permalink: /publications/2018-10-08-ShinyAIM-Shiny-based-application-of-interact
 excerpt: 'ShinyAIM is a nice tool to visualize the Manhattan plots in interactive and easy way. The application has unique features to interpret and view dynamically GWAS outputs particularly from temporal GWAS studies.'
 date: 2018-10-08
 venue: 'Plant Direct'
-paperurl: 'https://doi.org/10.1002/pld3.91'
+citation: 'Hussain, W., Campbell, M., Walia, H., and Morota, G. 2018. ShinyAIM: Shiny-based application of interactive Manhattan plots for longitudinal genome-wide association studies. Plant Direct. 2:e00091.'
 ---
 
 <a href='https://doi.org/10.1002/pld3.91'>Full length manuscript available here:</a>

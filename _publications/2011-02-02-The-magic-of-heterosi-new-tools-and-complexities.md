@@ -5,7 +5,7 @@ permalink: /publications/2011-02-02-The-magic-of-heterosi-new-tools-and-complexi
 excerpt: 'In this paper we review the moder concept of heterosis, and genetic and molecular basis of heterosis.'
 date: 2011-02-02
 venue: 'Nature and Science'
-citation: 'Sanghera, G. S., Wani, S. H., Hussain, W., Shafi, W., and Haribhushan, A. Nature and Science-The magic of heterosis: New tools and complexities. Nature and Science. 9(11).'
+citation: 'Sanghera, G. S., Wani, S. H., Hussain, W., Shafi, W., and Haribhushan, A. 2011. The magic of heterosis: New tools and complexities. Nature and Science. 9(11).'
 
 ---
 

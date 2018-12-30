@@ -5,7 +5,7 @@ permalink: /publications/2016-06-01-Comparative-assessment-of-different-auxin-an
 excerpt: 'The manuscript studies the effect of different possible auxin analogues like 2,4-D, NAA, IAA and IBA for their influence on haploid induction in triticale x wheat backcross generations.'
 date: 2016-06-01
 venue: 'Agriculture Research Journal'
-paperurl: 'https://www.researchgate.net/profile/Anila_Badiyal2/publication/303555109_Comparative_assessment_of_different_auxin_analogues_on_haploid_induction_in_triticale_x_wheat_derived_backcross_Generations/links/585a704208ae64cb3d4a9be7/Comparative-assessment-of-different-auxin-analogues-on-haploid-induction-in-triticale-x-wheat-derived-backcross-Generations.pdf'
+citation: 'Badiyal, A., Chaudhary, H. K., Jamwal, N. S., Bhatt, A. K., and Hussain, W. 2016. Comparative assessment of different auxin analogues on haploid induction in triticale x wheat derived backcross Generations. Agricultural Research Journal. 53:157.'
 ---
 
 <a href='https://www.researchgate.net/profile/Anila_Badiyal2/publication/303555109_Comparative_assessment_of_different_auxin_analogues_on_haploid_induction_in_triticale_x_wheat_derived_backcross_Generations/links/585a704208ae64cb3d4a9be7/Comparative-assessment-of-different-auxin-analogues-on-haploid-induction-in-triticale-x-wheat-derived-backcross-Generations.pdf'>Full length manuscript available here:</a>

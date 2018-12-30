@@ -5,7 +5,8 @@ permalink: /publications/2018-08-01-Genetic-variation-in-drought-tolerance-at-se
 excerpt: 'The manuscript describes the newly developed protocol to identify the drought genotypes in winter wheat at seedling stage in the green house and compare it across the field trials.'
 date: 2018-08-01
 venue: 'Euphytica'
-paperurl: 'https://link.springer.com/article/10.1007/s10681-018-2245-9'
+citation: 'Sallam, A., Mourad, A. M. I., Hussain, W., and Stephen Baenziger, P. 2018. Genetic variation in drought tolerance at seedling stage and grain yield in low rainfall environments in wheat. Euphytica. 214:169.'
+
 ---
 
 <a href='https://link.springer.com/article/10.1007/s10681-018-2245-9'>Full length manuscript available here:</a>

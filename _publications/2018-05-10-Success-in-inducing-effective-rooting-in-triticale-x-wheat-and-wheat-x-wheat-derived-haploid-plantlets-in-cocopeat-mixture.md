@@ -5,7 +5,8 @@ permalink: /publications/2018-05-10-Success-in-inducing-effective-rooting-in-tri
 excerpt: 'The manuscript reveals the success of  the Cocopeat mixture in inducing rooting in Triticale derived wheat haploid plants. '
 date: 2018-05-10
 venue: 'International Journal of Current Microbiology and Applied Sciences'
-paperurl: 'https://www.ijcmas.com/7-5-2018/Navdeep%20S.%20Jamwal,%20et%20al.pdf'
+citation: '16.	S. Jamwal, N., K. Chaudhary, H., Badiyal, A., Hussain, W., Katoch, P., and Kumar, N. 2018. Success in inducing effective rooting in triticale x wheat and wheat x wheat derived haploid plantlets in cocopeat mixture. International Journal of Current Microbiology and Applied Sciences. 7:15–23.'
+
 ---
 
 <a href='https://www.ijcmas.com/7-5-2018/Navdeep%20S.%20Jamwal,%20et%20al.pdf'>Full length manuscript available here:</a>

@@ -5,7 +5,7 @@ permalink: /publications/2018-06-19-Genomic-selection-in-preliminary-yield-trial
 excerpt: 'The manuscript provides insights and assesses the the integration of genomic selection for grain yield in Nebraska wheat breeding programe.'
 date: 2018-06-19
 venue: 'G3: Genes|Genomes|Genetics'
-paperurl: 'http://www.g3journal.org/content/8/8/2735'
+citation: 'Belamkar, V., Guttieri, M. J., Hussain, W., Jarquín, D., El-basyoni, I., Poland, J., et al. 2018. Genomic Selection in Preliminary Yield Trials in a Winter Wheat Breeding Program. G3&amp;#58; Genes|Genomes|Genetics. 8:2735–2747.'
 ---
 
 <a href='http://www.g3journal.org/content/8/8/2735'>Full length manuscript available here:</a>

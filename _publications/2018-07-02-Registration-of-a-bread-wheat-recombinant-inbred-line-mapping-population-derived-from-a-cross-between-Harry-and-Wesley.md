@@ -5,7 +5,7 @@ permalink: /publications/2018-07-02-Registration-of-a-bread-wheat-recombinant-in
 excerpt: 'he manuscript describes the development and registration of Harry x Wesley derived recombinant inbred line mapping population. The mapping population is an important germplasm resource to breed for drought tolerance and wider adaptation in the US Great Plains.'
 date: 2018-07-02
 venue: 'Journal of Plant Registrations'
-paperurl: 'https://dl.sciencesocieties.org/publications/jpr/abstracts/12/3/411'
+citation: 'Hussain, W., Guttieri, M. J., Belamkar, V., Poland, J., Sallam, A., and Baenziger, P. S. 2018. Registration of a bread wheat recombinant inbred line mapping population derived from a cross between ‘Harry’ and ‘Wesley.’ Journal of Plant Registrations. 12:411–414.'
 
 ---
 

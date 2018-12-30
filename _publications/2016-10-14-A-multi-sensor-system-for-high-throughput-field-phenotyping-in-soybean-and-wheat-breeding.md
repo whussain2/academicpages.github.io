@@ -5,7 +5,7 @@ permalink: /publications/2016-10-14-A-multi-sensor-system-for-high-throughput-fi
 excerpt: 'The manuscript reports the development of a new multi-sensor system for high throughput phenotyping in plant breeding.'
 date: 2016-10-14
 venue: 'Computers and Electronics in Agriculture'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S0168169916302289'
+citation: 'Bai, G., Ge, Y., Hussain, W., Baenziger, P. S., and Graef, G. 2016. A multi-sensor system for high throughput field phenotyping in soybean and wheat breeding. Computers and Electronics in Agriculture. 128:181–192.'
 
 ---
 
