@@ -1,20 +1,18 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Guest lecture"
+permalink: /teaching/2018-ASCI 944/STAT 844 Quantitative Methods for Genomics of Complex Traits 
+venue: "University of Nebraska, Lincoln, Department of Animal Sciences"
+date: 2018-05-05
+location: "Lincoln, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The lecture was on GWAS and Population Stratification and practical demonstration to perform GWAS in R-software
 
-Heading 1
+PDF file can be found here
 ======
 
-Heading 2
+R Markdown is available here
 ======
 
-Heading 3
-======
