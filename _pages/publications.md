@@ -10,21 +10,25 @@ author_profile: true
 <b>[Identification of quantitative trait loci conferring resistance to tan spot in a bi-parental population derived from two Nebraskan hard red winter wheat cultivars.](http://whussain2.github.io/publications/2018-11-01-Identification-of-quantitative-trait-loci-conferring-resistance-to-tan-spot-in-a-bi-parental-population-derived-from-two-Nebraskan-hard-red-winter-wheat-cultivars)</b> Kariyawasam, G.K., <b>W. Hussain</b>, A. Easterly, M. Guttieri, V. Belamkar, J. Poland, J. Venegas, S. Baenziger, F. Marias, J.B. Rasmussen, and Z.(2018). <i>Molecular Breeding</i>.
 
 This paper characterizes the Tan spot resistance in Harry and Wesley cultivars and reveals high resistance to tan spot in Wesley cultivar is largely due to lack of two *Ptr ToxA-Tsn1* and *Ptr ToxC-Tsc1* tan spot sensitivity genes.
+
 <br>
 ![Hussain2018](http://whussain2.github.io/images/hussain_2018_plantdirect.jpg){: .align-right height="350px" width="291px"}
 <b>[ShinyAIM: Shiny-based application of interactive Manhattan plots for longitudinal genome-wide association studies.](http://whussain2.github.io/publications/2018-10-08-ShinyAIM-Shiny-based-application-of-interactive-Manhattan-plots-for-longitudinal-genome-wide-association-studies)</b> <b>W. Hussain</b>, M. Campbell, H. Walia, and G. Morota. (2018). <i>Plant Direct</i>.
 
 ShinyAIM is a nice tool to visualize the Manhattan plots in interactive and easy way. The application has unique features to interpret and view dynamically GWAS outputs particularly from temporal GWAS studies.
+
 <br>
 ![Sallam2018](http://whussain2.github.io/images/sallam_2018_euphytica.jpg){: .align-right height="360px" width="300px"}
 <b>[Genetic variation in drought tolerance at seedling stage and grain yield in low rainfall environments in wheat.](http://whussain2.github.io/publications/2018-08-01-Genetic-variation-in-drought-tolerance-at-seedling-stage-and-grain-yield-in-low-rainfall-environments-in-wheat)</b> A. Sallam, A. Mourad, <b>W. Hussain</b>, P. Baenziger.(2018).<i> Euphytica</i>.
 
 The manuscript describes the newly developed protocol to identify the drought genotypes in winter wheat at seedling stage in the green house and compare it across the field trials.  
+
 <br>
 ![Hussain2018](http://whussain2.github.io/images/hussain_2018_reg.jpg){: .align-right height="390px" width="230px"}
 <b>[Registration of a bread Wheat recombinant inbred line mapping population derived from a cross between ‘Harry’ and ‘Wesley’.](http://whussain2.github.io/publications/2018-07-02-Registration-of-a-bread-wheat-recombinant-inbred-line-mapping-population-derived-from-a-cross-between-Harry-and-Wesley)</b> <b>W. Hussain </b>, M.J. Guttieri, V. Belamkar, J. Polland, A.Sallam, and P. Baenziger.(2018). <i>Journal of Plant Registrations</i>.
 
  The manuscript describes the development and registration of Harry x Wesley derived recombinant inbred line mapping population. The mapping population is an important germplasm resource to breed for drought tolerance and wider adaptation in the US Great Plains.  
+
 <br>
 
 ![Belamkar2018](http://whussain2.github.io/images/belamkar_2018_g3.jpg){: .align-right height="191px" width="186px"}
@@ -32,7 +36,6 @@ The manuscript describes the newly developed protocol to identify the drought ge
 <b>[Genomic selection in preliminary yield trials in a winter wheat breeding program.](http://whussain2.github.io/publications/2018-06-19-Genomic-selection-in-preliminary-yield-trials-in-a-winter-wheat-breeding-program)</b> Belamkar, V., M.J. Guttieri, <b>W. Hussain</b>, D. Jarquin, I. Ei-basyoni, J. Polland, A.J. Lorenz, and P. Baenziger.(2017). <i>G3</i>.
 
 The manuscript provides insights and assesses the the integration of genomic selection for grain yield in Nebraska wheat breeding programe.  
-
 
 <br>
 
@@ -110,4 +113,5 @@ Here, we reported the identification of potential restorers for the newly develo
 In this paper we review the various mechanisms and genes involved in cold acclimatization and the possibilities where transgenic technology has been explored for breeding cold tolerance in crop plants.
 <br>
 <b>[The magic of heterosis: new tools and complexities.](http://whussain2.github.io/publications/2011-02-02-The-magic-of-heterosi-new-tools-and-complexities)</b> Sanghera, G.S., Wani, S.H.,<b>Hussain, W.</b>,W. Shafi, A. Haribhushan, Singh, N.B.(2011). <i>Nature and Science</i>.
+
 In this paper we review the moder concept of heterosis, and genetic and molecular basis of heterosis.

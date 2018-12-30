@@ -11,7 +11,7 @@ redirect_from:
 
 ------
 
-<span style="color:darkblue">**Education**</span>
+<span style="color:black">**Education**</span>
 ======
 ------
 * B.S., Agriculture Specialization in Research, [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, June 2009
@@ -24,7 +24,7 @@ redirect_from:
   
  ------ 
  
-<span style="color:darkblue">**Research Experience**</span>
+<span style="color:black">**Research Experience**</span>
 ======
 ------
 **March 2018 to Current: Postdoctoral Research Associate**
@@ -65,7 +65,7 @@ redirect_from:
 
  ------ 
  
-<span style="color:darkblue">**Publications**</span>
+<span style="color:black">**Publications**</span>
 ======
 ------
   <ul>{% for post in site.publications %}
@@ -74,7 +74,7 @@ redirect_from:
   
 ------
 
-<span style="color:darkblue">**Talks**</span>
+<span style="color:black">**Talks**</span>
 ======
 ------
   <ul>{% for post in site.talks %}
@@ -83,7 +83,7 @@ redirect_from:
   
 ------  
 
-<span style="color:darkblue">**Awards and Fellowships**</span>
+<span style="color:black">**Awards and Fellowships**</span>
 ======
 ------
 * [Open Science Grid User School Travel Grant Award 2018](https://opensciencegrid.org/user-school-2018/).
@@ -97,7 +97,7 @@ redirect_from:
 
 ------
 
-<span style="color:darkblue">**Training and Short-courses**</span>
+<span style="color:black">**Training and Short-courses**</span>
 ======
 ------
 * [Software Carpentry Workshop on computational skills, including task automation, version control, and modular programming. Learn Bash, Git and Python. Holland Computing Center, University of Nebraska, Lincoln. August 13 & 14, 2018](https://unlhcc.github.io/2018-08-13-NU/)
@@ -110,14 +110,14 @@ redirect_from:
 
 ------
 
-<span style="color:darkblue">**Open Source Contribution**</span>
+<span style="color:black">**Open Source Contribution**</span>
 ======
 ------
 * ShinyAIM: Shiny-based Application of Interactive Manhattan Plots for Longitudinal GWAS using R and Shiny. The application is available online at [https://chikudaisei.shinyapps.io/shinyaim/](https://chikudaisei.shinyapps.io/shinyaim/). The source code and materials can be downloaded from GitHub [https://github.com/whussain2/ShinyAIM](https://github.com/whussain2/ShinyAIM)
 
 ------
 
-<span style="color:darkblue">**Leadership Roles**</span>
+<span style="color:black">**Leadership Roles**</span>
 ======
 ------
 * A representative of Department of Agronomy and Horticulture Safety Committee in the year 2015.
@@ -128,7 +128,7 @@ redirect_from:
 
 ------
 
-<span style="color:darkblue">**Professional Memberships**</span>
+<span style="color:black">**Professional Memberships**</span>
 ======
 ------
 * ASA, CSSA,and SSSA since June-2014
@@ -137,7 +137,7 @@ redirect_from:
 
 ------
 
-<span style="color:darkblue">**Professional Experience**</span>
+<span style="color:black">**Professional Experience**</span>
 ======
 ------
 * Associate Editor: Agronomy Journal (March 2018 to present)
@@ -145,7 +145,7 @@ redirect_from:
 
 ------
 
-<span style="color:darkblue">**Posters**</span>
+<span style="color:black">**Posters**</span>
 ======
 ------
 * Development of High Density Linkage Map and Genome-Wide QTL Mapping for Grain Yield in Wheat Across Multiple Rainfed Environments. ASA, CSSA and SSSA Minneapolis, Nov. 6-9, 2106
@@ -157,7 +157,7 @@ redirect_from:
 
 ------
 
-<span style="color:darkblue">**Skills**</span>
+<span style="color:black">**Skills**</span>
 ======
 
 ------
@@ -182,7 +182,7 @@ redirect_from:
 
 ------
 
-<span style="color:darkblue">**Teaching Experience**</span>
+<span style="color:black">**Teaching Experience**</span>
 ======
 ------
 * Guest Lectures on course “Quantitative methods for genomics of complex traits”
@@ -190,7 +190,7 @@ redirect_from:
 
 ------
 
-<span style="color:darkblue">**Invited Talks**</span>
+<span style="color:black">**Invited Talks**</span>
 ======
 ------
 * Shiny Based Imaging GWAS Server, at University of Nebraska Lincoln, Deptt. of Statistics, 2018.
