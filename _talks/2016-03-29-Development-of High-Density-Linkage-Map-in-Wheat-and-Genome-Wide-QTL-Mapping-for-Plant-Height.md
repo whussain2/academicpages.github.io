@@ -8,4 +8,4 @@ date: 2016-03-29
 location: "Lincoln, Nebraska"
 ---
 
-In this presentation I discuss the development of genotyping-by-sequencing derived linkage map and its application to QTL mapping for plant height.
+In this presentation I discuss the development of genotyping-by-sequencing derived linkage map, accuracy and validity of linkage map,  and its application to QTL mapping for plant height.

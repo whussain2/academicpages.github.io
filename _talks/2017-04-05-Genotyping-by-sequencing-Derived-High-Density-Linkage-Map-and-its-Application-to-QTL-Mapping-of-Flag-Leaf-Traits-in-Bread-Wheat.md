@@ -8,4 +8,4 @@ date: 2017-04-05
 location: "Manhattan, Kansas"
 ---
 
-The talk is on [webpage](https://www.k-state.edu/pbg/symposium2017/morning-session-ii.html).
+In this talk I discuss about the pipeline developed in R/qtl and ASMap for correcting genotyping errors in genotyping-by-sequencing derived linkage map. Also, talked about the validity, accuracy and comparison of the developed linkage map with genome assembly. And application of linkage map in identifying QTLs for plant height.  The talk is on [webpage](https://www.k-state.edu/pbg/symposium2017/morning-session-ii.html). The detailed instruction about the R codes used to correct can be found in supplementary materials published in Scientific reports journal at [https://www.nature.com/articles/s41598-017-16006-z](https://www.nature.com/articles/s41598-017-16006-z)

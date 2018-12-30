@@ -8,4 +8,4 @@ date: 2014-08-05
 location: "Palampur, India"
 ---
 
-Here, I discussed basic principles linage mapping, association mapping, methodology and examples.
+Here, I discussed basic principles and concepts of linkage mapping, association mapping, methodology and examples.

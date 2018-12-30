@@ -8,4 +8,4 @@ date: 2017-02-10
 location: "Maharashtra, India"
 ---
 
-In this presentation I discuss about genomics resources in wheat and there utilization in wheat Improvement. I also discuss about the current statust and future of hybrid wheat breeding.
+In this presentation I discuss about various genomics resources in wheat and there utilization in for wheat improvement. I also discuss about the current status and future of hybrid wheat breeding.
