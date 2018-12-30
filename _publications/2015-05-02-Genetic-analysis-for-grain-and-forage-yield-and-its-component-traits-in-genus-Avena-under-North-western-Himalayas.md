@@ -5,7 +5,7 @@ permalink: /publications/2015-05-02-Genetic-analysis-for-grain-and-forage-yield-
 excerpt: 'Here, we describe the nature and magnitude of gene effects for forage and grain yield traits in oats.'
 date: 2015-05-02
 venue: 'Range Management and Agroforestry'
-citation: 'Chaudhary, L., Sood, V.K., and Hussain, W.2015.Genetic analysis for grain and forage yield and its component traits in genus <i>Avena</i> under North western Himalayas. Range Management and Agroforestry. 35:2.'
+citation: 'Chaudhary, L., Sood, V.K., and Hussain, W.2015. Genetic analysis for grain and forage yield and its component traits in genus <i>Avena</i> under North western Himalayas. Range Management and Agroforestry. 35:2.'
 
 ---
 
