@@ -65,60 +65,60 @@ The manuscript reveals the success of  the Cocopeat mixture in inducing rooting 
 
 ![Bai2016](http://whussain2.github.io/images/bai_2016_computers_electronics_agriculture.jpg){: .align-right height="200px" width="186px"}
 
-<b>[A multi-sensor system for high throughput field phenotyping in soybean and wheat breeding.](http://whussain2.github.io/publications/2016-10-14-A-multi-sensor-system-for-high-throughput-field-phenotyping-in-soybean-and-wheat-breeding)</b>B. Geng,</b>, Y. Ge, <b> W. Hussain, </b>, P.S. Baenziger, G.Graef.(2017). <i>Computers and Electronics in Agriculture</i>.
+<b>[A multi-sensor system for high throughput field phenotyping in soybean and wheat breeding.](http://whussain2.github.io/publications/2016-10-14-A-multi-sensor-system-for-high-throughput-field-phenotyping-in-soybean-and-wheat-breeding) </b>B. Geng, Y. Ge, <b>W. Hussain</b>, P.S. Baenziger, G.Graef.(2017). <i>Computers and Electronics in Agriculture</i>.
 
 The manuscript reports the development of a new multi-sensor system for high throughput phenotyping in plant breeding. 
 
 <br>
-![Jamwal2016](http://whussain2.github.io/images/jamwal_2016_acta.jpg){: .align-left height="200px" width="186px"}
+![Jamwal2016](http://whussain2.github.io/images/jamwal_2016_acta.jpg){: .align-right height="200px" width="186px"}
 <b>[Factors influencing crossability among triticale and wheat and its subsequent effect along with hybrid necrosis on haploid induction.](http://whussain2.github.io/publications/2016-04-02-Factors-influencing-crossability-among-triticale-and-wheat-and-its-subsequent-effect-along-with-hybrid-necrosis-on-haploid-induction)</b> Jamwal, N.S. , H.K. Chaudhary, A. Badiyal, <b> W. Hussain</b>.(2016). <i>Acta Agriculturae Scandinavica, Section B—Soil & Plant Science</i>.
 
 The manuscript investigates the influence of genotypic and environmental factors on the crossability of elite triticale and wheat genotypes, screen the effect of necrotic genes in the F1 hybrids and the relative performance of hybrids towards haploid induction.  
 
 <br>
-![Sood2016](http://whussain2.github.io/images/sood_2016_pnas_india.jpg){: .align-left height="200px" width="186px"}
+![Sood2016](http://whussain2.github.io/images/sood_2016_pnas_india.jpg){: .align-right height="200px" width="186px"}
 <b>[Genetic diversity of genus *Avena* from North Western-Himalayas Using molecular markers.](http://whussain2.github.io/publications/2016-03-01-Genetic-diversity-of-genus-Avena-from-North-Western-Himalayas-using-molecular-markers)</b>Sood,V.K., I. Rana, <b> W.Hussain</b>, H.K. Chaudhary.(2016). <i>Proceedings of the National Academy of Sciences, India - Section B: Biological Sciences </i>.
 
 Here, we assess the diversity of wild relatives and cultivars of geneus Avena using RAPD and SSR markers.  
 
 <br>
 
-![Badiyal2016](http://whussain2.github.io/images/badiyal_2016_agriculture.jpg){: .align-left height="200px" width="186px"}
+![Badiyal2016](http://whussain2.github.io/images/badiyal_2016_agriculture.jpg){: .align-right height="200px" width="186px"}
 <b>[Comparative assessment of different auxin analogues on haploid induction in triticale x wheat derived backcross generations.](http://whussain2.github.io/publications/2016-06-01-Comparative-assessment-of-different-auxin-analogues-on-haploid-induction-in-triticale-x-wheat-derived-backcross-generations)</b> Badiyal, A., H.K. Chaudhary, N.S. Jamwal, A.K. Bhat, <b> W. Hussain</b>.(2017). <i>Agriculture Research Journal</i>.
 
 The manuscript studies the effect of different possible auxin analogues like 2,4-D, NAA, IAA and IBA for their influence on haploid induction in triticale x wheat backcross generations.
  
 <br>
 
-![Chaudhary2015](http://whussain2.github.io/images/chaudhary_2015_range_management.jpg){: .align-left height="200px" width="186px"}
-<b>[Genetic analysis for grain and forage yield and its component traits in genus *Avena* under North western Himalayas.](http://whussain2.github.io/publications/2015-05-02-Genetic-analysis-for-grain-and-forage-yield-and-its-component-traits-in-genus-Avena-under-North-western-Himalayas)</b> Chaudhary, L. </b>, V.K.Sood, <b> W. Hussain</b>.(2015). <i>Range Management and Agroforestry</i>.
+![Chaudhary2015](http://whussain2.github.io/images/chaudhary_2015_range_management.jpg){: .align-right height="200px" width="186px"}
+<b>[Genetic analysis for grain and forage yield and its component traits in genus *Avena* under North western Himalayas.](http://whussain2.github.io/publications/2015-05-02-Genetic-analysis-for-grain-and-forage-yield-and-its-component-traits-in-genus-Avena-under-North-western-Himalayas)</b> L. Chaudhary, V.K.Sood, <b>W. Hussain</b>.(2015). <i>Range Management and Agroforestry</i>.
 
 Here, we describe the nature and magnitude of gene effects for forage and grain yield traits in oat.
 
 <br>
 ![Badiyal2014](http://whussain2.github.io/images/badiyal_2014_cereal_research_communication.jpg){: .align-left height="200px" width="186px"}
-<b>[Interactive genotypic influence of triticale and wheat on their crossability and haploid induction under varied agroclimatic regimes.](http://whussain2.github.io/publications/2014-06-15-Interactive-genotypic-influence-of-triticale-and-wheat-on-their-crossability-and-haploid-induction-under-varied-agroclimatic-regimes)</b> Badiyal, A. , H.K. Chaudhary, N.S. Jamwal, <b> W. Hussain</b>, A. Mahato, A.K. Bhat. (2014). <i>Cereal Research Communications</i>.
+<b>[Interactive genotypic influence of triticale and wheat on their crossability and haploid induction under varied agroclimatic regimes.](http://whussain2.github.io/publications/2014-06-15-Interactive-genotypic-influence-of-triticale-and-wheat-on-their-crossability-and-haploid-induction-under-varied-agroclimatic-regimes)</b> Badiyal, A. , H.K. Chaudhary, N.S. Jamwal, <b>W. Hussain</b>, A. Mahato, A.K. Bhat. (2014). <i>Cereal Research Communications</i>.
 
 Here, we studied the response of diverse genotypes of triticale and wheat and environment on their crossability as well as to evaluate the efficiency of *Imperata cylindrica*-mediated chromosome elimination approach for haploid induction in triticale × wheat (*Triticum aestivum*) hybrids.
 
 <br>
-![Sanghera2012](http://whussain2.github.io/images/sanghera_2012_notulae.jpg){: .align-left height="200px" width="186px"}
+![Sanghera2012](http://whussain2.github.io/images/sanghera_2012_notulae.jpg){: .align-right height="200px" width="186px"}
 <b>[Heterosis and combining ability estimates using line x tester analysis to develop rice hybrids for temperate conditions.](http://whussain2.github.io/publications/2012-08-30-Heterosis-and-combining-ability-estimates-using-line-x-tester-analysis-to-develop-rice-hybrids-for-temperate-conditions)</b> Sanghera, G.S.,<b> W. Hussain</b>. (2012). <i>Notulae Scientia Biologicae</i>.
 
 Here, we studied the heterosis and combining ability by crossing 18 lines (Males) with two cytoplasmic newly developed male sterile (CMS) lines (Females).
 
 <br>
-![Hussain2012](http://whussain2.github.io/images/hussain_2012_electronic_journal.jpg){: .align-left height="200px" width="186px"}
+![Hussain2012](http://whussain2.github.io/images/hussain_2012_electronic_journal.jpg){: .align-right height="200px" width="186px"}
 <b>[Exploitation of heterosis in rice (*Oryza sativa L.*) using CMS system under temperate conditions.](http://whussain2.github.io/publications/2012-03-05-Exploitation-of-heterosis-in-rice-using-CMS-system-under-temperate-conditions)<b>Hussain, W.</b>,Sanghera, G.S.(2012). <i>Electronic Journal of Plant Breeding</i>.
 
 Here, we reported the identification of potential restorers for the newly developed CMS lines SKAU7A and SKAU11A under temperate conditions.
 
 <br>
-![Sanghera2011](http://whussain2.github.io/images/sanghera_2011_current_genomics_journal.jpg){: .align-left height="200px" width="186px"}
+![Sanghera2011](http://whussain2.github.io/images/sanghera_2011_current_genomics_journal.jpg){: .align-right height="200px" width="186px"}
 <b>[Engineering cold stress tolerance in crop plants.](http://whussain2.github.io/publications/2011-01-01-Engineering-cold-stress-tolerance-in-crop-plants)</b> Sanghera, G.S., Wani, S.H.,<b>Hussain, W.</b>,Singh, N.B.(2011). <i>Current Genomics</i>.
 In this paper we review the various mechanisms and genes involved in cold acclimatization and the possibilities where transgenic technology has been explored for breeding cold tolerance in crop plants.
 
 <br>
-![Sanghera2011](http://whussain2.github.io/images/hussain_2011_nature_sceince.jpg){: .align-left height="200px" width="186px"}
+![Sanghera2011](http://whussain2.github.io/images/hussain_2011_nature_sceince.jpg){: .align-right height="200px" width="186px"}
 <b>[The magic of heterosis: new tools and complexities.](http://whussain2.github.io/publications/2011-02-02-The-magic-of-heterosi:-new-tools-and-complexities)</b> Sanghera, G.S., Wani, S.H.,<b>Hussain, W.</b>,W. Shafi, A. Haribhushan, Singh, N.B.(2011). <i>Nature and Science</i>.
 In this paper we review the moder concept of heterosis, and genetic and molecular basis of heterosis.
