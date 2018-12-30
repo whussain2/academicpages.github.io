@@ -13,12 +13,6 @@ The lecture was guest lecture on course *ASCI 944/STAT 844 Quantitative Methods 
 Lecture Materials
 ======
 
-[Slides](href='https://github.com/whussain2/whussain2.github.io/blob/master/Materials/Teaching/GWAS_Population%20structure.pdf')
-
-[R markdown file](href='https://github.com/whussain2/whussain2.github.io/blob/master/Materials/Teaching/GWAS_R.html')
-
-======
-
-R Markdown
-======
+<a href='http://whussain2.github.io/Materials/Teaching/GWAS_GL.pdf'>Slides Available here:</a>
+<a href='http://whussain2.github.io/Materials/Teaching/GWAS_R.html'>R Codes Available here:</a>
 
