@@ -1,12 +1,14 @@
 ---
 title: "A multi-sensor system for high throughput field phenotyping in soybean and wheat breeding."
 collection: publications
-permalink: /publications/2017-09-14-A-multi-sensor-system-for-high-throughput-field-phenotyping-in-soybean-and-wheat-breeding
+permalink: /publications/2016-10-14-A-multi-sensor-system-for-high-throughput-field-phenotyping-in-soybean-and-wheat-breeding
 excerpt: 'The manuscript reports the development of a new multi-sensor system for high throughput phenotyping in plant breeding.'
-date: 2017-09-14
+date: 2016-10-14
 venue: 'Computers and Electronics in Agriculture'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0168169916302289'
+
 ---
+
 
 <a href='https://www.sciencedirect.com/science/article/pii/S0168169916302289'>Full length manuscript available here:</a>
 
