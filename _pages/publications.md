@@ -22,7 +22,7 @@ ShinyAIM is a nice tool to visualize the Manhattan plots in interactive and easy
 
 <br>
 
-![Sallam2018](http://whussain2.github.io/images/sallam_2018_euphytica.jpg){: .align-right height="390px" width="320px"}
+![Sallam2018](http://whussain2.github.io/images/sallam_2018_euphytica.jpg){: .align-right height="420px" width="350px"}
 
 <b>[Genetic variation in drought tolerance at seedling stage and grain yield in low rainfall environments in wheat.](http://whussain2.github.io/publications/2018-08-01-Genetic-variation-in-drought-tolerance-at-seedling-stage-and-grain-yield-in-low-rainfall-environments-in-wheat)</b> A. Sallam, A. Mourad, <b>W. Hussain</b>, P. Baenziger.(2018).<i> Euphytica</i>.
 
