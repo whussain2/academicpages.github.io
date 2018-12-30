@@ -14,7 +14,7 @@ This paper characterizes the Tan spot resistance in Harry and Wesley cultivars a
 
 <br>
 
-![Hussain2018](http://whussain2.github.io/images/hussain_2018_plantdirect.jpg){: .align-right height="200px" width="191px"}
+![Hussain2018](http://whussain2.github.io/images/hussain_2018_plantdirect.jpg){: .align-right height="250px" width="191px"}
 
 <b>[ShinyAIM: Shiny-based application of interactive Manhattan plots for longitudinal genome-wide association studies.](http://whussain2.github.io/publications/2018-10-08-ShinyAIM-Shiny-based-application-of-interactive-Manhattan-plots-for-longitudinal-genome-wide-association-studies)</b> <b>W. Hussain</b>, M. Campbell, H. Walia, and G. Morota. (2018). <i>Plant Direct</i>.
 
