@@ -96,7 +96,7 @@ The manuscript studies the effect of different possible auxin analogues like 2,4
 Here, we describe the nature and magnitude of gene effects for forage and grain yield traits in oat.
 
 <br>
-![Badiyal2014](http://whussain2.github.io/images/badiyal_2014_cereal_research_communication.jpg){: .align-left height="200px" width="186px"}
+![Badiyal2014](http://whussain2.github.io/images/badiyal_2014_cereal_research_communication.jpg){: .align-right height="200px" width="186px"}
 <b>[Interactive genotypic influence of triticale and wheat on their crossability and haploid induction under varied agroclimatic regimes.](http://whussain2.github.io/publications/2014-06-15-Interactive-genotypic-influence-of-triticale-and-wheat-on-their-crossability-and-haploid-induction-under-varied-agroclimatic-regimes)</b> Badiyal, A. , H.K. Chaudhary, N.S. Jamwal, <b>W. Hussain</b>, A. Mahato, A.K. Bhat. (2014). <i>Cereal Research Communications</i>.
 
 Here, we studied the response of diverse genotypes of triticale and wheat and environment on their crossability as well as to evaluate the efficiency of *Imperata cylindrica*-mediated chromosome elimination approach for haploid induction in triticale × wheat (*Triticum aestivum*) hybrids.
@@ -119,6 +119,6 @@ Here, we reported the identification of potential restorers for the newly develo
 In this paper we review the various mechanisms and genes involved in cold acclimatization and the possibilities where transgenic technology has been explored for breeding cold tolerance in crop plants.
 
 <br>
-![Sanghera2011](http://whussain2.github.io/images/hussain_2011_nature_sceince.jpg){: .align-right height="200px" width="186px"}
-<b>[The magic of heterosis: new tools and complexities.](http://whussain2.github.io/publications/2011-02-02-The-magic-of-heterosi:-new-tools-and-complexities)</b> Sanghera, G.S., Wani, S.H.,<b>Hussain, W.</b>,W. Shafi, A. Haribhushan, Singh, N.B.(2011). <i>Nature and Science</i>.
+![Sanghera2011](){: .align-right height="200px" width="186px"}
+<b>[The magic of heterosis: new tools and complexities.](http://whussain2.github.io/publications/2011-02-02-The-magic-of-heterosi-new-tools-and-complexities)</b> Sanghera, G.S., Wani, S.H.,<b>Hussain, W.</b>,W. Shafi, A. Haribhushan, Singh, N.B.(2011). <i>Nature and Science</i>.
 In this paper we review the moder concept of heterosis, and genetic and molecular basis of heterosis.
