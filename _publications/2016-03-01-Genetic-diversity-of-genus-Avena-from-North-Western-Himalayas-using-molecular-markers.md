@@ -2,7 +2,7 @@
 title: "Genetic diversity of genus *Avena* from North Western-Himalayas Using molecular markers."
 collection: publications
 permalink: /publications/2016-03-01-Genetic-diversity-of-genus-Avena-from-North-Western-Himalayas-using-molecular-markers
-excerpt: 'Here, we assess the diversity of wild relatives and cultivars of geneus *Avena* using RAPD and SSR markers.  '
+excerpt: 'Here, we assess the diversity of wild relatives and cultivars of geneus *Avena* using RAPD and SSR markers. '
 date: 2016-03-01
 venue: 'Proceedings of the National Academy of Sciences, India - Section B: Biological Sciences'
 citations: 'Sood, V. K., Rana, I., Hussain, W., and Chaudhary, H. K. 2016. Genetic Diversity of Genus Avena from North Western-Himalayas Using Molecular Markers. Proc. Natl. Acad. Sci., India, Sect. B Biol. Sci. 86:151–158.'
