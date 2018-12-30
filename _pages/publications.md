@@ -112,28 +112,19 @@ Here, we reported the identification of potential restorers for the newly develo
 <b>[Engineering cold stress tolerance in crop plants.](http://whussain2.github.io/publications/2011-01-01-Engineering-cold-stress-tolerance-in-crop-plants)</b> Sanghera, G.S., Wani, S.H.,<b>Hussain, W.</b>,Singh, N.B.(2011). <i>Current Genomics</i>.
 
 In this paper we review the various mechanisms and genes involved in cold acclimatization and the possibilities where transgenic technology has been explored for breeding cold tolerance in crop plants.
+
 <br>
+
 <b>[The magic of heterosis: new tools and complexities.](http://whussain2.github.io/publications/2011-02-02-The-magic-of-heterosi-new-tools-and-complexities)</b> Sanghera, G.S., Wani, S.H.,<b>Hussain, W.</b>,W. Shafi, A. Haribhushan, Singh, N.B.(2011). <i>Nature and Science</i>.
 
 In this paper we review the moder concept of heterosis, and genetic and molecular basis of heterosis.
 
-
-![Campbell2018RR](http://whussain2.github.io/images/sanghera_2011_current_genomics_journal.jpg){: .align-right height="200px" width="186px"}
-){: .align-right height="200px" width="436px"}
-
-<b>[Leveraging breeding values obtained from random regression models for genetic inference of longitudinal traits.](http:////whussain2.github.io/publications/2018-10-5-RRGWAS) </b> <b>M.T. Campbell</b>, H. Walia, G. Morota. (2018). <i>bioRxiv</i>.
-
-This study builds on the random regression genomic prediction approach described in [Campbell et al 2018](http://whussain2.github.io/publications/publications/2018-05-11-Utilizing-random-regression-models-for-genomic-prediction-of-a-longitudinal-trait-derived-from-high-throughput-phenotyping), and used the derived breeding values for genomic inferenece across time points.
-
-  <i>Currently under review at The Plant Genome</i>
-
-<br>
 ## Book Chapters
 
 ![Rana2018](http://whussain2.github.io/images/rana_2018_science_direct_book.jpg){: .align-right height="250px" width="234px"}
 
 <b>[In: Mohar Singh (eds), Gene Pyramiding and Multiple Character Breeding, Lentils: Potential Resources for Enhancing Genetic Gains](http://whussain2.github.io/publications/2018-07-01-Gene-Pyramiding-and-Multiple-Character-Breeding-Lentils-Potential-Resources-for-Enhancing-Genetic-Gains)</b> <b>Rana, M., A. Sood,</b>, W. Hussain, R. Kaldate, T.R. Sharma, R.K. Gill, S. Kumar, S. Singh. (2018). <i>Science Direct</i>.
 
-In this chapter we discussed and revised the the importance and methodologies for gene pyramiding and multiple characters breeding in relevance to Lentils.
+In this chapter we discussed and revised the the importance and methodologies for gene pyramiding and multiple characters breeding in relevance to *Lentils*.
 
 <br>
