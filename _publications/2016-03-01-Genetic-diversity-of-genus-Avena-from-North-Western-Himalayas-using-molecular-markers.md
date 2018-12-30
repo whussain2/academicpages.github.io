@@ -5,7 +5,7 @@ permalink: /publications/2016-03-01-Genetic-diversity-of-genus-Avena-from-North-
 excerpt: 'Here, we assess the diversity of wild relatives and cultivars of geneus *Avena* using RAPD and SSR markers.  '
 date: 2016-03-01
 venue: 'Proceedings of the National Academy of Sciences, India - Section B: Biological Sciences'
-paperurl: 'https://link.springer.com/article/10.1007/s40011-014-0427-3'
+citations: 'Sood, V. K., Rana, I., Hussain, W., and Chaudhary, H. K. 2016. Genetic Diversity of Genus Avena from North Western-Himalayas Using Molecular Markers. Proc. Natl. Acad. Sci., India, Sect. B Biol. Sci. 86:151–158.'
 ---
 
 <a href='https://link.springer.com/article/10.1007/s40011-014-0427-3'>Full length manuscript available here:</a>

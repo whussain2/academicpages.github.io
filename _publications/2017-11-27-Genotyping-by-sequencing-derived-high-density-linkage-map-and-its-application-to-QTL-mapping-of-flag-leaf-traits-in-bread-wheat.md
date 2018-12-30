@@ -5,7 +5,7 @@ permalink: /publications/2017-11-27-Genotyping-by-sequencing-derived-high-densit
 excerpt: ' In this manuscript we describes the development of high-density linkage map in Harry x Wesley derived RIL population, confirm the accuracy, reliability and validity of the map, and also its application in mapping QTLs for flag leaf traits.'
 date: 2017-11-27
 venue: 'Scientific Reports'
-citation: '8.	Hussain, W., Baenziger, P. S., Belamkar, V., Guttieri, M. J., Venegas, J. P., Easterly, A., et al. 2017. Genotyping-by-sequencing derived high-density linkage map and its application to QTL mapping of flag leaf traits in bread wheat. Scientific Reports. 7:16394.'
+citation: 'Hussain, W., Baenziger, P. S., Belamkar, V., Guttieri, M. J., Venegas, J. P., Easterly, A., et al. 2017. Genotyping-by-sequencing derived high-density linkage map and its application to QTL mapping of flag leaf traits in bread wheat. Scientific Reports. 7:16394.'
 
 ---
 

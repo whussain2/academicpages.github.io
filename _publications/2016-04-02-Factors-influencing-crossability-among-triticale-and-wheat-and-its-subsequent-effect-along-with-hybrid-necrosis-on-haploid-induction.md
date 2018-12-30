@@ -5,7 +5,7 @@ permalink: /publications/2016-04-02-Factors-influencing-crossability-among-triti
 excerpt: 'The manuscript investigates the influence of genotypic and environmental factors on the crossability of elite triticale and wheat genotypes, screen the effect of necrotic genes in the F1 hybrids and the relative performance of hybrids towards haploid induction.'
 date: 2016-04-02
 venue: 'Acta Agriculturae Scandinavica, Section B—Soil & Plant Science'
-citation: 'amwal, N. S., Chaudhary, H. K., Badiyal, A., and Hussain, W. 2016. Factors influencing crossability among triticale and wheat and its subsequent effect along with hybrid necrosis on haploid induction. Acta Agriculturae Scandinavica, Section B — Soil & Plant Science. 66:282–289.'
+citation: 'Jamwal, N. S., Chaudhary, H. K., Badiyal, A., and Hussain, W. 2016. Factors influencing crossability among triticale and wheat and its subsequent effect along with hybrid necrosis on haploid induction. Acta Agriculturae Scandinavica, Section B — Soil & Plant Science. 66:282–289.'
 
 ---
 

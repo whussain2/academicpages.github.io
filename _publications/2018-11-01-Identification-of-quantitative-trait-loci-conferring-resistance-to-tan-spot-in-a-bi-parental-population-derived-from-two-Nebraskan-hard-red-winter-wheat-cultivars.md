@@ -5,7 +5,7 @@ permalink: publications/2018-11-01-Identification-of-quantitative-trait-loci-con
 excerpt: 'This paper characterizes the Tan spot resistance in Harry and Wesley cultivars and reveals high resistance to tan spot in Wesley cultivar is largely due to lack of two <i> Ptr ToxA-Tsn1 </i>  and <i> Ptr ToxC-Tsc1 </i> tan spot sensitivity genes.'
 date: 2018-11-01
 venue: 'Molecular Breeding'
-citation: 'Kariyawasam, G. K., Hussain, W., Easterly, A., Guttieri, M., Belamkar, V., Poland, J., et al. 2018. Identification of quantitative trait loci conferring resistance to tan spot in a biparental population derived from two Nebraska hard red winter wheat cultivars. Mol Breeding. 38'
+citation: 'Kariyawasam, G. K., Hussain, W., Easterly, A., Guttieri, M., Belamkar, V., Poland, J., et al. 2018. Identification of quantitative trait loci conferring resistance to tan spot in a biparental population derived from two Nebraska hard red winter wheat cultivars. Mol Breeding. 38.'
 
 ---
 <a href='https://link.springer.com/article/10.1007/s11032-018-0901-3'>Full length manuscript is available here:</a>
