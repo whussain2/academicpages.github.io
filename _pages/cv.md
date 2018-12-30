@@ -9,21 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-a:link {
-  text-decoration: none;
-}
+<span style="text-decoration: none">
 
-a:visited {
-  text-decoration: none;
-}
 
-a:hover {
-  text-decoration: none;
-}
 
-a:active {
-  text-decoration: none;
-}
 ------
 
 <span style="color:black">**Education**</span>
@@ -218,4 +207,4 @@ a:active {
 	* University of Nebraska Lincoln, Department of Animal Sciences
 
 ------
-
+</span>
