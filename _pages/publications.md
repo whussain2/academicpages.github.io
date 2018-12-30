@@ -24,6 +24,15 @@ ShinyAIM is a nice tool to visualize the Manhattan plots in interactive and easy
 
 ![Sallam2018](http://whussain2.github.io/images/sallam_2018_euphytica.jpg){: .align-right height="200px" width="191px"}
 
-<b>[Genetic variation in drought tolerance at seedling stage and grain yield in low rainfall environments in wheat.](http://whussain2.github.io/publications/2018-08-01-Genetic-variation-in-drought-tolerance-at-seedling-stage-and-grain-yield-in-low-rainfall-environments-in-wheat)</b> A. Sallam, A. Mourad, <b>W. Hussain</b>, P. Baenziger.(2018).<i>Euphytica</i>.
+<b>[Genetic variation in drought tolerance at seedling stage and grain yield in low rainfall environments in wheat.](http://whussain2.github.io/publications/2018-08-01-Genetic-variation-in-drought-tolerance-at-seedling-stage-and-grain-yield-in-low-rainfall-environments-in-wheat)</b> A. Sallam, A. Mourad, <b>W. Hussain</b>, P. Baenziger.(2018).<i> Euphytica</i>.
 
 The manuscript describes the newly developed protocol to identify the drought genotypes in winter wheat at seedling stage in the green house and compare it across the field trials.  
+
+<br>
+
+![Hussain2018](http://whussain2.github.io/images/hussain_2018_jpr.jpg){: .align-left height="200px" width="186px"}
+
+<b>[Registration of a bread Wheat recombinant inbred line mapping population derived from a cross between ‘Harry’ and ‘Wesley’.](http://whussain2.github.io/publications/2018-07-02-Registration-of-a-bread-wheat-recombinant-inbred-line-mapping-population-derived-from-a-cross-between-Harry-and-Wesley)</b> <b>Hussain, W. </b>, M.J. Guttieri, V. Belamkar, J. Polland, A.Sallam, and P. Baenziger.(2018). <i>Journal of Plant Registrations</i>.
+
+ The manuscript describes the development and registration of Harry x Wesley derived recombinant inbred line mapping population. The mapping population is an important germplasm resource to breed for drought tolerance and wider adaptation in the US Great Plains.  
+
