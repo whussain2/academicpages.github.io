@@ -22,9 +22,9 @@ ShinyAIM is a nice tool to visualize the Manhattan plots in interactive and easy
 
 <br>
 
-![Sallam2018](http://whussain2.github.io/images/sallam_2018_euphytica.jpg){: .align-left height="200px" width="186px"}
+![Sallam2018](http://whussain2.github.io/images/sallam_2018_euphytica.jpg){: .align-right height="200px" width="186px"}
 
-<b>[Genetic variation in drought tolerance at seedling stage and grain yield in low rainfall environments in wheat (<i> Triticum aestivum L.<i/>).](http://whussain2.github.io/publications/2018-08-01-Genetic-variation-in-drought-tolerance-at-seedling-stage-and-grain-yield-in-low-rainfall-environments-in-wheat)</b> Sallam, A. , A. Mourad, <b>W. Hussain</b>, P. Baenziger.(2018). <i>Euphytica</i>.
+<b>[Genetic variation in drought tolerance at seedling stage and grain yield in low rainfall environments in wheat (<i> Triticum aestivum L.<i/>).](http://whussain2.github.io/publications/2018-08-01-Genetic-variation-in-drought-tolerance-at-seedling-stage-and-grain-yield-in-low-rainfall-environments-in-wheat)</b> A. SallamA, A. Mourad, <b>W. Hussain</b>, P. Baenziger.(2018).<i>Euphytica</i>.
 
  The manuscript describes the newly developed protocol to identify the drought genotypes in winter wheat at seedling stage in the green house and compare it across the field trials.  
 
