@@ -22,7 +22,7 @@ ShinyAIM is a nice tool to visualize the Manhattan plots in interactive and easy
 
 <br>
 
-![Sallam2018](http://whussain2.github.io/images/sallam_2018_euphytica.jpg){: .align-right height="420px" width="350px"}
+![Sallam2018](http://whussain2.github.io/images/sallam_2018_euphytica.jpg){: .align-right height="360px" width="300px"}
 
 <b>[Genetic variation in drought tolerance at seedling stage and grain yield in low rainfall environments in wheat.](http://whussain2.github.io/publications/2018-08-01-Genetic-variation-in-drought-tolerance-at-seedling-stage-and-grain-yield-in-low-rainfall-environments-in-wheat)</b> A. Sallam, A. Mourad, <b>W. Hussain</b>, P. Baenziger.(2018).<i> Euphytica</i>.
 
@@ -38,7 +38,7 @@ The manuscript describes the newly developed protocol to identify the drought ge
 
 <br>
 
-![Belamkar2018](http://whussain2.github.io/images/belamkar_2018_g3.jpg){: .align-right height="310px" width="290px"}
+![Belamkar2018](http://whussain2.github.io/images/belamkar_2018_g3.jpg){: .align-right height="250px" width="290px"}
 
 <b>[Genomic selection in preliminary yield trials in a winter wheat breeding program.](http://whussain2.github.io/publications/2018-06-19-Genomic-selection-in-preliminary-yield-trials-in-a-winter-wheat-breeding-program)</b> Belamkar, V., M.J. Guttieri, <b>W. Hussain</b>, D. Jarquin, I. Ei-basyoni, J. Polland, A.J. Lorenz, and P. Baenziger.(2017). <i>G3</i>.
 
@@ -47,7 +47,7 @@ The manuscript provides insights and assesses the the integration of genomic sel
 
 <br>
 
-![Jamwal2018](http://whussain2.github.io/images/jamwal_2018_currentmicro.jpg){: .align-right height="350px" width="200px"}
+![Jamwal2018](http://whussain2.github.io/images/jamwal_2018_currentmicro.jpg){: .align-right height="200px" width="200px"}
 
 <b>[Success in inducing effective rooting in triticale x wheat and wheat x wheat derived haploid plantlets in cocopeat mixture.](http://whussain2.github.io/publications/2018-05-10-Success-in-inducing-effective-rooting-in-triticale-x-wheat-and-wheat-x-wheat-derived-haploid-plantlets-in-cocopeat-mixture)</b> N.S. Jamwal, H.K. Chaudhary, A. Badiyal, <b> W. Hussain</b> , P. Katoch, N. Kumar.(2018). <i>International Journal of Current Microbiology and Applied Sciences</i>.
 
