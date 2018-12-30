@@ -38,7 +38,7 @@ The manuscript describes the newly developed protocol to identify the drought ge
 
 <br>
 
-![Belamkar2018](http://whussain2.github.io/images/belamkar_2018_g3.jpg){: .align-right height="250px" width="290px"}
+![Belamkar2018](http://whussain2.github.io/images/belamkar_2018_g3.jpg){: .align-right height="191px" width="186px"}
 
 <b>[Genomic selection in preliminary yield trials in a winter wheat breeding program.](http://whussain2.github.io/publications/2018-06-19-Genomic-selection-in-preliminary-yield-trials-in-a-winter-wheat-breeding-program)</b> Belamkar, V., M.J. Guttieri, <b>W. Hussain</b>, D. Jarquin, I. Ei-basyoni, J. Polland, A.J. Lorenz, and P. Baenziger.(2017). <i>G3</i>.
 
