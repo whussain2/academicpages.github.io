@@ -6,7 +6,7 @@ excerpt: 'In this paper we review the various mechanisms and genes involved in c
 date: 2011-01-01
 venue: 'Current Genomics'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3129041/'
-citation: Sanghera, G.S., Wani, S.H., Hussain, W., and Singh, N. (2011) Engineering Cold Stress Tolerance in Crop Plants. *Curr Genomics*, **12**, 30–43.
+citation: 'Sanghera, G.S., Wani, S.H., Hussain, W., and Singh, N. (2011) Engineering Cold Stress Tolerance in Crop Plants. *Curr Genomics*, **12**, 30–43.'
 
 ---
 
