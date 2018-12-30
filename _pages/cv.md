@@ -146,8 +146,10 @@ redirect_from:
 ------
 
 <span style="color:black">**Posters**</span>
+
 ======
 ------
+<span style={text-decoration: none;} </style>
 * [Lata, S., Guleria, S.K., Thakur, K., Kumari, R., Rana, M., and **Hussain, W**: Introgression of *Opaque2* Gene Through Marker-Assisted Backcross Breeding in Elite Maize Inbred Lines. 13th Asian Maize Conference and Expert Consultation on Maize for Food, Feed, Nutrition and Environmental Security, Ludhiana, India October 8-10,2018. P140.](https://maize.org/wp-content/uploads/sites/5/2018/09/13thAMCBookofAbstracts.pdf)
 * [Venegas, J.P., Graybosch, R., **Hussain, W**., Bai, G., St Amand, P., Baenziger, P.S., Blecha, S: High-Density Linkage Map Construction and Mapping of Mutant Low Phytate QTLs in Winter Wheat (*Triticum Aestivum L.*) Using Genotyping-By-Sequencing (GBS). ASA, CSSA and SSSA Tampa, Florida, Oct. 22-25, 2017.](https://scisoc.confex.com/crops/2017am/webprogram/Paper106515.html) 
 * [Rana, M., Verma, P., **Hussain,W**., Kaldate, R., Shikha, D., Kaachra, A., Chahota, R.K., Bhatia,S., and Sharma, T.R: Molecular Mapping of QTLs for Drought Tolerance and Yield Traits in Lentil. InterDrought-V, Hyderabad International Convention Center (HICC), At Hyderabad India, 21-25 Feb. 2017.](http://idv.ceg.icrisat.org/wp-content/uploads/2016/06/Abstracts_Book_Printed.pdf)
