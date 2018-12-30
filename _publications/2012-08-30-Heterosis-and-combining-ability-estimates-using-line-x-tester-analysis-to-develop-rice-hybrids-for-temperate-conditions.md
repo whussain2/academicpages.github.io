@@ -4,8 +4,8 @@ collection: publications
 permalink: /publications/2012-08-30-Heterosis-and-combining-ability-estimates-using-line-x-tester-analysis-to-develop-rice-hybrids-for-temperate-conditions
 excerpt: 'Here, we studied the heterosis and combining ability by crossing 18 lines (Males) with two cytoplasmic newly developed male sterile (CMS) lines (Females).'
 date: 2012-08-30
-venue: 'Notulae Scientia Biologicae'
-paperurl: 'https://www.notulaebiologicae.ro/index.php/nsb/article/view/7873'
+venue: 'Notulae Scientia Biologicae' 
+citation: '18.	Sanghera, G. S., and Hussain, W. 2012. Heterosis and combining ability estimates using Line x Tester analysis to develop rice hybrids for temperate conditions. Notulae Scientia Biologicae. 4:131–142.'
 ---
 
 <a href='https://www.notulaebiologicae.ro/index.php/nsb/article/view/7873'>Full length manuscript available here:</a>

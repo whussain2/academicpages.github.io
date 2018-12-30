@@ -5,7 +5,7 @@ permalink: /publications/2014-06-15-Interactive-genotypic-influence-of-triticale
 excerpt: 'Here, we studied the response of diverse genotypes of triticale and wheat and environment on their crossability as well as to evaluate the efficiency of *Imperata cylindrica*-mediated chromosome elimination approach for haploid induction in triticale × wheat (*Triticum aestivum*) hybrids.'
 date: 2014-06-15
 venue: 'Cereal Research Communications'
-paperurl: 'https://akademiai.com/doi/abs/10.1556/CRC.2014.0017'
+citation: 'Badiyal, A., Chaudhary, H. k., Jamwal, N. s., Hussain, W., Mahato, A., and Bhatt, A. k. 2014. Interactive genotypic influence of triticale and wheat on their crossability and haploid induction under varied agroclimatic regimes. Cereal Research Communications. 42:700–709.'
 ---
 
 <a href='https://akademiai.com/doi/abs/10.1556/CRC.2014.0017'>Full length manuscript available here:</a>
