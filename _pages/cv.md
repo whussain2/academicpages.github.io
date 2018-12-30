@@ -11,7 +11,7 @@ redirect_from:
 
 ------
 
-<span style="color:black">**Education**</span>
+<span style="color:black">**Educ**</span>
 ======
 ------
 * B.S., Agriculture Specialization in Research, [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, June 2009
