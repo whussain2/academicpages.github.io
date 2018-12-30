@@ -190,12 +190,3 @@ redirect_from:
 
 ------
 
-<span style="color:black">**Invited Talks**</span>
-======
-------
-* Shiny Based Imaging GWAS Server, at University of Nebraska Lincoln, Deptt. of Statistics, 2018.
-* New tools to Understand and Improve Wheat in Genomics Era, at Maharashtra Hybrid Seed Company (MAHYCO), India, 2017.
-* Genotyping-by-sequencing derived high-density linkage map and its application to QTL mapping of flag leaf traits in bread wheat” at Kansas State Plant Breeding symposium, 2017.
-* Development of high-density linkage map in wheat and genome-wide QTL mapping for plant height at the University of Nebraska, Lincoln Plant Breeding and Genetics Symposium, 2016.
-
-
