@@ -57,7 +57,7 @@ The manuscript reveals the success of  the Cocopeat mixture in inducing rooting 
 
 ![Hussain2017](http://whussain2.github.io/images/hussain_2017_sr.jpg){: .align-right height="300px" width="220px"}
 
-<b>[Genotyping-by-sequencing derived high-density linkage map and its application to QTL mapping of flag leaf traits in bread wheat](http://whussain2.github.io/publications/2017-11-27-Genotyping-by-sequencing-derived-high-density-linkage-map-and-its-application-to-QTL-mapping-of-flag-leaf-traits-in-bread-wheat)</b> <b>W. Hussain </b>,  P. Baenziger, V. Belamkar, M.J. Guttieri, J.P. Venegas, A. Easterly, J. Polland, A.Sallam. (2018). <i>Scientific Reports</i>.
+<b>[Genotyping-by-sequencing derived high-density linkage map and its application to QTL mapping of flag leaf traits in bread wheat.](http://whussain2.github.io/publications/2017-11-27-Genotyping-by-sequencing-derived-high-density-linkage-map-and-its-application-to-QTL-mapping-of-flag-leaf-traits-in-bread-wheat)</b> <b>W. Hussain </b>,  P. Baenziger, V. Belamkar, M.J. Guttieri, J.P. Venegas, A. Easterly, J. Polland, A.Sallam. (2018). <i>Scientific Reports</i>.
 
  In this manuscript we describes the development of high-density linkage map in Harry x Wesley derived RIL population, confirm the accuracy, reliability and validity of the map, and also its application in mapping QTLs for flag leaf traits.
 
@@ -76,7 +76,7 @@ The manuscript reports the development of a new multi-sensor system for high thr
 The manuscript investigates the influence of genotypic and environmental factors on the crossability of elite triticale and wheat genotypes, screen the effect of necrotic genes in the F1 hybrids and the relative performance of hybrids towards haploid induction.  
 
 <br>
-![Sood2016](http://whussain2.github.io/images/sood_2016_pnas_india.jpg){: .align-right height="200px" width="186px"}
+![Sood2016](http://whussain2.github.io/images/sood_2016_pnas_india.jpg){: .align-right height="300px" width="186px"}
 <b>[Genetic diversity of genus *Avena* from North Western-Himalayas Using molecular markers.](http://whussain2.github.io/publications/2016-03-01-Genetic-diversity-of-genus-Avena-from-North-Western-Himalayas-using-molecular-markers)</b>Sood,V.K., I. Rana, <b> W.Hussain</b>, H.K. Chaudhary.(2016). <i>Proceedings of the National Academy of Sciences, India - Section B: Biological Sciences </i>.
 
 Here, we assess the diversity of wild relatives and cultivars of geneus Avena using RAPD and SSR markers.  
@@ -109,16 +109,18 @@ Here, we studied the heterosis and combining ability by crossing 18 lines (Males
 
 <br>
 ![Hussain2012](http://whussain2.github.io/images/hussain_2012_electronic_journal.jpg){: .align-right height="200px" width="186px"}
-<b>[Exploitation of heterosis in rice (*Oryza sativa L.*) using CMS system under temperate conditions.](http://whussain2.github.io/publications/2012-03-05-Exploitation-of-heterosis-in-rice-using-CMS-system-under-temperate-conditions)<b>Hussain, W.</b>,Sanghera, G.S.(2012). <i>Electronic Journal of Plant Breeding</i>.
+<b>[Exploitation of heterosis in rice (*Oryza sativa L.*) using CMS system under temperate conditions.](http://whussain2.github.io/publications/2012-03-05-Exploitation-of-heterosis-in-rice-using-CMS-system-under-temperate-conditions)</b> <b> Hussain, W.</b>,Sanghera, G.S.(2012). <i>Electronic Journal of Plant Breeding</i>.
 
 Here, we reported the identification of potential restorers for the newly developed CMS lines SKAU7A and SKAU11A under temperate conditions.
 
 <br>
+
 ![Sanghera2011](http://whussain2.github.io/images/sanghera_2011_current_genomics_journal.jpg){: .align-right height="200px" width="186px"}
 <b>[Engineering cold stress tolerance in crop plants.](http://whussain2.github.io/publications/2011-01-01-Engineering-cold-stress-tolerance-in-crop-plants)</b> Sanghera, G.S., Wani, S.H.,<b>Hussain, W.</b>,Singh, N.B.(2011). <i>Current Genomics</i>.
+
 In this paper we review the various mechanisms and genes involved in cold acclimatization and the possibilities where transgenic technology has been explored for breeding cold tolerance in crop plants.
 
 <br>
-![Sanghera2011](){: .align-right height="200px" width="186px"}
+
 <b>[The magic of heterosis: new tools and complexities.](http://whussain2.github.io/publications/2011-02-02-The-magic-of-heterosi-new-tools-and-complexities)</b> Sanghera, G.S., Wani, S.H.,<b>Hussain, W.</b>,W. Shafi, A. Haribhushan, Singh, N.B.(2011). <i>Nature and Science</i>.
 In this paper we review the moder concept of heterosis, and genetic and molecular basis of heterosis.
