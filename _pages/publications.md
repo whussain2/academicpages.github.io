@@ -22,7 +22,7 @@ ShinyAIM is a nice tool to visualize the Manhattan plots in interactive and easy
 
 <br>
 
-![Sallam2018](http://whussain2.github.io/images/sallam_2018_euphytica.jpg){: .align-right height="200px" width="191px"}
+![Sallam2018](http://whussain2.github.io/images/sallam_2018_euphytica.jpg){: .align-right height="250px" width="200px"}
 
 <b>[Genetic variation in drought tolerance at seedling stage and grain yield in low rainfall environments in wheat.](http://whussain2.github.io/publications/2018-08-01-Genetic-variation-in-drought-tolerance-at-seedling-stage-and-grain-yield-in-low-rainfall-environments-in-wheat)</b> A. Sallam, A. Mourad, <b>W. Hussain</b>, P. Baenziger.(2018).<i> Euphytica</i>.
 
@@ -30,7 +30,7 @@ The manuscript describes the newly developed protocol to identify the drought ge
 
 <br>
 
-![Hussain2018](http://whussain2.github.io/images/hussain_2018_reg.jpg){: .align-right height="200px" width="186px"}
+![Hussain2018](http://whussain2.github.io/images/hussain_2018_reg.jpg){: .align-right height="250px" width="200px"}
 
 <b>[Registration of a bread Wheat recombinant inbred line mapping population derived from a cross between ‘Harry’ and ‘Wesley’.](http://whussain2.github.io/publications/2018-07-02-Registration-of-a-bread-wheat-recombinant-inbred-line-mapping-population-derived-from-a-cross-between-Harry-and-Wesley)</b> <b>W. Hussain </b>, M.J. Guttieri, V. Belamkar, J. Polland, A.Sallam, and P. Baenziger.(2018). <i>Journal of Plant Registrations</i>.
 
@@ -38,7 +38,7 @@ The manuscript describes the newly developed protocol to identify the drought ge
 
 <br>
 
-![Belamkar2018](http://whussain2.github.io/images/belamkar_2018_g3.jpg){: .align-right height="200px" width="186px"}
+![Belamkar2018](http://whussain2.github.io/images/belamkar_2018_g3.jpg){: .align-right height="250px" width="200px"}
 
 <b>[Genomic selection in preliminary yield trials in a winter wheat breeding program.](http://whussain2.github.io/publications/2018-06-19-Genomic-selection-in-preliminary-yield-trials-in-a-winter-wheat-breeding-program)</b> Belamkar, V., M.J. Guttieri, <b>W. Hussain</b>, D. Jarquin, I. Ei-basyoni, J. Polland, A.J. Lorenz, and P. Baenziger.(2017). <i>G3</i>.
 
