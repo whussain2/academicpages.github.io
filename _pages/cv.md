@@ -202,7 +202,13 @@ redirect_from:
 ======
 ------
 * Guest Lectures on course “Quantitative methods for genomics of complex traits”
-	* University of Nebraska Lincoln, Department of Animal Sciences
+* University of Nebraska Lincoln, Department of Animal Sciences
+
+		*ASCI 944/STAT 844 Quantitative Methods for Genomics of Complex Traits [PDF][R]
+
+* R_Club Lecture
+		Interactive Data Visualization and plotting Subsets of Data in Same Panel www
+		Visualization of Correlation Heat-Maps for multiple variables in R www
 
 ------
 
