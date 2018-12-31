@@ -93,7 +93,7 @@
 
       &.current {
         color: #fff;
-        background: $primary-color;
+        background: $red;
       }
 
       &.disabled {
@@ -196,7 +196,7 @@
     padding: 0 0.5rem;
     border: 0;
     outline: none;
-    background-color: $primary-color;
+    background-color: $red;
     color: #fff;
     cursor: pointer;
   }
@@ -382,7 +382,7 @@
   .nav__title {
     color: #fff;
     font-size: $type-size-6;
-    background: $primary-color;
+    background: $red;
     border-top-left-radius: $border-radius;
     border-top-right-radius: $border-radius;
   }
@@ -406,7 +406,7 @@
 
     &:hover {
       color: #000;
-      background: $lighter-gray;
+      background: $red;
     }
   }
 
