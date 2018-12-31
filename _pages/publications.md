@@ -119,12 +119,3 @@ In this paper we review the various mechanisms and genes involved in cold acclim
 
 In this paper we review the moder concept of heterosis, and genetic and molecular basis of heterosis.
 
-## Book Chapters
-
-![Rana2018](http://whussain2.github.io/images/rana_2018_science_direct_book.jpg){: .align-right height="250px" width="234px"}
-
-<b>[In: Mohar Singh (eds), Gene Pyramiding and Multiple Character Breeding, Lentils: Potential Resources for Enhancing Genetic Gains](http://whussain2.github.io/publications/2018-07-01-Gene-Pyramiding-and-Multiple-Character-Breeding-Lentils-Potential-Resources-for-Enhancing-Genetic-Gains)</b> <b>Rana, M., A. Sood,</b>, W. Hussain, R. Kaldate, T.R. Sharma, R.K. Gill, S. Kumar, S. Singh. (2018). <i>Science Direct</i>.
-
-In this chapter we discussed and revised the the importance and methodologies for gene pyramiding and multiple characters breeding in relevance to Lentils.
-
-<br>
