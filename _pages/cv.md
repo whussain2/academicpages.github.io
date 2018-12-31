@@ -203,11 +203,12 @@ redirect_from:
 ------
 [**Teaching Experience 1**](https://whussain2.github.io/teaching/2018-ASCI%20944/STAT%20844%20Quantitative%20Methods%20for%20Genomics%20of%20Complex%20Traits)
 
-* This lecture was delivered in Rclub hosted by students in the Agronomy and Horticulture department, University of Nebraska]. In this lecture I discussed about data visualizations in ggplot, interactive visualizations using plotly, multiple plots in same panel, correlations and correlation heat maps.
+* This lecture was one of the lecture in course **ASCI 944/STAT 844 Quantitative Methods for Genomics of Complex Traits**  taught by [Dr. Gota Morota](http://morotalab.org/). In this lecture I talk about **basic concepts in GWAS**, **how to correct for population stratification**, and **statistical models to run GWAS** and also showed **practical demonstration** how to perform **GWAS in R-software**.
 
 [**Teaching Experience 2**](https://whussain2.github.io/teaching/2018-Rclub-Lecture)
 
-* This lecture was one of the lecture in course ASCI 944/STAT 844 Quantitative Methods for Genomics of Complex Traits taught by Dr. Gota Morota. In this lecture I talk about GWAS and population stratification and also showed practical demonstration how to perform GWAS in R-software.
+* This lecture was delivered in Rclub hosted by students in the Agronomy and Horticulture department, University of Nebraska, Lincoln. In this lecture I discussed about **data visualizations in ggplot**, **interactive visualizations using plotly**, **multiple plots in same panel**, **correlations** and **correlation heat maps**. 
+
 
 ------
 
