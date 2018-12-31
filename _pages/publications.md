@@ -6,13 +6,13 @@ author_profile: true
 
 <br>
 ## Peer-reviewed Publications
-![Kariyawasam2018](http://whussain2.github.io/images/kariyawasam_2018.jpg){: .align-right height="260px" width="250px"}
+![Kariyawasam2018](http://whussain2.github.io/images/kariyawasam_2018.jpg){: .align-right height="220px" width="200px"}
 <b>[Identification of quantitative trait loci conferring resistance to tan spot in a bi-parental population derived from two Nebraskan hard red winter wheat cultivars.](http://whussain2.github.io/publications/2018-11-01-Identification-of-quantitative-trait-loci-conferring-resistance-to-tan-spot-in-a-bi-parental-population-derived-from-two-Nebraskan-hard-red-winter-wheat-cultivars)</b> Kariyawasam, G.K., <b>W. Hussain</b>, A. Easterly, M. Guttieri, V. Belamkar, J. Poland, J. Venegas, S. Baenziger, F. Marias, J.B. Rasmussen, and Z.(2018). <i>Molecular Breeding</i>.
 
 This paper characterizes the Tan spot resistance in Harry and Wesley cultivars and reveals high resistance to tan spot in Wesley cultivar is largely due to lack of two *Ptr ToxA-Tsn1* and *Ptr ToxC-Tsc1* tan spot sensitivity genes.
 
 <br>
-![Hussain2018](http://whussain2.github.io/images/hussain_2018_plantdirect.jpg){: .align-right height="350px" width="291px"}
+![Hussain2018](http://whussain2.github.io/images/hussain_2018_plantdirect.jpg){: .align-right height="250px" width="200px"}
 <b>[ShinyAIM: Shiny-based application of interactive Manhattan plots for longitudinal genome-wide association studies.](http://whussain2.github.io/publications/2018-10-08-ShinyAIM-Shiny-based-application-of-interactive-Manhattan-plots-for-longitudinal-genome-wide-association-studies)</b> <b>W. Hussain</b>, M. Campbell, H. Walia, and G. Morota. (2018). <i>Plant Direct</i>.
 
 ShinyAIM is a nice tool to visualize the Manhattan plots in interactive and easy way. The application has unique features to interpret and view dynamically GWAS outputs particularly from temporal GWAS studies.
