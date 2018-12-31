@@ -3,12 +3,12 @@ title: "Teaching experience 2"
 collection: teaching
 type: "Lecture"
 permalink: /teaching/2018-Rclub-Lecture
-venue: "University of Nebraska, Department of Agronomy"
+venue: "University of Nebraska Licoln, Department of Agronomy and Horticulture"
 date: 2018-12-05
 location: "Lincoln, USA"
 ---
 
-This lecture was delivered in Rclub hosted by students in the Agronomy and Horticulture department, University of Nebraska]. In this lecture I discussed about data visualizations in ggplot, interactive visualizations using plotly, multiple plots in same panel, correlations and correlation heat maps. 
+This lecture was delivered in Rclub hosted by students in the Agronomy and Horticulture department, University of Nebraska, Lincoln]. In this lecture I discussed about data visualizations in ggplot, interactive visualizations using plotly, multiple plots in same panel, correlations and correlation heat maps. 
 
 Lecture Materials
 ======
