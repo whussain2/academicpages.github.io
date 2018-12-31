@@ -8,13 +8,13 @@ date: 2018-12-05
 location: "Lincoln, USA"
 ---
 
-This lecture was delivered in Rclub hosted by  is a description of a teaching experience. You can use markdown like any other post.
+This lecture was delivered in Rclub hosted by students in the Agronomy and Horticulture department, University of Nebraska]. In this lecture I discussed about data visualizations in ggplot, interactive visualizations using plotly, multiple plots in same panel, correlations and correlation heat maps. 
 
-Heading 1
+Lecture Materials
 ======
 
-Heading 2
-======
+<a href='http://whussain2.github.io/Materials/Teaching/Rclub_basicdataVis.html'>Data Visualizations_html</a>
 
-Heading 3
-======
+<a href='http://whussain2.github.io/Materials/Teaching/Correlation_heaptmaps.html'>Correlation Heatmaps_html</a>
+
+
