@@ -21,7 +21,7 @@ Research Interests
 ======
 ------
 * Incorporating quantitative genetics, statistical genomics, genomics, bioinformatics and high-throughput phenotyping to bridge the gap between phenotype and genotype.
-* Mapping (via linkage and or association) genomic regions with emphasis on biotic and abiotic stresses.
+* Mapping (via linkage and or association) genomic regions with emphasize on biotic and abiotic stresses.
 * Genomic selection/predictions in cultivar and hybrid development.
 * Gene characterization, cloning and isolation, and integration marker-assisted breeding
 
@@ -35,10 +35,10 @@ I am highly motivated in my goals to be part of a nationally and internationally
 
 ------
 
->
-<text font-size="16"
+
 > <span style="color:darkred">"Innovations do not come from brain, innovations do come from sharing of ideas"</span>
 > <span style="color:darkred">"Together we can make things better"</span>
 >
 >--- Anonymous
-</text>
+
+-------
