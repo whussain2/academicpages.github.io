@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience"
+title: "Teaching experience 1"
 collection: teaching
 type: "Guest lecture"
 permalink: /teaching/2018-ASCI 944/STAT 844 Quantitative Methods for Genomics of Complex Traits 
