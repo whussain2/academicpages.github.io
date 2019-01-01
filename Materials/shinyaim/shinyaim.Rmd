@@ -1,6 +1,5 @@
 ---
 title: "ShinyAIM Application R codes"
-date: "`r Sys.Date()`"
 output:
   rmdformats::html_docco:
     highlight: tango
