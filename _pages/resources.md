@@ -1,5 +1,5 @@
 ---
-title: "Open Access Resources for Reserach Community"
+title: "Resources for Reserach Community"
 permalink: /resources/
 author_profile: true
 ---
