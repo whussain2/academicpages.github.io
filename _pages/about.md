@@ -20,9 +20,9 @@ Outside of my professional life I enjoy playing cricket, travelling, reading, an
 Research Interests
 ======
 ------
-* Incorporating quantitative genetics, statistical genomics, genomics, bioinformatics and high-throughput phenotyping to bridge the gap between phenotype and genotype.
-* Mapping (via linkage and or association) genomic regions with emphasize on biotic and abiotic stresses.
-* Genomic selection/predictions in cultivar and hybrid development.
+* Incorporating quantitative genetics, genomics, bioinformatics, statistics and high-throughput phenotyping to bridge the gap between phenotype and genotype
+* Mapping (via linkage and or association) genomic regions with emphasize on biotic and abiotic stresses
+* Genomic selection/predictions in cultivar and hybrid development
 * Gene characterization, cloning and isolation, and integration marker-assisted breeding
 
 ------
@@ -31,7 +31,7 @@ Motivation
 ======
 ------
 
-I am highly motivated in my goals to be part of a nationally and internationally research breeding and genetics programs with both basic and applied research components, along with a strong focus on delivering solutions to the current issues of crop breeding and genetics in genomics era, availability of high throughput phenotyping and genotyping platforms, and high computing resources. Innovation, collaboration, problem identification followed by scientific redressal, and along with responsiveness to the needs of the farming community serve basis for my passion to work in plant breeding and crop genetics. In all aspects of my work, I emphasize critical thinking and strong partnerships between plant breeders and geneticists and scientists from allied disciplines in to promote a scientifically sound, profitable, and sustainable research-based breeding programs.
+I am highly motivated in my goals to be part of a nationally and internationally research breeding and genetics programs with both basic and applied research components, along with a strong focus on delivering solutions to the current issues of crop breeding and genetics in genomics era, availability of high-throughput phenotyping and genotyping platforms, and high computing resources. Innovation, collaboration, problem identification followed by scientific redressal, and along with responsiveness to the needs of the farming community serve basis for my passion to work in plant breeding and crop genetics. In all aspects of my work, I emphasize critical thinking and strong partnerships between plant breeders and geneticists and scientists from allied disciplines in to promote a scientifically sound, and sustainable research-based breeding programs.
 
 ------
 
