@@ -23,7 +23,7 @@ Research Interests
 * Incorporating quantitative genetics, genomics, bioinformatics, statistics and high-throughput phenotyping to bridge the gap between phenotype and genotype
 * Mapping (via linkage and or association) genomic regions with emphasize on biotic and abiotic stresses
 * Genomic selection/predictions in cultivar and hybrid development
-* Gene characterization, cloning and isolation, and integration marker-assisted breeding
+* Gene characterization, cloning and isolation, and integration through marker-assisted breeding
 
 ------
 
