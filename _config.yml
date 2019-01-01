@@ -184,9 +184,10 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
- resources:
+  resources:
     output: true
     permalink: /:collection/:path/
+ 
 
 # Defaults
 defaults:
