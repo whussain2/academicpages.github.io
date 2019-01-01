@@ -12,7 +12,7 @@ Owning to advancements in sensor‐based, non‐destructive phenotyping platform
 
 ## Background
 
-This repo contains all the codes, and information about the application. The application is available online at [Shiny Server](https://chikudaisei.shinyapps.io/shinyaim/). All the codes, sample files are available on GitHub repository [whussain2/ShinyAIM](https://github.com/whussain2/ShinyAIM ) and [Zenodo](https://zenodo.org/record/1422835). The details how to use this application can be found on the first main tab of the application once it is opened. Also, the manuscript along with all the details is published in Plant Direct journal at [Shiny Manuscript](https://doi-org.libproxy.unl.edu/10.1002/pld3.91). 
+This page provides information abot the application and links to the codes, application and materials available in repo. The application is available online at [Shiny Server](https://chikudaisei.shinyapps.io/shinyaim/). All the codes, sample files are available on GitHub repository [whussain2/ShinyAIM](https://github.com/whussain2/ShinyAIM ) and [Zenodo](https://zenodo.org/record/1422835). The details how to use this application can be found on the first main tab of the application once it is opened. Also, the manuscript along with all the details is published in Plant Direct journal at [Shiny Manuscript](https://doi-org.libproxy.unl.edu/10.1002/pld3.91). 
 
 ## Codes in .rmd and HTML is given below:
 
