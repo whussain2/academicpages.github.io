@@ -11,7 +11,7 @@ redirect_from:
 Biography
 ======
 ------
-I'm a plant breeder and quantitative geneticist. Currently, a post-doctoral research associcate  at the University of Nebraska Lincoln working with [Gota Morota](http://morotalab.org/) and [Harkamal Walia](http://cropstressgenomics.org/).  Currently, my research focuses on (i) applying quantitative genetics methods for genome-wide association and genomic prediction of longitudinal traits derived from high-throughput phenotyping platforms for high-night temperature stress in rice and wheat; (ii) modelling variance-heterogeneity in genome-wide association studies using novel statistical tools; and (iii) develop applications related to quantitative genetic studies.
+I'm a plant breeder and quantitative geneticist. Currently, a post-doctoral research associcate  at the University of Nebraska Lincoln working with [Gota Morota](http://morotalab.org/) from Department of Animal and Poultry Sciences at the Virginia Polytechnic Institute and State University (VT) and [Harkamal Walia](http://cropstressgenomics.org/) from University of Nebraska, Lincoln.  Currently, my research focuses on (i) applying quantitative genetics methods for genome-wide association and genomic prediction of longitudinal traits derived from high-throughput phenotyping platforms for high-night temperature stress in rice and wheat; (ii) modelling variance-heterogeneity in genome-wide association studies using novel statistical tools; and (iii) develop applications related to quantitative genetic studies.
 
 Outside of my professional life I enjoy playing cricket, travelling, reading, and spending time with family.
 
