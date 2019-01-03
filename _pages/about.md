@@ -29,9 +29,11 @@ Research Interests
 
 Motivation
 ======
+
 ------
 
 I am highly motivated in my goals to be part of a nationally and internationally small grains research programs with both basic and applied research components, along with a strong focus on delivering solutions to the current issues of cereal genetics in advanced genomics era and availability of high throughput phenotyping platforms. Innovation, collaboration, problem identification followed by scientific redressal serve basis for my passion to work in plant genetics. In all aspects of my work, I emphasize critical thinking and strong partnerships between scientists in different allied disciplines to promote a scientifically sound and sustainable research programs.
+
 ------
 
 
