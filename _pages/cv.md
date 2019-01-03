@@ -14,27 +14,28 @@ redirect_from:
 <span style="color:black">**Education**</span>
 ======
 ------
-**Ph.D., Agronomy, Specialization in Plant Breeding and Genetics**
-* [University of Nebraska](https://www.unl.edu/) - Lincoln, May 2017/
+**Ph.D., Agronomy, Specialization in Plant Breeding and Genetics** <br/>
+[University of Nebraska](https://www.unl.edu/) - Lincoln, May 2017
+
 	* Advisor: [Dr. Stephen Baenziger](https://agronomy.unl.edu/baenziger)/
 	* Dissertation: "Development of High-Density Linkage Map and QTL Mapping For Agronomic Traits in Bread Wheat Evaluated Across Multiple Rainfed Environments"/
 		
-**M.S., Plant Breeding and Genetics**
-* [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, December 2011
+**M.S., Plant Breeding and Genetics**<br/>
+[SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, December 2011
+
 	* Advisor: [Dr. Gulzar Singh Sanghera](https://www.researchgate.net/profile/Gulzar_S_Sanghera)
 	* Dissertation: " Genetic Studies on Heterosis and Combining Ability for Hybrid Rice (<i>Oryza sativa</i>) Development Under Temperate Conditions"
 
 **B.S., Agriculture**
-
-* [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, June 2009
+[SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, June 2009
 
  ------ 
  
 <span style="color:black">**Research Experience**</span>
 ======
 ------
-**Postdoctoral Research Associate**
-March 2018 to Current: 
+**Postdoctoral Research Associate**<br/>
+March 2018 to Current:<br/>
 Department of Agronomy and Horticulture, University of Nebraska - Lincoln
 * Supervisors: [Gota Morota](https://www.apsc.vt.edu/OurPeople/Faculty/GotaMorota.html) and [Harkamal Walia](https://agronomy.unl.edu/walia)
 
