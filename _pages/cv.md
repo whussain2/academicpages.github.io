@@ -14,21 +14,26 @@ redirect_from:
 <span style="color:black">**Education**</span>
 ======
 ------
-* B.S., Agriculture Specialization in Research, [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, June 2009
-* M.S., Plant Breeding and Genetics, [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, December 2011
-	* Advisor: [Dr. Gulzar Singh Sanghera](https://www.researchgate.net/profile/Gulzar_S_Sanghera)
-		* Dissertation: " Genetic Studies on Heterosis and Combining Ability for Hybrid Rice (<i>Oryza sativa</i>) Development Under Temperate Conditions"
-* Ph.D., Agronomy, Specialization in Plant Breeding and Genetics, [University of Nebraska](https://www.unl.edu/) - Lincoln, May 2017
-	* Advisor: [Dr. Stephen Baenziger](https://agronomy.unl.edu/baenziger)
+* Ph.D., Agronomy, Specialization in Plant Breeding and Genetics
+* [University of Nebraska](https://www.unl.edu/) - Lincoln, May 2017
+		* Advisor: [Dr. Stephen Baenziger](https://agronomy.unl.edu/baenziger)
 		* Dissertation: "Development of High-Density Linkage Map and QTL Mapping For Agronomic Traits in Bread Wheat Evaluated Across Multiple Rainfed Environments"
-  
+* M.S., Plant Breeding and Genetics
+* [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, December 2011
+	* Advisor: [Dr. Gulzar Singh Sanghera](https://www.researchgate.net/profile/Gulzar_S_Sanghera)
+	* Dissertation: " Genetic Studies on Heterosis and Combining Ability for Hybrid Rice (<i>Oryza sativa</i>) Development Under Temperate Conditions"
+* B.S., Agriculture
+* [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, June 2009
  ------ 
  
 <span style="color:black">**Research Experience**</span>
 ======
 ------
-**March 2018 to Current: Postdoctoral Research Associate**
-* Department of Agronomy and Horticulture, University of Nebraska - Lincoln
+**Postdoctoral Research Associate**
+
+March 2018 to Current: 
+
+Department of Agronomy and Horticulture, University of Nebraska - Lincoln
 * Supervisors: [Gota Morota](https://www.apsc.vt.edu/OurPeople/Faculty/GotaMorota.html) and [Harkamal Walia](https://agronomy.unl.edu/walia)
 * Responsibilities:
 	* Quantitative genetic analysis of longitudinal high-throughput image data of night temperature stress in wheat and rice.
@@ -37,46 +42,77 @@ redirect_from:
 	* Develop applications related to quantitative genetic studies.
 
 	
-**May 2017 to December 2017: Research Associate Scientist-II (Wheat Breeder)**
-* Maharashtra Hybrid Seed Company ([MAHYCO](https://mahyco.com/)), Aurangabad, Jalna, India
-	* The goal was to develop wheat lines and hybrids using advanced statistical and genomics tools.
+**Research Associate Scientist-II (Wheat Breeder)**
+
+May 2017 to December 2017: 
+
+Maharashtra Hybrid Seed Company ([MAHYCO](https://mahyco.com/)), Aurangabad, Jalna, India
+
+* The goal was to develop wheat lines and hybrids using advanced statistical and genomics tools.
 	
-**January 2014 to April 2017: [ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship (Ph.D.)**
-* Department of Agronomy and Horticulture, University of Nebraska - Lincoln
-	* Focused on the development and evaluation of RIL mapping population related to drought tolerance.
-	* Development of high-density linkage map based on SNPs derived from genotyping-by-sequencing.
-	* Genome-wide QTL mapping for various agro-physiological traits phenotyped across a wide range of environments.
-	* High-throughput phenotyping in wheat and soybean using newly developed phenotyping platforms.
-	* Genome selection/predictions in Nebraska wheat breeding program.
-	* Gained proficiency in statistical analysis and programming including Unix operating system, perl language, GBS data analysis, and statistical analysis using R and SAS software.
-	* Conducted extensive field trials, crossing, phenoyping and data collections across multiple environments for the four years.
-	* Analyzed multi-environment phenotypic data in ASREML package in R and incorporating spatial corrections using mixed linear models and generate variance components.
-	* BLUP/BLUE estimates for genomic selections and QTL mapping.
-	* Molecular mapping of Tan spot resistance in wheat.
+**Ph.D[ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship**
+
+January 2014 to April 2017: 
+
+* Focused on the development and evaluation of RIL mapping population related to drought tolerance.
+* Development of high-density linkage map based on SNPs derived from genotyping-by-sequencing.
+* Genome-wide QTL mapping for various agro-physiological traits phenotyped across a wide range of environments.
+* High-throughput phenotyping in wheat and soybean using newly developed phenotyping platforms.
+* Genome selection/predictions in Nebraska wheat breeding program.
+* Gained proficiency in statistical analysis and programming including Unix operating system, perl language, GBS data analysis, and statistical analysis using R and SAS software.
+* Conducted extensive field trials, crossing, phenoyping and data collections across multiple environments for the four years.
+* Analyzed multi-environment phenotypic data in ASREML package in R and incorporating spatial corrections using mixed linear models and generate variance components.
+* BLUP/BLUE estimates for genomic selections and QTL mapping.
+* Molecular mapping of Tan spot resistance in wheat.
   	
-**December 2011 to December 2013: Research Fellow ([INSPIRE Fellowship](http://www.inspire-dst.gov.in/))**
-* Agricultral University, [CSKHPKV](http://www.hillagric.ac.in/), Palampur India.
-    * Diversity analysis in oats, screening and molecular mapping of powdery mildew resistance in oats.
-	* Double haploid breeding in wheat using *Imperata cylindrica* grass.
+**Research Fellow ([INSPIRE Fellowship](http://www.inspire-dst.gov.in/))**
+
+December 2011 to December 2013: 
+
+Agricultural University, [CSKHPKV](http://www.hillagric.ac.in/), Palampur India.
+
+* Diversity analysis in oats, screening and molecular mapping of powdery mildew resistance in oats.
+* Double haploid breeding in wheat using *Imperata cylindrica* grass.
 	
-**June 2009 to December 2011: Graduate Research Assistant (M.S.)**
-* Department of Plant Breeding and Genetics, Agricultural University [SKUAST-K](http://www.skuastkashmir.ac.in), Srinagar, india
-	* Identification of restorer lines for newly developed temperate CMS lines.
-	* Heterosis and combining ability studies in rice under temperate conditions.
+**Graduate Research Assistant (M.S.)**
+
+June 2009 to December 2011: 
+
+* Heterosis and combining ability studies in rice under temperate conditions.
 
   	 
-**June 2004 to May 2009: Undergraduate** 
-
  ------ 
  
 <span style="color:black">**Publications**</span>
 ======
 ------
+**Under Preparation**
+
+* Hussain, W., Walia, H., Jarquin, D., and Morota, G. 2019. Variance-heterogeneity genome-wide mapping for cadmium in wheat (*Triticum Aestivum L.*) revealed novel genomic regions and candidate genes. Target Journal: *BMC Plant Biology*.
+ 
+* Hussain, W., Belamkar, V., Guttieri, M.J., Poland, J and Baenziger, P.S. 2019. Genotyping-by-sequencing derived high-density linkage map reveled novel genomic loci and candidate genes for plant height in wheat (*Triticum Aestivum L.*) Target Journal: *The Plant Journal*. 
+
+------
+
+**Peer-reviewed Articles**
+
+------
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 ------
+
+<span style="color:black">**Book Chapters**</span>
+======
+------
+* Rana,M., Sood, A., **Hussain, W**., Kaldate, R., Sharma, T.R., Gill, R.K.,  Kumar, S., Singh, S. (2019). In: Mohar Singh (eds), Gene Pyramiding and Multiple Character Breeding, Lentils: Potential Resources for Enhancing Genetic Gains, 2019, Pages 83-124. [Link](https://doi.org/10.1016/B978-0-12-813522-8.00006-6).
+* Sanghera, G.S., Wani, S.H.,  **Hussain, W**., and Singh, N.B. (2015). Genetic Engineering for Cold Stress Tolerance in Crop Plants. In book: Advances in Genome Science, Edition: Volume 4, Publisher: Bentham Science, Editors: Atta-ur-Rahman, pp. 173-201. [Link](http://www.eurekaselect.com/138849/volume/4)
+* Chaudhary, H.K., Kaila, V., Rather, S.A., Badiyal, A., **Hussain, W**., Jamwal, N.S., and Mahato, A. (2013). In: Pratap and J. Kumar (eds.), Alien Gene Transfer in Crop Plants, Volume Achievements and Impacts. Springer, pp 1-26. [Link](https://link.springer.com/chapter/10.1007/978-1-4614-9572-7_1)
+* **Hussain, W**., Sanghera, G.S., Jamawal, N.S, and Badiyal,A. (2013). Crop improvement through genomic interventions in sustainable way. In: Malik CP, Sanghera GS and Sharma P(ed) Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 61-68. ISBN 978-81-7533-456-4. [Link](https://www.cabdirect.org/cabdirect/abstract/20143204150)
+* Dar, S.H., **Hussain, W**., and Sanghera, G.S. (2013). Advances in hybrid rice technology through applications of novel technologies. In: Malik CP, Sanghera GS and Sharma P(ed), Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 1-12. [Link](https://www.cabdirect.org/cabdirect/abstract/20143204150) 
+
 
 <span style="color:black">**Talks**</span>
 ======
@@ -87,7 +123,7 @@ redirect_from:
   
 ------  
 
-<span style="color:black">**Awards and Fellowships**</span>
+<span style="color:black">**Fellowships and Awards**</span>
 ======
 ------
 * Open Science Grid User School Travel Grant Award 2018. [Link](https://opensciencegrid.org/user-school-2018/).
@@ -101,7 +137,7 @@ redirect_from:
 
 ------
 
-<span style="color:black">**Training and Short-courses**</span>
+<span style="color:black">**Professional Training**</span>
 ======
 ------
 * Software Carpentry Workshop on computational skills, including task automation, version control, and modular programming. Learn Bash, Git and Python. Holland Computing Center, University of Nebraska, Lincoln. August 13 & 14, 2018. [Link](https://unlhcc.github.io/2018-08-13-NU/)
@@ -165,16 +201,6 @@ redirect_from:
 * Belamkar, V.,  Guttieri, M.J., El-Basyoni, I., **Hussain, W**., Poland, J., Jarquín, D., Lorenz, A.J., Baenziger, P.B: Integration of Genomic Selection in the Nebraska Wheat Breeding Program. Plant and Animal Genome Conference XXIV,, San Diego, CA; 01/2016. [Link](https://www.researchgate.net/publication/290998355_Integration_of_genomic_selection_in_the_Nebraska_wheat_breeding_program)
 * Hussain, W., Stephen, P.B, Guttieri, M.J., Easterly, A., Venegas, J.P., Guedira, G.B., Poland, J: Mapping QTLs for Plant Height Variation in RIL Population Derived from Cross Between Harry X Wesley Semi-Dwarf Wheat Lines. ASA, CSSA and SSSA Minneapolis, Nov. 15-18, 2105. [Link](https://scisoc.confex.com/crops/2015am/webprogram/Paper92536.html)
 
-
-<span style="color:black">**Book Chapters**</span>
-======
-------
-* Rana,M., Sood, A., **Hussain, W**., Kaldate, R., Sharma, T.R., Gill, R.K.,  Kumar, S., Singh, S. (2019). In: Mohar Singh (eds), Gene Pyramiding and Multiple Character Breeding, Lentils: Potential Resources for Enhancing Genetic Gains, 2019, Pages 83-124. [Link](https://doi.org/10.1016/B978-0-12-813522-8.00006-6).
-* Sanghera, G.S., Wani, S.H.,  **Hussain, W**., and Singh, N.B. (2015). Genetic Engineering for Cold Stress Tolerance in Crop Plants. In book: Advances in Genome Science, Edition: Volume 4, Publisher: Bentham Science, Editors: Atta-ur-Rahman, pp. 173-201. [Link](http://www.eurekaselect.com/138849/volume/4)
-* Chaudhary, H.K., Kaila, V., Rather, S.A., Badiyal, A., **Hussain, W**., Jamwal, N.S., and Mahato, A. (2013). In: Pratap and J. Kumar (eds.), Alien Gene Transfer in Crop Plants, Volume Achievements and Impacts. Springer, pp 1-26. [Link](https://link.springer.com/chapter/10.1007/978-1-4614-9572-7_1)
-* **Hussain, W**., Sanghera, G.S., Jamawal, N.S, and Badiyal,A. (2013). Crop improvement through genomic interventions in sustainable way. In: Malik CP, Sanghera GS and Sharma P(ed) Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 61-68. ISBN 978-81-7533-456-4. [Link](https://www.cabdirect.org/cabdirect/abstract/20143204150)
-* Dar, S.H., **Hussain, W**., and Sanghera, G.S. (2013). Advances in hybrid rice technology through applications of novel technologies. In: Malik CP, Sanghera GS and Sharma P(ed), Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 1-12. [Link](https://www.cabdirect.org/cabdirect/abstract/20143204150) 
-
 ------
 
 <span style="color:black">**Skills**</span>
@@ -182,11 +208,11 @@ redirect_from:
 
 ------
 * Quantitative Skills
-  * Genotyping-by-sequencing data analysis
+  * Genotyping-by-sequencing data analysis and SNP calling
   * Quantitative Genetics
-    * QTL Mapping: R/qtl, R/ASMap, IciMapping
-    * Genome-wide Association Mapping: GEMMA, EMMA, TASSEL, BGLR, rrBLUP, GAPIT, FarmCPU
-    * Genomic Selections: BGLR,rrBLUP
+    * QTL Mapping: R/qtl, R/ASMap, IciMapping etc.
+    * Genome-wide Association Mapping: Plink, TASSEL, BGLR, rrBLUP, GAPIT, FarmCPU etc. 
+    * Genomic Selections: BGLR,rrBLUP etc.
   * Statistics
     * SAS
     * R
@@ -194,10 +220,11 @@ redirect_from:
     * Python
 
 * Wet Lab Skills
-	*  DNA extractions, PCR, real-time PCR, electrophoresis, SSR marker and KASP
-	* Computational Skills
+	*  DNA extractions, PCR, real-time PCR, electrophoresis, SSR marker and KASP marker genotyping
+* Computational Skills
 	* Operating Systems: LINUX, OS X, Windows
-	* LATEX
+	* Big data analysis, high-throughput and cloud computing, linux shell and git
+	* LATEX and R Markdown
 	* Perl
 
 ------
