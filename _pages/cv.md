@@ -15,18 +15,16 @@ redirect_from:
 ======
 ------
 **Ph.D., Agronomy, Specialization in Plant Breeding and Genetics** <br/>
-[University of Nebraska](https://www.unl.edu/) - Lincoln, May 2017
-
-	* Advisor: [Dr. Stephen Baenziger](https://agronomy.unl.edu/baenziger)/
-	* Dissertation: "Development of High-Density Linkage Map and QTL Mapping For Agronomic Traits in Bread Wheat Evaluated Across Multiple Rainfed Environments"/
+[University of Nebraska](https://www.unl.edu/) - Lincoln, May 2017 <br/>
+* Advisor: [Dr. Stephen Baenziger](https://agronomy.unl.edu/baenziger)/<br/>
+* Dissertation: "Development of High-Density Linkage Map and QTL Mapping For Agronomic Traits in Bread Wheat Evaluated Across Multiple Rainfed Environments"/
 		
 **M.S., Plant Breeding and Genetics**<br/>
-[SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, December 2011
+[SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, December 2011<br/>
+* Advisor: [Dr. Gulzar Singh Sanghera](https://www.researchgate.net/profile/Gulzar_S_Sanghera)<br/>
+* Dissertation: " Genetic Studies on Heterosis and Combining Ability for Hybrid Rice (<i>Oryza sativa</i>) Development Under Temperate Conditions"
 
-	* Advisor: [Dr. Gulzar Singh Sanghera](https://www.researchgate.net/profile/Gulzar_S_Sanghera)
-	* Dissertation: " Genetic Studies on Heterosis and Combining Ability for Hybrid Rice (<i>Oryza sativa</i>) Development Under Temperate Conditions"
-
-**B.S., Agriculture**
+**B.S., Agriculture**<br/>
 [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, June 2009
 
  ------ 
@@ -36,25 +34,21 @@ redirect_from:
 ------
 **Postdoctoral Research Associate**<br/>
 March 2018 to Current:<br/>
-Department of Agronomy and Horticulture, University of Nebraska - Lincoln
-* Supervisors: [Gota Morota](https://www.apsc.vt.edu/OurPeople/Faculty/GotaMorota.html) and [Harkamal Walia](https://agronomy.unl.edu/walia)
-
+Department of Agronomy and Horticulture, University of Nebraska - Lincoln<br/>
+* Supervisors: [Gota Morota](https://www.apsc.vt.edu/OurPeople/Faculty/GotaMorota.html) and [Harkamal Walia](https://agronomy.unl.edu/walia)<br/>
 * Responsibilities:
 	* Quantitative genetic analysis of longitudinal high-throughput image data of night temperature stress in wheat and rice.
 	* Perform genome-wide analysis and genomic predictions of high-throughput image data combined with high dimensional genomic, transcriptomic and metabolomics data. 
 	* Modelling variance-heterogeneity in genome-wide association studies using novel statistical tools.
 	* Develop applications related to quantitative genetic studies.
-
 	
-**Research Associate Scientist-II (Wheat Breeder)**
-May 2017 to December 2017: 
-Maharashtra Hybrid Seed Company ([MAHYCO](https://mahyco.com/)), Aurangabad, Jalna, India
-
-* The goal was to develop wheat lines and hybrids using advanced statistical and genomics tools.
+**Research Associate Scientist-II (Wheat Breeder)**<br/>
+May 2017 to December 2017: <br/>
+Maharashtra Hybrid Seed Company ([MAHYCO](https://mahyco.com/)), Aurangabad, Jalna, India<br/>
+* The goal was to develop wheat lines and hybrids using advanced statistical and genomics tools<br/>
 	
-**Ph.D [ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship**
-January 2014 to April 2017: 
-
+**Ph.D [ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship**<br/>
+January 2014 to April 2017: <br/>
 * Focused on the development and evaluation of RIL mapping population related to drought tolerance.
 * Development of high-density linkage map based on SNPs derived from genotyping-by-sequencing.
 * Genome-wide QTL mapping for various agro-physiological traits phenotyped across a wide range of environments.
@@ -66,16 +60,14 @@ January 2014 to April 2017:
 * BLUP/BLUE estimates for genomic selections and QTL mapping.
 * Molecular mapping of Tan spot resistance in wheat.
   	
-**Research Fellow ([INSPIRE Fellowship](http://www.inspire-dst.gov.in/))**
-December 2011 to December 2013: 
-Agricultural University, [CSKHPKV](http://www.hillagric.ac.in/), Palampur India.
-
+**Research Fellow ([INSPIRE Fellowship](http://www.inspire-dst.gov.in/))**<br/>
+December 2011 to December 2013: <br/>
+Agricultural University, [CSKHPKV](http://www.hillagric.ac.in/), Palampur India<br/>
 * Diversity analysis in oats, screening and molecular mapping of powdery mildew resistance in oats.
 * Double haploid breeding in wheat using *Imperata cylindrica* grass.
 	
-**Graduate Research Assistant (M.S.)**
-June 2009 to December 2011: 
-
+**Graduate Research Assistant (M.S.)**<br/>
+June 2009 to December 2011: <br/>
 * Heterosis and combining ability studies in rice under temperate conditions.
 	 
  ------ 
