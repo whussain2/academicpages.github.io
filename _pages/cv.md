@@ -10,7 +10,9 @@ redirect_from:
 {% include base_path %}
 
 ------
+<a href='http://whussain2.github.io/Materials/Teaching/'>Download CV</a>
 
+------
 <span style="color:black">**Education**</span>
 ======
 ------
@@ -77,6 +79,8 @@ June 2009 to December 2011 <br/>
 ------
 **Under Preparation**
 
+------
+
 * **Hussain, W**., Walia, H., Jarquin, D., and Morota, G. 2019. Variance-heterogeneity genome-wide mapping for cadmium in wheat (*Triticum Aestivum L.*) revealed novel genomic regions and candidate genes. Target Journal: *BMC Plant Biology*.
  
 * **Hussain, W**., Belamkar, V., Guttieri, M.J., Poland, J and Baenziger, P.S. 2019. Genotyping-by-sequencing derived high-density linkage map reveled novel genomic loci and candidate genes for plant height in wheat (*Triticum Aestivum L.*) Target Journal: *The Plant Journal*. 
@@ -102,7 +106,7 @@ June 2009 to December 2011 <br/>
 * **Hussain, W**., Sanghera, G.S., Jamawal, N.S, and Badiyal,A. (2013). *Crop improvement through genomic interventions in sustainable way*. In: Malik CP, Sanghera GS and Sharma P(ed) Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 61-68. ISBN 978-81-7533-456-4. [Link](https://www.cabdirect.org/cabdirect/abstract/20143204150)
 * Dar, S.H., **Hussain, W**., and Sanghera, G.S. (2013). *Advances in hybrid rice technology through applications of novel technologies*. In: Malik CP, Sanghera GS and Sharma P(ed), Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 1-12. [Link](https://www.cabdirect.org/cabdirect/abstract/20143204150) 
 
-
+------
 <span style="color:black">**Talks**</span>
 ======
 ------
@@ -139,7 +143,7 @@ June 2009 to December 2011 <br/>
 
 ------
 
-<span style="color:black">**Open Source Contribution**</span>
+<span style="color:black">**Open Source Contributions**</span>
 ======
 ------
 * ShinyAIM: Shiny-based Application of Interactive Manhattan Plots for Longitudinal GWAS using R and Shiny. The application is available online at [https://chikudaisei.shinyapps.io/shinyaim/](https://chikudaisei.shinyapps.io/shinyaim/). The source code and materials can be downloaded from GitHub [https://github.com/whussain2/ShinyAIM](https://github.com/whussain2/ShinyAIM)
