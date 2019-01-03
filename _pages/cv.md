@@ -68,7 +68,7 @@ Agricultural University, [CSKHPKV](http://www.hillagric.ac.in/), Palampur India<
 	
 **Graduate Research Assistant (M.S.)**<br/>
 June 2009 to December 2011 <br/>
-* Heterosis and combining ability studies in rice under temperate conditions.
+* Identification of potential restorers for newly developed temperate CMS lines and identify the heterotic combinations.
 	 
  ------ 
  
