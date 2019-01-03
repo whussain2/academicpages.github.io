@@ -16,7 +16,7 @@ redirect_from:
 ------
 **Ph.D., Agronomy, Specialization in Plant Breeding and Genetics** <br/>
 [University of Nebraska](https://www.unl.edu/) - Lincoln, May 2017 <br/>
-* Advisor: [Dr. Stephen Baenziger](https://agronomy.unl.edu/baenziger)/<br/>
+* Advisor: [Dr. Stephen Baenziger](https://agronomy.unl.edu/baenziger) <br/>
 * Dissertation: "Development of High-Density Linkage Map and QTL Mapping For Agronomic Traits in Bread Wheat Evaluated Across Multiple Rainfed Environments"/
 		
 **M.S., Plant Breeding and Genetics**<br/>
@@ -33,7 +33,7 @@ redirect_from:
 ======
 ------
 **Postdoctoral Research Associate**<br/>
-March 2018 to Current:<br/>
+March 2018 to Current<br/>
 Department of Agronomy and Horticulture, University of Nebraska - Lincoln<br/>
 * Supervisors: [Gota Morota](https://www.apsc.vt.edu/OurPeople/Faculty/GotaMorota.html) and [Harkamal Walia](https://agronomy.unl.edu/walia)<br/>
 * Responsibilities:
@@ -43,12 +43,12 @@ Department of Agronomy and Horticulture, University of Nebraska - Lincoln<br/>
 	* Develop applications related to quantitative genetic studies.
 	
 **Research Associate Scientist-II (Wheat Breeder)**<br/>
-May 2017 to December 2017: <br/>
+May 2017 to December 2017 <br/>
 Maharashtra Hybrid Seed Company ([MAHYCO](https://mahyco.com/)), Aurangabad, Jalna, India<br/>
 * The goal was to develop wheat lines and hybrids using advanced statistical and genomics tools<br/>
 	
 **Ph.D [ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship**<br/>
-January 2014 to April 2017: <br/>
+January 2014 to April 2017 <br/>
 * Focused on the development and evaluation of RIL mapping population related to drought tolerance.
 * Development of high-density linkage map based on SNPs derived from genotyping-by-sequencing.
 * Genome-wide QTL mapping for various agro-physiological traits phenotyped across a wide range of environments.
@@ -61,13 +61,13 @@ January 2014 to April 2017: <br/>
 * Molecular mapping of Tan spot resistance in wheat.
   	
 **Research Fellow ([INSPIRE Fellowship](http://www.inspire-dst.gov.in/))**<br/>
-December 2011 to December 2013: <br/>
+December 2011 to December 2013 <br/>
 Agricultural University, [CSKHPKV](http://www.hillagric.ac.in/), Palampur India<br/>
 * Diversity analysis in oats, screening and molecular mapping of powdery mildew resistance in oats.
 * Double haploid breeding in wheat using *Imperata cylindrica* grass.
 	
 **Graduate Research Assistant (M.S.)**<br/>
-June 2009 to December 2011: <br/>
+June 2009 to December 2011 <br/>
 * Heterosis and combining ability studies in rice under temperate conditions.
 	 
  ------ 
@@ -97,10 +97,10 @@ June 2009 to December 2011: <br/>
 ======
 ------
 * Rana,M., Sood, A., **Hussain, W**., Kaldate, R., Sharma, T.R., Gill, R.K.,  Kumar, S., Singh, S. (2019). In: Mohar Singh (eds), Gene Pyramiding and Multiple Character Breeding, Lentils: Potential Resources for Enhancing Genetic Gains, 2019, Pages 83-124. [Link](https://doi.org/10.1016/B978-0-12-813522-8.00006-6).
-* Sanghera, G.S., Wani, S.H.,  **Hussain, W**., and Singh, N.B. (2015). Genetic Engineering for Cold Stress Tolerance in Crop Plants. In book: Advances in Genome Science, Edition: Volume 4, Publisher: Bentham Science, Editors: Atta-ur-Rahman, pp. 173-201. [Link](http://www.eurekaselect.com/138849/volume/4)
-* Chaudhary, H.K., Kaila, V., Rather, S.A., Badiyal, A., **Hussain, W**., Jamwal, N.S., and Mahato, A. (2013). In: Pratap and J. Kumar (eds.), Alien Gene Transfer in Crop Plants, Volume Achievements and Impacts. Springer, pp 1-26. [Link](https://link.springer.com/chapter/10.1007/978-1-4614-9572-7_1)
-* **Hussain, W**., Sanghera, G.S., Jamawal, N.S, and Badiyal,A. (2013). Crop improvement through genomic interventions in sustainable way. In: Malik CP, Sanghera GS and Sharma P(ed) Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 61-68. ISBN 978-81-7533-456-4. [Link](https://www.cabdirect.org/cabdirect/abstract/20143204150)
-* Dar, S.H., **Hussain, W**., and Sanghera, G.S. (2013). Advances in hybrid rice technology through applications of novel technologies. In: Malik CP, Sanghera GS and Sharma P(ed), Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 1-12. [Link](https://www.cabdirect.org/cabdirect/abstract/20143204150) 
+* Sanghera, G.S., Wani, S.H.,  **Hussain, W**., and Singh, N.B. (2015). *Genetic Engineering for Cold Stress Tolerance in Crop Plants*. In book: Advances in Genome Science, Edition: Volume 4, Publisher: Bentham Science, Editors: Atta-ur-Rahman, pp. 173-201. [Link](http://www.eurekaselect.com/138849/volume/4)
+* Chaudhary, H.K., Kaila, V., Rather, S.A., Badiyal, A., **Hussain, W**., Jamwal, N.S., and Mahato, A. (2013). In: Pratap and J. Kumar (eds.), *Alien Gene Transfer in Crop Plants, Volume Achievements and Impacts*. Springer, pp 1-26. [Link](https://link.springer.com/chapter/10.1007/978-1-4614-9572-7_1)
+* **Hussain, W**., Sanghera, G.S., Jamawal, N.S, and Badiyal,A. (2013). *Crop improvement through genomic interventions in sustainable way*. In: Malik CP, Sanghera GS and Sharma P(ed) Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 61-68. ISBN 978-81-7533-456-4. [Link](https://www.cabdirect.org/cabdirect/abstract/20143204150)
+* Dar, S.H., **Hussain, W**., and Sanghera, G.S. (2013). *Advances in hybrid rice technology through applications of novel technologies*. In: Malik CP, Sanghera GS and Sharma P(ed), Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 1-12. [Link](https://www.cabdirect.org/cabdirect/abstract/20143204150) 
 
 
 <span style="color:black">**Talks**</span>
@@ -177,18 +177,18 @@ June 2009 to December 2011: <br/>
 <span style="color:black">**Posters**</span>
 ======
 ------
-* Lata, S., Guleria, S.K., Thakur, K., Kumari, R., Rana, M., and **Hussain, W**: Introgression of *Opaque2* Gene Through Marker-Assisted Backcross Breeding in Elite Maize Inbred Lines. 13th Asian Maize Conference and Expert Consultation on Maize for Food, Feed, Nutrition and Environmental Security, Ludhiana, India October 8-10,2018. P140. [Link](https://maize.org/wp-content/uploads/sites/5/2018/09/13thAMCBookofAbstracts.pdf)
-* Venegas, J.P., Graybosch, R., **Hussain, W**., Bai, G., St Amand, P., Baenziger, P.S., Blecha, S: High-Density Linkage Map Construction and Mapping of Mutant Low Phytate QTLs in Winter Wheat (*Triticum Aestivum L.*) Using Genotyping-By-Sequencing (GBS). ASA, CSSA and SSSA Tampa, Florida, Oct. 22-25, 2017. [Link](https://scisoc.confex.com/crops/2017am/webprogram/Paper106515.html) 
-* Rana, M., Verma, P., **Hussain,W**., Kaldate, R., Shikha, D., Kaachra, A., Chahota, R.K., Bhatia,S., and Sharma, T.R: Molecular Mapping of QTLs for Drought Tolerance and Yield Traits in Lentil. InterDrought-V, Hyderabad International Convention Center (HICC), At Hyderabad India, 21-25 Feb. 2017. [Link](http://idv.ceg.icrisat.org/wp-content/uploads/2016/06/Abstracts_Book_Printed.pdf)
-* Belamkar, V.,  Guttieri, M.J., El-Basyoni, I., **Hussain, W**., Poland, J., Jarquín, D., Lorenz, A.J., Baenziger, P.B:Translating Genomic Research into Cultivar Development in the Nebraska Wheat Program. Plant and Animal Genome Conference XXIV, San Diego, CA; 01/2017. [Link](https://pag.confex.com/pag/xxv/webprogram/Paper26234.html)
-* Sallam, A., **Hussain, W**., Belmaker, V., and Baenziger, P.S: QTL Mapping for Traits Associated with Drought Tolerance and Combined Drought and Heat Tolerance in Seedling Winter Wheat. Plant and Animal Genome Conference, San Diego, CA; 01/2017. [Link](https://pag.confex.com/pag/xxv/webprogram/Paper26504.html).
-* **Hussain, W**.,Stephen, P.B., Belamkar, V., Guttieri, M.J., Easterly, A., Venegas, J.P., Guedira, G.B., Poland, J: Development of High Density Linkage Map and Genome-Wide QTL Mapping for Grain Yield in Wheat Across Multiple Rainfed Environments. ASA, CSSA and SSSA Minneapolis, Nov. 6-9, 2106. [Link](https://scisoc.confex.com/crops/2016am/webprogram/Paper99657.html)
-* Sallam, A., **Hussain, W**., Belmaker, V., and Baenziger, P.S: Molecular Genetic Dissection to Improve Seedling Drought Tolerance inn Winter Wheat Using QTL Mapping. At: Nebraska City, USA, Conference: Plant Science Retreat-october 2016. [Link](https://www.researchgate.net/publication/309188128_Molecular_genetic_dissection_to_improve_seedling_drought_tolerance_in_winter_wheat_using_QTL_mapping)
-* Kariyawasam, G., **Hussain, W**., Easterly, A., Guttieri, M.J., Belamkar, V., Venegas, J.P., Baenziger, P.B., Poland, J., Faris, J., Xu, S., Rasmussen, J., and Liu, Z: QTL Mapping of Resistance to Tan Spot in a Winter Recombinant Inbred Line Population Derived from Cross between Harry and Wesley. Conference: American Phytopathological Society Annual Meeting-2016, At Tampa, Florida. [Link](https://www.apsnet.org/meetings/Documents/2016_meeting_abstracts/aps2016_189.htm)
-* **Hussain, W**., Baenziger, P.B., Belamkar, V., Guttieri, M.J., Easterly, A., Venegas, J.P., Guedira, G.B., Poland, J: SNP Discovery in Wheat RIL Population Using Genotyping-by-Sequencing and Genome-Wide QTL Mapping for Plant Height. Conference: 5th International Conference on Quantitative Genetics, At Madison, Wisconsin, USA. [Link](https://www.researchgate.net/publication/304116172_SNP_Discovery_in_Wheat_RIL_Population_Using_Genotyping-by-Sequencing_and_Genome-Wide_QTL_Mapping_for_Plant_Height)
-* Belamkar, V.,  Guttieri, M.J., El-Basyoni, I., **Hussain, W**., Poland, J., Jarquín, D., Lorenz, A.J., Baenziger, P.B: Genomic Selection Shows Promise for Improving Winter Wheat: Insights from the University of Nebraska-Lincoln Wheat Breeding Program. Conference: 5th International Conference on Quantitative Genetics, At Madison, Wisconsin, USA. [Link](https://www.researchgate.net/publication/304116191_Genomic_selection_shows_promise_for_improving_winter_wheat_Insights_from_the_University_of_Nebraska-Lincoln_wheat_breeding_program)
-* Belamkar, V.,  Guttieri, M.J., El-Basyoni, I., **Hussain, W**., Poland, J., Jarquín, D., Lorenz, A.J., Baenziger, P.B: Integration of Genomic Selection in the Nebraska Wheat Breeding Program. Plant and Animal Genome Conference XXIV,, San Diego, CA; 01/2016. [Link](https://www.researchgate.net/publication/290998355_Integration_of_genomic_selection_in_the_Nebraska_wheat_breeding_program)
-* Hussain, W., Stephen, P.B, Guttieri, M.J., Easterly, A., Venegas, J.P., Guedira, G.B., Poland, J: Mapping QTLs for Plant Height Variation in RIL Population Derived from Cross Between Harry X Wesley Semi-Dwarf Wheat Lines. ASA, CSSA and SSSA Minneapolis, Nov. 15-18, 2105. [Link](https://scisoc.confex.com/crops/2015am/webprogram/Paper92536.html)
+* Lata, S., Guleria, S.K., Thakur, K., Kumari, R., Rana, M., and **Hussain, W**: *Introgression of Opaque2 Gene Through Marker-Assisted Backcross Breeding in Elite Maize Inbred Lines*. 13th Asian Maize Conference and Expert Consultation on Maize for Food, Feed, Nutrition and Environmental Security, Ludhiana, India October 8-10,2018. P140. [Link](https://maize.org/wp-content/uploads/sites/5/2018/09/13thAMCBookofAbstracts.pdf)
+* Venegas, J.P., Graybosch, R., **Hussain, W**., Bai, G., St Amand, P., Baenziger, P.S., Blecha, S: *High-Density Linkage Map Construction and Mapping of Mutant Low Phytate QTLs in Winter Wheat (Triticum Aestivum L.) Using Genotyping-By-Sequencing (GBS)*. ASA, CSSA and SSSA Tampa, Florida, Oct. 22-25, 2017. [Link](https://scisoc.confex.com/crops/2017am/webprogram/Paper106515.html) 
+* Rana, M., Verma, P., **Hussain,W**., Kaldate, R., Shikha, D., Kaachra, A., Chahota, R.K., Bhatia,S., and Sharma, T.R: *Molecular Mapping of QTLs for Drought Tolerance and Yield Traits in Lentil*. InterDrought-V, Hyderabad International Convention Center (HICC), At Hyderabad India, 21-25 Feb. 2017. [Link](http://idv.ceg.icrisat.org/wp-content/uploads/2016/06/Abstracts_Book_Printed.pdf)
+* Belamkar, V.,  Guttieri, M.J., El-Basyoni, I., **Hussain, W**., Poland, J., Jarquín, D., Lorenz, A.J., Baenziger, P.B: *Translating Genomic Research into Cultivar Development in the Nebraska Wheat Program*. Plant and Animal Genome Conference XXIV, San Diego, CA; 01/2017. [Link](https://pag.confex.com/pag/xxv/webprogram/Paper26234.html)
+* Sallam, A., **Hussain, W**., Belmaker, V., and Baenziger, P.S: *QTL Mapping for Traits Associated with Drought Tolerance and Combined Drought and Heat Tolerance in Seedling Winter Wheat*. Plant and Animal Genome Conference, San Diego, CA; 01/2017. [Link](https://pag.confex.com/pag/xxv/webprogram/Paper26504.html).
+* **Hussain, W**.,Stephen, P.B., Belamkar, V., Guttieri, M.J., Easterly, A., Venegas, J.P., Guedira, G.B., Poland, J: *Development of High Density Linkage Map and Genome-Wide QTL Mapping for Grain Yield in Wheat Across Multiple Rainfed Environments*. ASA, CSSA and SSSA Minneapolis, Nov. 6-9, 2106. [Link](https://scisoc.confex.com/crops/2016am/webprogram/Paper99657.html)
+* Sallam, A., **Hussain, W**., Belmaker, V., and Baenziger, P.S: *Molecular Genetic Dissection to Improve Seedling Drought Tolerance inn Winter Wheat Using QTL Mapping*. At: Nebraska City, USA, Conference: Plant Science Retreat-october 2016. [Link](https://www.researchgate.net/publication/309188128_Molecular_genetic_dissection_to_improve_seedling_drought_tolerance_in_winter_wheat_using_QTL_mapping)
+* Kariyawasam, G., **Hussain, W**., Easterly, A., Guttieri, M.J., Belamkar, V., Venegas, J.P., Baenziger, P.B., Poland, J., Faris, J., Xu, S., Rasmussen, J., and Liu, Z: *QTL Mapping of Resistance to Tan Spot in a Winter Recombinant Inbred Line Population Derived from Cross between Harry and Wesley*. Conference: American Phytopathological Society Annual Meeting-2016, At Tampa, Florida. [Link](https://www.apsnet.org/meetings/Documents/2016_meeting_abstracts/aps2016_189.htm)
+* **Hussain, W**., Baenziger, P.B., Belamkar, V., Guttieri, M.J., Easterly, A., Venegas, J.P., Guedira, G.B., Poland, J: *SNP Discovery in Wheat RIL Population Using Genotyping-by-Sequencing and Genome-Wide QTL Mapping for Plant Height*. Conference: 5th International Conference on Quantitative Genetics, At Madison, Wisconsin, USA. [Link](https://www.researchgate.net/publication/304116172_SNP_Discovery_in_Wheat_RIL_Population_Using_Genotyping-by-Sequencing_and_Genome-Wide_QTL_Mapping_for_Plant_Height)
+* Belamkar, V.,  Guttieri, M.J., El-Basyoni, I., **Hussain, W**., Poland, J., Jarquín, D., Lorenz, A.J., Baenziger, P.B: *Genomic Selection Shows Promise for Improving Winter Wheat: Insights from the University of Nebraska-Lincoln Wheat Breeding Program*. Conference: 5th International Conference on Quantitative Genetics, At Madison, Wisconsin, USA. [Link](https://www.researchgate.net/publication/304116191_Genomic_selection_shows_promise_for_improving_winter_wheat_Insights_from_the_University_of_Nebraska-Lincoln_wheat_breeding_program)
+* Belamkar, V.,  Guttieri, M.J., El-Basyoni, I., **Hussain, W**., Poland, J., Jarquín, D., Lorenz, A.J., Baenziger, P.B: *Integration of Genomic Selection in the Nebraska Wheat Breeding Program*. Plant and Animal Genome Conference XXIV,, San Diego, CA; 01/2016. [Link](https://www.researchgate.net/publication/290998355_Integration_of_genomic_selection_in_the_Nebraska_wheat_breeding_program)
+* Hussain, W., Stephen, P.B, Guttieri, M.J., Easterly, A., Venegas, J.P., Guedira, G.B., Poland, J: *Mapping QTLs for Plant Height Variation in RIL Population Derived from Cross Between Harry X Wesley Semi-Dwarf Wheat Lines*. ASA, CSSA and SSSA Minneapolis, Nov. 15-18, 2105. [Link](https://scisoc.confex.com/crops/2015am/webprogram/Paper92536.html)
 
 ------
 
