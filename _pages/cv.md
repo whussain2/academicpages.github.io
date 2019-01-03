@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Curriculum Vitae"
+title: "Curriculum Vitae <a href='http://whussain2.github.io/Materials/Teaching/'>Download CV</a>"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,11 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ------
-<a href='http://whussain2.github.io/Materials/Teaching/'>Download CV</a>
 
-------
 <span style="color:black">**Education**</span>
 ======
+
 ------
 **Ph.D., Agronomy, Specialization in Plant Breeding and Genetics** <br/>
 [University of Nebraska](https://www.unl.edu/) - Lincoln, May 2017 <br/>
@@ -107,9 +106,12 @@ June 2009 to December 2011 <br/>
 * Dar, S.H., **Hussain, W**., and Sanghera, G.S. (2013). *Advances in hybrid rice technology through applications of novel technologies*. In: Malik CP, Sanghera GS and Sharma P(ed), Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 1-12. [Link](https://www.cabdirect.org/cabdirect/abstract/20143204150) 
 
 ------
+
 <span style="color:black">**Talks**</span>
 ======
+
 ------
+
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
