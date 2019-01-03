@@ -77,13 +77,13 @@ June 2009 to December 2011 <br/>
 ------
 **Under Preparation**
 
-* Hussain, W., Walia, H., Jarquin, D., and Morota, G. 2019. Variance-heterogeneity genome-wide mapping for cadmium in wheat (*Triticum Aestivum L.*) revealed novel genomic regions and candidate genes. Target Journal: *BMC Plant Biology*.
+* **Hussain, W**., Walia, H., Jarquin, D., and Morota, G. 2019. Variance-heterogeneity genome-wide mapping for cadmium in wheat (*Triticum Aestivum L.*) revealed novel genomic regions and candidate genes. Target Journal: *BMC Plant Biology*.
  
-* Hussain, W., Belamkar, V., Guttieri, M.J., Poland, J and Baenziger, P.S. 2019. Genotyping-by-sequencing derived high-density linkage map reveled novel genomic loci and candidate genes for plant height in wheat (*Triticum Aestivum L.*) Target Journal: *The Plant Journal*. 
+* **Hussain, W**., Belamkar, V., Guttieri, M.J., Poland, J and Baenziger, P.S. 2019. Genotyping-by-sequencing derived high-density linkage map reveled novel genomic loci and candidate genes for plant height in wheat (*Triticum Aestivum L.*) Target Journal: *The Plant Journal*. 
 
 ------
 
-**Peer-reviewed Articles**
+**Peer-Reviewed Articles**
 
 ------
 
