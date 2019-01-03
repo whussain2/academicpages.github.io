@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "<a href='http://whussain2.github.io/Materials/CV/Waseem_Hussain_Resume'>Curriculum Vitae</a>"
+title: "<a href='http://whussain2.github.io/Materials/CV/Waseem_Hussain_Resume.pdf'>Curriculum Vitae</a>"
 permalink: /cv/
 author_profile: true
 redirect_from:
