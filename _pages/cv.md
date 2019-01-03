@@ -14,27 +14,30 @@ redirect_from:
 <span style="color:black">**Education**</span>
 ======
 ------
-* Ph.D., Agronomy, Specialization in Plant Breeding and Genetics
+**Ph.D., Agronomy, Specialization in Plant Breeding and Genetics**
 * [University of Nebraska](https://www.unl.edu/) - Lincoln, May 2017
 		* Advisor: [Dr. Stephen Baenziger](https://agronomy.unl.edu/baenziger)
 		* Dissertation: "Development of High-Density Linkage Map and QTL Mapping For Agronomic Traits in Bread Wheat Evaluated Across Multiple Rainfed Environments"
-* M.S., Plant Breeding and Genetics
+		
+**M.S., Plant Breeding and Genetics**
 * [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, December 2011
 	* Advisor: [Dr. Gulzar Singh Sanghera](https://www.researchgate.net/profile/Gulzar_S_Sanghera)
 	* Dissertation: " Genetic Studies on Heterosis and Combining Ability for Hybrid Rice (<i>Oryza sativa</i>) Development Under Temperate Conditions"
-* B.S., Agriculture
+
+**B.S., Agriculture**
+
 * [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, June 2009
+
  ------ 
  
 <span style="color:black">**Research Experience**</span>
 ======
 ------
 **Postdoctoral Research Associate**
-
 March 2018 to Current: 
-
 Department of Agronomy and Horticulture, University of Nebraska - Lincoln
 * Supervisors: [Gota Morota](https://www.apsc.vt.edu/OurPeople/Faculty/GotaMorota.html) and [Harkamal Walia](https://agronomy.unl.edu/walia)
+
 * Responsibilities:
 	* Quantitative genetic analysis of longitudinal high-throughput image data of night temperature stress in wheat and rice.
 	* Perform genome-wide analysis and genomic predictions of high-throughput image data combined with high dimensional genomic, transcriptomic and metabolomics data. 
@@ -43,15 +46,12 @@ Department of Agronomy and Horticulture, University of Nebraska - Lincoln
 
 	
 **Research Associate Scientist-II (Wheat Breeder)**
-
 May 2017 to December 2017: 
-
 Maharashtra Hybrid Seed Company ([MAHYCO](https://mahyco.com/)), Aurangabad, Jalna, India
 
 * The goal was to develop wheat lines and hybrids using advanced statistical and genomics tools.
 	
-**Ph.D[ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship**
-
+**Ph.D [ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship**
 January 2014 to April 2017: 
 
 * Focused on the development and evaluation of RIL mapping population related to drought tolerance.
@@ -66,21 +66,17 @@ January 2014 to April 2017:
 * Molecular mapping of Tan spot resistance in wheat.
   	
 **Research Fellow ([INSPIRE Fellowship](http://www.inspire-dst.gov.in/))**
-
 December 2011 to December 2013: 
-
 Agricultural University, [CSKHPKV](http://www.hillagric.ac.in/), Palampur India.
 
 * Diversity analysis in oats, screening and molecular mapping of powdery mildew resistance in oats.
 * Double haploid breeding in wheat using *Imperata cylindrica* grass.
 	
 **Graduate Research Assistant (M.S.)**
-
 June 2009 to December 2011: 
 
 * Heterosis and combining ability studies in rice under temperate conditions.
-
-  	 
+	 
  ------ 
  
 <span style="color:black">**Publications**</span>
