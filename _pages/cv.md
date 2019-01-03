@@ -48,7 +48,7 @@ May 2017 to December 2017 <br/>
 Maharashtra Hybrid Seed Company ([MAHYCO](https://mahyco.com/)), Aurangabad, Jalna, India<br/>
 * The goal was to develop wheat lines and hybrids using advanced statistical and genomics tools<br/>
 	
-**Ph.D([ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship)**<br/>
+**Ph.D ([ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship)**<br/>
 January 2014 to April 2017 <br/>
 * Focused on the development and evaluation of RIL mapping population related to drought tolerance.
 * Development of high-density linkage map based on SNPs derived from genotyping-by-sequencing.
