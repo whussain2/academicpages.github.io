@@ -15,10 +15,9 @@ redirect_from:
 ======
 ------
 **Ph.D., Agronomy, Specialization in Plant Breeding and Genetics**
-* [University of Nebraska](https://www.unl.edu/) - Lincoln, May 2017
-
-		* Advisor: [Dr. Stephen Baenziger](https://agronomy.unl.edu/baenziger)
-		* Dissertation: "Development of High-Density Linkage Map and QTL Mapping For Agronomic Traits in Bread Wheat Evaluated Across Multiple Rainfed Environments"
+* [University of Nebraska](https://www.unl.edu/) - Lincoln, May 2017/
+	* Advisor: [Dr. Stephen Baenziger](https://agronomy.unl.edu/baenziger)/
+	* Dissertation: "Development of High-Density Linkage Map and QTL Mapping For Agronomic Traits in Bread Wheat Evaluated Across Multiple Rainfed Environments"/
 		
 **M.S., Plant Breeding and Genetics**
 * [SKUAST-K](http://www.skuastkashmir.ac.in/), Srinagar, India, December 2011
