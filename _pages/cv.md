@@ -102,7 +102,7 @@ June 2009 to December 2011 <br/>
 * Rana,M., Sood, A., **Hussain, W**., Kaldate, R., Sharma, T.R., Gill, R.K.,  Kumar, S., Singh, S. (2019). In: Mohar Singh (eds), Gene Pyramiding and Multiple Character Breeding, Lentils: Potential Resources for Enhancing Genetic Gains, 2019, Pages 83-124. [Link](https://doi.org/10.1016/B978-0-12-813522-8.00006-6).
 * Sanghera, G.S., Wani, S.H.,  **Hussain, W**., and Singh, N.B. (2015). *Genetic Engineering for Cold Stress Tolerance in Crop Plants*. In book: Advances in Genome Science, Edition: Volume 4, Publisher: Bentham Science, Editors: Atta-ur-Rahman, pp. 173-201. [Link](http://www.eurekaselect.com/138849/volume/4)
 * Chaudhary, H.K., Kaila, V., Rather, S.A., Badiyal, A., **Hussain, W**., Jamwal, N.S., and Mahato, A. (2013). In: Pratap and J. Kumar (eds.), *Alien Gene Transfer in Crop Plants, Volume Achievements and Impacts*. Springer, pp 1-26. [Link](https://link.springer.com/chapter/10.1007/978-1-4614-9572-7_1)
-* **Hussain, W**., Sanghera, G.S., Jamawal, N.S, and Badiyal,A. (2013). *Crop improvement through genomic interventions in sustainable way*. In: Malik CP, Sanghera GS and Sharma P(ed) Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 61-68. ISBN 978-81-7533-456-4. [Link](https://www.cabdirect.org/cabdirect/abstract/20143204150)
+* **Hussain, W**., Sanghera, G.S., Jamawal, N.S, and Badiyal,A. (2013). *Crop improvement through genomic interventions in sustainable way*. In: Malik CP, Sanghera GS and Sharma P(ed) Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 61-68. ISBN 978-81-7533-456-4. [Link](https://www.researchgate.net/publication/236857092_Crop_Improvement_in_Sustainable_way_Through_Genomic_Interventions)
 * Dar, S.H., **Hussain, W**., and Sanghera, G.S. (2013). *Advances in hybrid rice technology through applications of novel technologies*. In: Malik CP, Sanghera GS and Sharma P(ed), Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 1-12. [Link](https://www.cabdirect.org/cabdirect/abstract/20143204150) 
 
 ------
@@ -127,7 +127,7 @@ June 2009 to December 2011 <br/>
 * Best Oral Presentation Award, UNL Plant breeding Symposium-2016. [Link](https://agronomy.unl.edu/plant-breeding-symposium)
 * Indian Council of Agricultural Research (ICAR)-International Fellowship(2014-2017). [Link](https://icar.org.in/node/5142)
 * Inspire Fellowship (Ministry of Science & Technology, Department of Science & Technology, India (2012-2104). [Link](http://www.inspire-dst.gov.in/)
-* University Merit Certificate (M.Sc. Plant breeding &Genetics) (2011). [Link](http://www.skuastkashmir.ac.in))
+* University Merit Certificate (M.Sc. Plant breeding & Genetics) (2011). [Link](http://www.skuastkashmir.ac.in)
 * Qualified ASRB National Eligibility Test 2012, 2013 and 2014 for Assistant Professorship. [Link](http://www.asrb.org.in/)
 
 ------
