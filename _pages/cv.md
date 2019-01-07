@@ -40,7 +40,7 @@ Department of Agronomy and Horticulture, University of Nebraska - Lincoln<br/>
 * Responsibilities:
 	* Quantitative genetic analysis of longitudinal high-throughput image data of night temperature stress in wheat and rice.
 	* Perform genome-wide analysis and genomic predictions of high-throughput image data combined with high dimensional genomic, transcriptomic and metabolomics data. 
-	* Modelling variance-heterogeneity in genome-wide association studies using novel statistical tools.
+	* Modeling variance-heterogeneity in genome-wide association studies using novel statistical tools.
 	* Develop R-packages and Shiny applications applications.
 	
 **Research Associate Scientist-II (Wheat Breeder)**<br/>
@@ -90,7 +90,7 @@ June 2009 to December 2011 <br/>
 
 ------
 
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
@@ -112,7 +112,7 @@ June 2009 to December 2011 <br/>
 
 ------
 
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
@@ -159,7 +159,7 @@ June 2009 to December 2011 <br/>
 * Member of organizing a committee of UNL plant breeding symposium-2016.
 * Hosted 2015- World Food Prize Nebraska Youth Institute in Department of Agronomy and Horticulture.
 * Poster Judge (Undergraduate and Graduate) at University of Nebraska, Lincoln Spring Research Fair-2018.
-* Poster Judge (Undergraduate) at ASA, CSSA Anual meetings in Baltimore, Maryland-2018.
+* Poster Judge (Undergraduate) at ASA, CSSA Annual meetings in Baltimore, Maryland-2018.
 
 ------
 
@@ -207,7 +207,7 @@ June 2009 to December 2011 <br/>
   * Quantitative Genetics
     * QTL Mapping: R/qtl, R/ASMap, IciMapping etc.
     * Genome-wide Association Mapping: Plink, TASSEL, BGLR, rrBLUP, GAPIT, FarmCPU etc. 
-    * Genomic Selections: BGLR,rrBLUP etc.
+    * Genomic Selections: BGLR, rrBLUP etc.
   * Statistics
     * SAS
     * R
@@ -233,7 +233,7 @@ June 2009 to December 2011 <br/>
 
 [**Teaching Experience 2**](https://whussain2.github.io/teaching/2018-Rclub-Lecture)
 
-* This lecture was delivered in Rclub hosted by students in the Agronomy and Horticulture department, University of Nebraska, Lincoln. In this lecture I discussed about **data visualizations in ggplot**, **interactive visualizations using plotly**, **multiple plots in same panel**, **correlations** and **correlation heat maps**. 
+* This lecture was delivered in R-club hosted by students in the Agronomy and Horticulture department, University of Nebraska, Lincoln. In this lecture I discussed about **data visualizations in ggplot**, **interactive visualizations using plotly**, **multiple plots in same panel**, **correlations** and **correlation heat maps**. 
 
 
 ------
