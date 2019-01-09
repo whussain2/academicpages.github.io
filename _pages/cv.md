@@ -136,7 +136,7 @@ June 2009 to December 2011 <br/>
 ======
 
 ------
-Indian Council of Agricultural Research, “Using Advanced Genomic Tools to Improve Wheat Under Drought Conditions”, $80,000			2014 - 2016
+[Indian Council of Agricultural Research](https://icar.org.in), “Using Advanced Genomic Tools to Improve Wheat Under Drought Conditions”, $80,000  <right> 2014 - 2016 </right>
 
 ------
 
