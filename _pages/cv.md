@@ -57,7 +57,7 @@ January 2014 to April 2017 <br/>
 * Genome selection/predictions in Nebraska wheat breeding program.
 * Gained proficiency in statistical analysis and programming including Unix operating system, perl language, GBS data analysis, and statistical analysis using R and SAS software.
 * Conducted extensive field trials, crossing, phenoyping and data collections across multiple environments for the four years.
-* Analyzed multi-environment phenotypic data in ASREML package in R and incorporating spatial corrections using mixed linear models and generate variance components.
+* Analyzed multi-environment phenotypic data in ASReml package in R and incorporating spatial corrections using mixed linear models and generate variance components.
 * BLUP/BLUE estimates for genomic selections and QTL mapping.
 * Molecular mapping of Tan spot resistance in wheat.
   	
