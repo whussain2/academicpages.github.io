@@ -131,6 +131,12 @@ June 2009 to December 2011 <br/>
 * Qualified ASRB National Eligibility Test 2012, 2013 and 2014 for Assistant Professorship. [Link](http://www.asrb.org.in/)
 
 ------
+<span style="color:black">**Grants Funded**</span>
+======
+------
+Indian Council of Agricultural Research, “Using Advanced Genomic Tools to Improve Wheat Under Drought Conditions”, $80,000        2014 - 2016
+
+------
 
 <span style="color:black">**Professional Training**</span>
 ======
