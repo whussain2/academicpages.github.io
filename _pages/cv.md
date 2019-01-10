@@ -41,7 +41,7 @@ Department of Agronomy and Horticulture, University of Nebraska - Lincoln<br/>
 	* Quantitative genetic analysis of longitudinal high-throughput image data of night temperature stress in wheat and rice.
 	* Perform genome-wide analysis and genomic predictions of high-throughput image data combined with high dimensional genomic, transcriptomic and metabolomics data. 
 	* Modeling variance-heterogeneity in genome-wide association studies using novel statistical tools.
-	* Develop R-packages and Shiny applications applications.
+	* Develop R-packages and Shiny applications.
 	
 **Research Associate Scientist-II (Wheat Breeder)**<br/>
 May 2017 to December 2017 <br/>
