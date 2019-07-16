@@ -5,6 +5,12 @@ author_profile: true
 ---
 
 <br>
+## Pre-prints
+![Hussain2019](http://whussain2.github.io/images/Hussain_2019_1.jpg){: .align-right height="220px" width="200px"}
+<b>[Variance heterogeneity genome-wide mapping for cadmium in bread wheat reveals novel genomic loci and epistatic interactions](http://whussain2.github.io/publications/2019-07-01-Variance-heterogeneity-genome-wide-mapping-for-cadmium-in-bread-wheat-reveals-novel-genomic-loci-and-epistatic-interactions)</b> Hussain, W<b>, M. Campbell, D. Jarquin, H. Walia, Morota, G. (2019). <i>BioRxiv</i>.
+
+This paper reports the variance-heterogeneity GWAS for grain cadmium in wheat. 
+<br>
 ## Peer-reviewed Publications
 ![Kariyawasam2018](http://whussain2.github.io/images/kariyawasam_2018.jpg){: .align-right height="220px" width="200px"}
 <b>[Identification of quantitative trait loci conferring resistance to tan spot in a bi-parental population derived from two Nebraskan hard red winter wheat cultivars.](http://whussain2.github.io/publications/2018-11-01-Identification-of-quantitative-trait-loci-conferring-resistance-to-tan-spot-in-a-bi-parental-population-derived-from-two-Nebraskan-hard-red-winter-wheat-cultivars)</b> Kariyawasam, G.K., <b>W. Hussain</b>, A. Easterly, M. Guttieri, V. Belamkar, J. Poland, J. Venegas, S. Baenziger, F. Marias, J.B. Rasmussen, and Z.(2018). <i>Molecular Breeding</i>.
