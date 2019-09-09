@@ -11,9 +11,7 @@ redirect_from:
 Biography
 ======
 ------
-I'm a plant breeder and quantitative geneticist. Currently, a post-doctoral research associate  at the University of Nebraska Lincoln working with [Gota Morota](http://morotalab.org/) from Department of Animal and Poultry Sciences at the Virginia Polytechnic Institute and State University (VT) and [Harkamal Walia](http://cropstressgenomics.org/) from Department of Agronomy and Horticulture, University of Nebraska, Lincoln.  Currently, my research focuses on (i) applying quantitative genetics methods for genome-wide association and genomic prediction of longitudinal traits derived from high-throughput phenotyping platforms for high-night temperature stress in rice and wheat; (ii) modeling variance-heterogeneity in genome-wide association studies using novel statistical tools; and (iii) develop R-packages and Shiny applications.
-
-Outside of my professional life I enjoy playing cricket, traveling, reading, and spending time with family.
+I'm a plant breeder and quantitative geneticist. Currently, a Scientist-I,  at International Rice Research Institute. I am a part of Breeding Innovations team and lead the Germplasm Enhancement to bridge the gap in rice line development programmes. Outside of my professional life I enjoy playing cricket, traveling, reading, and spending time with family.
 
 ------
 
@@ -38,7 +36,7 @@ I am highly motivated in my goals to be part of a nationally and internationally
 
 
 > <span style="color:darkred">"Innovations do not come from brain, innovations do come from sharing of ideas"</span>
-> <span style="color:darkred">"Together we can make things better"</span>
+> <span style="color:darkred">"Excited to Join IRRI"</span>
 >
 >--- Anonymous
 
