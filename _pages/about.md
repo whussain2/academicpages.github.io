@@ -11,7 +11,7 @@ redirect_from:
 Biography
 ======
 ------
-I'm a plant breeder and quantitative geneticist. Currently, a Scientist-I,  at International Rice Research Institute. I am a part of Breeding Innovations team and lead the Germplasm Enhancement to bridge the gap in rice line development programmes. Outside of my professional life I enjoy playing cricket, traveling, reading, and spending time with family.
+I'm a plant breeder and quantitative geneticist. Currently, a Scientist-I,  at [International Rice Research Institute](https://www.irri.org/). I am a part of Breeding Innovations team and lead the Germplasm Enhancement programm to bridge the gap in rice line development programmes. Outside of my professional life I enjoy playing cricket, traveling, reading, and spending time with family.
 
 ------
 
@@ -36,8 +36,7 @@ I am highly motivated in my goals to be part of a nationally and internationally
 
 
 > <span style="color:darkred">"Innovations do not come from brain, innovations do come from sharing of ideas"</span>
-> <span style="color:darkred">"Excited to Join IRRI"</span>
->
+
 >--- Anonymous
 
 -------
