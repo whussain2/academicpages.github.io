@@ -1,14 +1,14 @@
 ---
 title: "Variance heterogeneity genome-wide mapping for cadmium in bread wheat reveals novel genomic loci and epistatic interactions"
 collection: publications
-permalink: 2019-07-01-Variance-heterogeneity-genome-wide-mapping-for-cadmium-in-bread-wheat-reveals-novel-genomic-loci-and-epistatic-interactions
+permalink: publications/2019-07-01-Variance-heterogeneity-genome-wide-mapping-for-cadmium-in-bread-wheat-reveals-novel-genomic-loci-and-epistatic-interactions
 excerpt: 'This paper reports variance-heterogeneity GWAS for grain cadmium concentration in bread wheat'
 date: 2019-07-01
 venue: 'BioRxiv'
 citation: 'Hussain, et al .2018. Variance heterogeneity genome-wide mapping for cadmium in bread wheat reveals novel genomic loci and epistatic interactions. BioRxiv.'
 
 ---
-<a href='https://www.biorxiv.org/content/10.1101/668087v1'> Full length manuscript is available here:</a>
+<a href='https://www.biorxiv.org/content/10.1101/668087v1'>Full length manuscript is available here:</a>
 
 **Abstract**
 
