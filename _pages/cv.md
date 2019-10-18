@@ -33,8 +33,14 @@ redirect_from:
 <span style="color:black">**Research Experience**</span>
 ======
 ------
+**Scientist-I**<br/>
+September 209 to Current<br/>
+[International Rice Research Institute](https://www.irri.org/) <br/> 
+* Responsibilities:
+	* Germ-plasm enhancement using novel tools and technologies.
+	
 **Postdoctoral Research Associate**<br/>
-March 2018 to Current<br/>
+March 2018 to July 2019<br/>
 Department of Agronomy and Horticulture, University of Nebraska - Lincoln<br/>
 * Supervisors: [Gota Morota](https://www.apsc.vt.edu/OurPeople/Faculty/GotaMorota.html) and [Harkamal Walia](https://agronomy.unl.edu/walia)<br/>
 * Responsibilities:
