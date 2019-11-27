@@ -25,5 +25,5 @@ Research Interests
 
 
 > <span style="color:darkred">" **Working for Better Rice for better world**"</span>
-![](images/rice.png)
+![](images/rice.jpeg)
 -------
