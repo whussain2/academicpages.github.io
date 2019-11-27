@@ -24,7 +24,6 @@ Research Interests
 
 
 
-> <span style="color:darkred">"Innovations do not come from brain, innovations do come from sharing of ideas"</span>
+> <span style="color:darkred">"Rice for better world"</span>
 
->--- Anonymous
 -------
