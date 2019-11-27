@@ -22,4 +22,8 @@ Research Interests
 
 ------
 
+
+
+> <span style="color:darkred">" **I do Rice**"</span>
 ![](images/rice.png)
+-------
