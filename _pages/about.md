@@ -23,5 +23,4 @@ Research Interests
 ------
 
 
-
 ![](images/rice.png)
