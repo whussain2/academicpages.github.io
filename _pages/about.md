@@ -22,8 +22,5 @@ Research Interests
 
 ------
 
+<img src="images/rice.png" width="200">
 
-
-> <span style="color:darkred">" **Working for Better Rice for better world**"</span>
-![](images/rice.png)
--------
