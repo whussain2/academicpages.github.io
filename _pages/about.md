@@ -22,5 +22,4 @@ Research Interests
 
 ------
 
-<img src="images/rice.png" width="200">
-
+![](images/rice.png){:height="50%" width="50%"}
