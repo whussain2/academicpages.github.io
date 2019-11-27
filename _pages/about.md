@@ -22,4 +22,4 @@ Research Interests
 
 ------
 
-![](images/rice.png){:height="50%" width="50%"}
+![](images/rice.png)
