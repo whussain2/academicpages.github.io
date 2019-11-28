@@ -27,4 +27,4 @@ Research Interests
 
 > "Innovations do not come from brain, they come through sharing of Ideas."
 >
-> --- Annonymous
+> --- Anonymous
