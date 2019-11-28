@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+---
 style type="text/css">
 
 body 
@@ -57,6 +57,7 @@ pre
 
 
 </style>
+---
 
 Biography
 ======
