@@ -23,7 +23,7 @@ Research Interests
 ------
 
 
-![](images/rice.png)
+![](images/rice.png =100x20)
 
 > "Innovations do not come from brain, they come through sharing of Ideas."
 >
