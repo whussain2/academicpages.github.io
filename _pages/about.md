@@ -24,3 +24,7 @@ Research Interests
 
 
 ![](images/rice.png)
+
+> "Innovations do not come from brain, they come through sharing of Ideas."
+>
+> --- Annonymous
