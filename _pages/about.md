@@ -22,10 +22,11 @@ Research Interests
 
 ------
 
-<p float="right">
 
-<img src="images/rice.png" width="300" height="300" />
-</p>
+
+
+<img align="left" src="images/rice.png" width="300" height="300" />
+
 
 
 > "Innovations do not come from brain, they come through sharing of Ideas."
