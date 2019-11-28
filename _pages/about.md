@@ -72,9 +72,6 @@ Research Interests
 
 ------
 
-img {
-  float: right;
-}
 
 <img src="images/rice.png" width="300" height="300" />
 
