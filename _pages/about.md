@@ -25,7 +25,7 @@ Research Interests
 
 
 
-<img align="left" src="images/rice.png" width="300" height="300" />
+<img align="right" src="images/rice.png" width="300" height="300" />
 
 
 
