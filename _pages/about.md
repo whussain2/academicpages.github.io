@@ -22,7 +22,7 @@ Research Interests
 
 ------
 
-<p float="left">
+<p float="right">
 
 <img src="images/rice.png" width="300" height="300" />
 </p>
