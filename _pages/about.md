@@ -18,9 +18,11 @@ Rice breeder with [International Rice Research Institute](https://www.irri.org/)
 
 Research Interests
 ======
+
 ------
 
 * Rice pre-breeding and phenotypic trait integration using advanced genomics, statistics, quantitative genetics  and bioinformatics tools. 
+
 ------
 
 
