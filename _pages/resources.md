@@ -8,5 +8,7 @@ author_profile: true
 
 The aim of this application was to dynamically view and interpret temporal GWAS output.
 
+## vGWAS
+
 
 **Check for updates, more to come**
