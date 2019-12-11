@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<p style='color:darkred size: 20px'>I Work for IRRI</p>
+<p style='color:darkred'>I Work for IRRI</p>
 {: .alert .alert-info .text-center}
 
 
@@ -32,8 +32,7 @@ Research Interests
 
 
 
-
-<img align="right" src="images/rice.png" width="300" height="300" />
+<img align="right" src="images/rice.png" width="300" height="300"/>
 
 
 
