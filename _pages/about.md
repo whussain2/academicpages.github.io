@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-<p style='color:darkred'>I Work for IRRI</p>
+# **I Work for IRRI**
 {: .alert .alert-info .text-center}
 
 
