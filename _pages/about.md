@@ -10,6 +10,7 @@ redirect_from:
 
 ```
 <p style='color:darkred'>I Work for IRRI</p>
+{: .text-center}
 ```
 
 Biography
