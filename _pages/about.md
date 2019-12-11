@@ -14,7 +14,7 @@ redirect_from:
 {: .gitlab-purple} 
 
 
-Biography
+## Biography
 ======
 ------
 
@@ -22,7 +22,7 @@ Rice breeder with [International Rice Research Institute (IRRI)](https://www.irr
 
 ------
 
-Research Interests
+## Research Interests
 ======
 
 ------
