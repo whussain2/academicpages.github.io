@@ -10,7 +10,8 @@ redirect_from:
 
 
 # _I Work for IRRI_
-{: .alert .alert-info .text-center}
+{: .alert .alert-info .text-center .color-purple}
+{: .gitlab-purple} 
 
 
 Biography
