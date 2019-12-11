@@ -15,7 +15,7 @@ redirect_from:
 
 
 ## Biography
-======
+
 ------
 
 Rice breeder with [International Rice Research Institute (IRRI)](https://www.irri.org/). I am a part of Breeding Innovations team and leading the pre-breeding efforts across the irrigated, rain-fed and hybrid rice breeding programs. Outside of my professional life I enjoy playing cricket, traveling, reading, and spending time with family.
@@ -23,7 +23,6 @@ Rice breeder with [International Rice Research Institute (IRRI)](https://www.irr
 ------
 
 ## Research Interests
-======
 
 ------
 
