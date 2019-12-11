@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-```
+
 <p style='color:darkred'>I Work for IRRI</p>
 {: .text-center}
-```
+
 
 Biography
 ======
