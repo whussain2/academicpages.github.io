@@ -13,9 +13,6 @@ redirect_from:
 {: .alert .alert-info .text-center .color-purple}
 {: .gitlab-purple} 
 
-
-## Biography
-
 ------
 
 Rice breeder with [International Rice Research Institute (IRRI)](https://www.irri.org/). I am a part of Breeding Innovations team and leading the pre-breeding efforts across the irrigated, rain-fed and hybrid rice breeding programs. Outside of my professional life I enjoy playing cricket, traveling, reading, and spending time with family.
