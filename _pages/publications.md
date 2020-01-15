@@ -13,8 +13,11 @@ author_profile: true
 This paper reports the variance-heterogeneity GWAS for grain cadmium in wheat. 
 <br>
 ## Peer-reviewed Publications
+
 ![Paul2020](http://whussain2.github.io/images/paul_2020.jpg){: .align-right height="220px" width="200px"}
 <b>[Divergent phenotypic response of rice accessions to transient heat stress during early seed development.](http://whussain2.github.io/publications/2020-01-12-Divergent-phenotypic-response-of-rice-accessions-to-transient-heat-stress-during-early-seed-development)</b> Paul, P., D.K. Dhatt, J. Sandhu, <b>W. Hussain</b>, L. Irvin, G. Morota, P. Staswick, and Walia. H. (2018). <i>Plant Direct</i>.
+
+This study provides detailed insight into the divergence of heat stress response mechanisms of a subset of rice accessions on exposure to the transient HS during early seed development
 
 ![Kariyawasam2018](http://whussain2.github.io/images/kariyawasam_2018.jpg){: .align-right height="220px" width="200px"}
 <b>[Identification of quantitative trait loci conferring resistance to tan spot in a bi-parental population derived from two Nebraskan hard red winter wheat cultivars.](http://whussain2.github.io/publications/2018-11-01-Identification-of-quantitative-trait-loci-conferring-resistance-to-tan-spot-in-a-bi-parental-population-derived-from-two-Nebraskan-hard-red-winter-wheat-cultivars)</b> Kariyawasam, G.K., <b>W. Hussain</b>, A. Easterly, M. Guttieri, V. Belamkar, J. Poland, J. Venegas, S. Baenziger, F. Marias, J.B. Rasmussen, and Z.(2018). <i>Molecular Breeding</i>.
