@@ -7,12 +7,16 @@ author_profile: true
 <br>
 ## Pre-prints
 
-![Hussain2019](http://whussain2.github.io/images/Hussain_2019_1.jpg){: .align-right height="220px" width="220px"}
-<b>[Variance heterogeneity genome-wide mapping for cadmium in bread wheat reveals novel genomic loci and epistatic interactions.](http://whussain2.github.io/publications/2019-07-01-Variance-heterogeneity-genome-wide-mapping-for-cadmium-in-bread-wheat-reveals-novel-genomic-loci-and-epistatic-interactions)</b> <b>Hussain, W</b>, M. Campbell, D. Jarquin, H. Walia, Morota, G. (2019). <i>BioRxiv</i>.
+None
 
-This paper reports the variance-heterogeneity GWAS for grain cadmium in wheat. 
+
 <br>
 ## Peer-reviewed Publications
+
+![Hussain2019](http://whussain2.github.io/images/Hussain_2019_1.jpg){: .align-right height="220px" width="220px"}
+<b>[Variance heterogeneity genome-wide mapping for cadmium in bread wheat reveals novel genomic loci and epistatic interactions.](http://whussain2.github.io/publications/2020-04-11-Variance-heterogeneity-genome-wide-mapping-for-cadmium-in-bread-wheat-reveals-novel-genomic-loci-and-epistatic-interactions)</b> <b>Hussain, W</b>, M. Campbell, D. Jarquin, H. Walia, Morota, G. (2019). <i>The Plant Genome</i>.
+
+This paper reports the variance-heterogeneity GWAS for grain cadmium in wheat using DGLM and HGLM approaches. In this work we identifed novel vQTLs and mvQTLs for Cadmium and also showed epistasis is the important component for variation for grain cadmium in wheat. 
 
 ![Paul2020](http://whussain2.github.io/images/paul_2020.jpg){: .align-right height="220px" width="200px"}
 <b>[Divergent phenotypic response of rice accessions to transient heat stress during early seed development.](http://whussain2.github.io/publications/2020-01-12-Divergent-phenotypic-response-of-rice-accessions-to-transient-heat-stress-during-early-seed-development)</b> Paul, P., D.K. Dhatt, J. Sandhu, <b>W. Hussain</b>, L. Irvin, G. Morota, P. Staswick, and Walia. H. (2018). <i>Plant Direct</i>.
