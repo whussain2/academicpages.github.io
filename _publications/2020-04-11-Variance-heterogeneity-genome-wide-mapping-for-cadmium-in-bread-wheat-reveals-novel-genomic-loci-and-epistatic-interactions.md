@@ -5,7 +5,7 @@ permalink: publications/2020-04-11-Variance-heterogeneity-genome-wide-mapping-fo
 excerpt: 'This paper highlights and shows the impact of heat-stress on rice developing grains'
 date: 2020-04-11
 venue: 'The Plant Genome'
-citation: 'Hussain W, Campbell MT,Jarquin D, Walia H, Morota G. Variance heterogeneitygenome-wide mapping for cadmium in bread wheatreveals novel genomic loci and epistatic interactions.Plant Genome. 2020;e20011. <a href='https://doi.org/10.1002/tpg2.20011'>
+citation: 'Hussain W, Campbell MT,Jarquin D, Walia H, Morota G. Variance heterogeneitygenome-wide mapping for cadmium in bread wheatreveals novel genomic loci and epistatic interactions.Plant Genome. 2020;e20011.
 
 ---
 <a href='https://doi.org/10.1002/tpg2.20011'>Full length manuscript is available here:</a>
