@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-# _I Work for IRRI_
+# _This is personal GitHub webpage, created and maintained by myself_
 {: .alert .alert-info .text-center .color-purple}
 {: .gitlab-purple} 
 
 ------
 
-Rice breeder with [International Rice Research Institute (IRRI)](https://www.irri.org/). I am a part of Breeding Innovations team and leading the pre-breeding efforts across the irrigated, rain-fed and hybrid rice breeding programs. Outside of my professional life I enjoy playing cricket, traveling, reading, and spending time with family.
+Rice breeder with [International Rice Research Institute (IRRI)](https://www.irri.org/).  Leading rain-fed rice breeding program to breed for drought, salt, high-temperature and submergence tolerance
 
 ------
 
@@ -23,7 +23,9 @@ Rice breeder with [International Rice Research Institute (IRRI)](https://www.irr
 
 ------
 
-* Rice pre-breeding and phenotypic trait integration using advanced genomics, statistics, quantitative genetics  and bioinformatics tools. 
+* Interested in the development of improved germplasm.
+* Keen to integrate cutting-edge tools to modernize the breeding programs.
+* Optimize the breeding programs for enhanced genetic gains and efficient management of resources.
 
 ------
 

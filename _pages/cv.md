@@ -18,7 +18,7 @@ redirect_from:
 Interested in the development of improved germplasm and products. Keen to integrate and utilize multi-disciplinary approach and tools to modernize the breeding programs, and for speedy development of the products and efficient management of resources.
  ------
 
-<span style="color:blue">**Education**</span>
+<span style="color:black">**Education**</span>
 
 ======
 
@@ -225,7 +225,7 @@ Interested in the development of improved germplasm and products. Keen to integr
 
 ------
 
-<span style="color:blue">**Skills**</span>
+<span style="color:black">**Skills**</span>
 ======
 
 ------
