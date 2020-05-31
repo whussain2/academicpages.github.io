@@ -138,12 +138,18 @@ speedy development of the products and efficient management of resources.
 
 ------
 
-<span style="color:black">**Grants Funded**</span>
+<span style="color:black">**Research Grants Funded**</span>
 ======
 
 ------
-* [Indian Council of Agricultural Research](https://icar.org.in),&nbsp; $80,000    (**2014 - 2016**)
-	* Proposal:  Using Advanced Genomic Tools to Improve Wheat Under Drought Conditions
+[**ICAR International Fellowship for Ph.D. Research](https://icar.org.in/)** <br/>
+	Jan. 2014- Dec. 2016 <br/>
+	Indian Council of Agricultural Research, $80,000 <br/>
+	Proposal: Using Advanced Genomic Tools to Improve Wheat Under Drought Conditions <br/>
+[**INSPIRE Fellowship for Ph.D. Research**](https://online-inspire.gov.in/) <br/>
+	June 2012-Dec. 2013 <br/>
+	Department of Science and Technology, India, $16,000 <br/>
+	Proposal: Diversity analysis and mapping of powdery mildew resistance in oats <br/>
 
 ------
 
