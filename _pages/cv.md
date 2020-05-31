@@ -91,7 +91,7 @@ speedy development of the products and efficient management of resources.
 <span style="color:black">**Book Chapters**</span>
 ======
 ------
-* Chaudhary, H.K., Badiyal, A., **Hussain**, W., Jamwal, N.S., Kumar, N., Sharma, P and Singh, D. (2019). In: book: Genomics Assisted Breeding of Crops for Crop Stresses, Vol, II. *Innovative Role of DH Breeding in Genomics Assisted-Crop Improvement: Focus on Drought Tolerance in Wheat**. Springer, pp 69-90. [Link](https://link.springer.com/chapter/10.1007/978-3-319-99573-1_5)
+* Chaudhary, H.K., Badiyal, A., **Hussain**, W., Jamwal, N.S., Kumar, N., Sharma, P and Singh, D. (2019). In: book: Genomics Assisted Breeding of Crops for Crop Stresses, Vol, II. *Innovative Role of DH Breeding in Genomics Assisted-Crop Improvement: Focus on Drought Tolerance in Wheat*. Springer, pp 69-90. [Link](https://link.springer.com/chapter/10.1007/978-3-319-99573-1_5)
 * Rana,M., Sood, A., **Hussain, W**., Kaldate, R., Sharma, T.R., Gill, R.K.,  Kumar, S., Singh, S. (2019). In: Mohar Singh (eds), Gene Pyramiding and Multiple Character Breeding, Lentils: Potential Resources for Enhancing Genetic Gains, 2019, Pages 83-124. [Link](https://doi.org/10.1016/B978-0-12-813522-8.00006-6).
 * Sanghera, G.S., Wani, S.H.,  **Hussain, W**., and Singh, N.B. (2015). *Genetic Engineering for Cold Stress Tolerance in Crop Plants*. In book: Advances in Genome Science, Edition: Volume 4, Publisher: Bentham Science, Editors: Atta-ur-Rahman, pp. 173-201. [Link](http://www.eurekaselect.com/138849/volume/4)
 * Chaudhary, H.K., Kaila, V., Rather, S.A., Badiyal, A., **Hussain, W**., Jamwal, N.S., and Mahato, A. (2013). In: Pratap and J. Kumar (eds.), *Alien Gene Transfer in Crop Plants, Volume Achievements and Impacts*. Springer, pp 1-26. [Link](https://link.springer.com/chapter/10.1007/978-1-4614-9572-7_1)
@@ -105,11 +105,12 @@ speedy development of the products and efficient management of resources.
 ------
 
 [**Teaching Experience 1**](https://whussain2.github.io/teaching/2018-ASCI%20944/STAT%20844%20Quantitative%20Methods%20for%20Genomics%20of%20Complex%20Traits)<br/>
-	Lecture on GWAS and practical demonstration on course ASCI 944/STAT 844-Quantitative Methods for Genomics of Complex Traits taught by Dr. Gota Morota.<br/>
+
+		Lecture on GWAS and practical demonstration on course ASCI 944/STAT 844-Quantitative Methods for Genomics of Complex Traits taught by Dr. Gota Morota.<br/>
 [**Teaching Experience 2**](https://whussain2.github.io/teaching/2018-Rclub-Lecture)<br/>
-	Lecture on R data visualizations in Rclub hosted by students in the Agronomy and Horticulture department, University of Nebraska, Lincoln.<br/>
+		Lecture on R data visualizations in Rclub hosted by students in the Agronomy and Horticulture department, University of Nebraska, Lincoln.<br/>
 [**Teaching Experience 3**](https://whussain2.github.io/teaching/2019-STAT%20892-007%20-%20Integrative%20Data%20Science%20for%20Plant%20Phenomics)<br/>
-	Two lectures on genomic predictions and GWAS in the course STAT 892-007- Integrative Data Science for Plant Phenomics taught by multiple instructors.<br/>
+		Two lectures on genomic predictions and GWAS in the course STAT 892-007- Integrative Data Science for Plant Phenomics taught by multiple instructors.<br/>
 
 ------
 
@@ -142,14 +143,17 @@ speedy development of the products and efficient management of resources.
 ======
 
 ------
-[**ICAR International Fellowship for Ph.D. Research](https://icar.org.in/)** <br/>
-	Jan. 2014- Dec. 2016 <br/>
-	Indian Council of Agricultural Research, $80,000 <br/>
-	Proposal: Using Advanced Genomic Tools to Improve Wheat Under Drought Conditions <br/>
+[**ICAR International Fellowship for Ph.D. Research**](https://icar.org.in/) <br/>
+
+		Jan. 2014- Dec. 2016 <br/>
+		Indian Council of Agricultural Research, $80,000 <br/>
+		Proposal: Using Advanced Genomic Tools to Improve Wheat Under Drought Conditions <br/>
+		
 [**INSPIRE Fellowship for Ph.D. Research**](https://online-inspire.gov.in/) <br/>
-	June 2012-Dec. 2013 <br/>
-	Department of Science and Technology, India, $16,000 <br/>
-	Proposal: Diversity analysis and mapping of powdery mildew resistance in oats <br/>
+
+		June 2012-Dec. 2013 <br/>
+		Department of Science and Technology, India, $16,000 <br/>
+		Proposal: Diversity analysis and mapping of powdery mildew resistance in oats <br/>
 
 ------
 
