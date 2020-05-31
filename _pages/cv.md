@@ -13,10 +13,9 @@ redirect_from:
 
 <span style="color:black">**Research Interests**</span>
 ======
-Interested in the development of improved germplasm and products. Keen to integrate and
-utilize multi-disciplinary approach and tools to modernize the breeding programs, and for
-speedy development of the products and efficient management of resources.
 
+------
+Interested in the development of improved germplasm and products. Keen to integrate and utilize multi-disciplinary approach and tools to modernize the breeding programs, and for speedy development of the products and efficient management of resources.
  ------
 
 
@@ -41,6 +40,7 @@ speedy development of the products and efficient management of resources.
  
 <span style="color:black">**Professional Positions**</span>
 ======
+------
 **Rice Breeder (Scientist-I)**<br/>
 	September 2019 to present <br/>
 	Rice Breeding platform <br/>
@@ -105,12 +105,11 @@ speedy development of the products and efficient management of resources.
 ------
 
 [**Teaching Experience 1**](https://whussain2.github.io/teaching/2018-ASCI%20944/STAT%20844%20Quantitative%20Methods%20for%20Genomics%20of%20Complex%20Traits)<br/>
-
-		Lecture on GWAS and practical demonstration on course ASCI 944/STAT 844-Quantitative Methods for Genomics of Complex Traits taught by Dr. Gota Morota.<br/>
+- Lecture on GWAS and practical demonstration on course ASCI 944/STAT 844-Quantitative Methods for Genomics of Complex Traits taught by Dr. Gota Morota.<br/>
 [**Teaching Experience 2**](https://whussain2.github.io/teaching/2018-Rclub-Lecture)<br/>
-		Lecture on R data visualizations in Rclub hosted by students in the Agronomy and Horticulture department, University of Nebraska, Lincoln.<br/>
+-  Lecture on R data visualizations in Rclub hosted by students in the Agronomy and Horticulture department, University of Nebraska, Lincoln.<br/>
 [**Teaching Experience 3**](https://whussain2.github.io/teaching/2019-STAT%20892-007%20-%20Integrative%20Data%20Science%20for%20Plant%20Phenomics)<br/>
-		Two lectures on genomic predictions and GWAS in the course STAT 892-007- Integrative Data Science for Plant Phenomics taught by multiple instructors.<br/>
+- Two lectures on genomic predictions and GWAS in the course STAT 892-007- Integrative Data Science for Plant Phenomics taught by multiple instructors.<br/>
 
 ------
 
@@ -144,16 +143,14 @@ speedy development of the products and efficient management of resources.
 
 ------
 [**ICAR International Fellowship for Ph.D. Research**](https://icar.org.in/) <br/>
-
-		Jan. 2014- Dec. 2016 <br/>
-		Indian Council of Agricultural Research, $80,000 <br/>
-		Proposal: Using Advanced Genomic Tools to Improve Wheat Under Drought Conditions <br/>
+- Jan. 2014- Dec. 2016 <br/>
+- Indian Council of Agricultural Research, $80,000 <br/>
+- Proposal: Using Advanced Genomic Tools to Improve Wheat Under Drought Conditions <br/>
 		
 [**INSPIRE Fellowship for Ph.D. Research**](https://online-inspire.gov.in/) <br/>
-
-		June 2012-Dec. 2013 <br/>
-		Department of Science and Technology, India, $16,000 <br/>
-		Proposal: Diversity analysis and mapping of powdery mildew resistance in oats <br/>
+- June 2012-Dec. 2013 <br/>
+- Department of Science and Technology, India, $16,000 <br/>
+- Proposal: Diversity analysis and mapping of powdery mildew resistance in oats <br/>
 
 ------
 
@@ -164,6 +161,8 @@ speedy development of the products and efficient management of resources.
 * Open Science Grid (OSG) User School 2018: Workshop on High Throughput Computing and Running Large Scale Computing Applications at University of Wisconsin Madison. July 9-13. [Link](https://opensciencegrid.org/user-school-2018/)
 * Work shop Series on Unix Shell, Git and use of HCC’s High-Performance Computing, High Throughput Computing and Cloud computing resources. Holland Computing Center, University of Nebraska Lincoln. June 05-26, 2018. [Link](https://hcc.unl.edu/june-workshop-series-2018)
 * Short term bioinformatics training (RNA-seq and DNA-seq). ArrayGen Technologies, India, Pune . 23 Oct-21 Nov. 2017. [Link](http://www.arraygen.com/workshop-training.php)
+* Next-generation Plant and Animal Breeding Program. Animal Science Department, University of Nebraska, Lincoln. March 21- 25, 2016.
+* From raw sequence to annotated genome-a systems biology tutorial. University of Nebraska Lincoln, Oct. 2015.
 * Understanding genome-wide association studies and other big data biological applications. University of Nebraska, Lincoln. June 23-24, 2014.
 * Fundamental writing skills workshop researchers. University of Nebraska, Lincoln. Sept 2015.
 * Write Wining Grant Proposals, University of Nebraska, Lincoln, March 18, 2016.
@@ -175,11 +174,14 @@ speedy development of the products and efficient management of resources.
 ------
 * ShinyAIM: Shiny-based Application of Interactive Manhattan Plots for Longitudinal GWAS using R and Shiny. The application is available online at [https://chikudaisei.shinyapps.io/shinyaim/](https://chikudaisei.shinyapps.io/shinyaim/). The source code and materials can be downloaded from GitHub [https://github.com/whussain2/ShinyAIM](https://github.com/whussain2/ShinyAIM)
 
+* **R for Plant Breeding**: This is an open source-resource to learn the Plant Breeding and Genetics related data analysis and visualizations [Link](https://github.com/whussain2/Rfor-Plant-Breeding)
+
 ------
 
 <span style="color:black">**Leadership Roles**</span>
 ======
 ------
+* A representative of Department of Agronomy and Horticulture Seminar Committee in the year 2019.
 * A representative of Department of Agronomy and Horticulture Safety Committee in the year 2015.
 * Member of organizing a committee of UNL plant breeding symposium-2016.
 * Hosted 2015- World Food Prize Nebraska Youth Institute in Department of Agronomy and Horticulture.
@@ -201,7 +203,7 @@ speedy development of the products and efficient management of resources.
 ======
 ------
 * Associate Editor: Agronomy Journal (March 2018 to present)
-* Peer Reviewer: Agronomy Journal (American Society of Agronomy); PNAS, Biological Sciences, India; Physiology and Molecular Biology of Plants; Agronomy (MPDI). 
+* Peer Reviewer: Agronomy Journal (American Society of Agronomy); PLOSONE; BMC Genetics; PNAS, Biological Sciences, India; Physiology and Molecular Biology of Plants; Agronomy (MPDI). 
 
 ------
 
@@ -227,25 +229,17 @@ speedy development of the products and efficient management of resources.
 ======
 
 ------
-* Quantitative Skills
-  * Genotyping-by-sequencing data analysis and SNP calling
-  * Quantitative Genetics
-    * QTL Mapping: R/qtl, R/ASMap, IciMapping etc.
-    * Genome-wide Association Mapping: Plink, TASSEL, BGLR, rrBLUP, GAPIT, FarmCPU etc. 
-    * Genomic Selections: BGLR, rrBLUP etc.
-  * Statistics
-    * SAS
-    * R
-    * ASReml
-    * Python
+Quantitative Skills
+- GBS data analysis and SNP calling
+- Big data handling and analysis
+- Cloud computing
+- Quantitative Genetics: QTL Mapping, GWAS, Genomic selections etc.
+- Statistical tools: R and SAS
+- Operating Systems: LINUX, OS X, Windows
+- Content-description Languages: XHTML, CSS, LATEX, Markdown
 
 * Wet Lab Skills
 	*  DNA extractions, PCR, real-time PCR, electrophoresis, SSR marker and KASP marker genotyping
-* Computational Skills
-	* Operating Systems: LINUX, OS X, Windows
-	* Big data analysis, high-throughput and cloud computing, linux shell and git
-	* LATEX and R Markdown
-	* Perl
 
 ------
 
