@@ -16,7 +16,8 @@ redirect_from:
 Interested in the development of improved germplasm and products. Keen to integrate and
 utilize multi-disciplinary approach and tools to modernize the breeding programs, and for
 speedy development of the products and efficient management of resources.
-======
+
+ ------
 
 
 <span style="color:black">**Education**</span>
@@ -38,53 +39,36 @@ speedy development of the products and efficient management of resources.
 
  ------ 
  
+<span style="color:black">**Professional Positions**</span>
+======
+**Rice Breeder (Scientist-I)**<br/>
+	September 2019 to present
+	Rice Breeding platform
+	[International Rice Research Institute](https://www.irri.org/), Los Banos, Philippines.
+	100% Research
+**Wheat Breeder (Associate Scientist-II)**<br/>
+	May 2017 to December 2017
+	Maharashtra Hybrid Seed Company (MAHYCO), Aurangabad, Jalna, India
+	100% Research
+ ------
+
 <span style="color:black">**Research Experience**</span>
 ======
 ------
-**Scientist-I**<br/>
-September 2009 to Current<br/>
-[International Rice Research Institute](https://www.irri.org/) <br/> 
-* Responsibilities:
-	* Germ-plasm enhancement using novel tools and technologies.
 	
 **Postdoctoral Research Associate**<br/>
-March 2018 to July 2019<br/>
-Department of Agronomy and Horticulture, University of Nebraska - Lincoln<br/>
-* Supervisors: [Gota Morota](https://www.apsc.vt.edu/OurPeople/Faculty/GotaMorota.html) and [Harkamal Walia](https://agronomy.unl.edu/walia)<br/>
-* Responsibilities:
-	* Quantitative genetic analysis of longitudinal high-throughput image data of night temperature stress in wheat and rice.
-	* Perform genome-wide analysis and genomic predictions of high-throughput image data combined with high dimensional genomic, transcriptomic and metabolomics data. 
-	* Modeling variance-heterogeneity in genome-wide association studies using novel statistical tools.
-	* Develop R-packages and Shiny applications.
+	March 2018 to July 2019
+	Department of Animal Sciences and Agronomy and Horticulture, University of Nebraska –Lincoln
 	
-**Research Associate Scientist-II (Wheat Breeder)**<br/>
-May 2017 to December 2017 <br/>
-Maharashtra Hybrid Seed Company ([MAHYCO](https://mahyco.com/)), Aurangabad, Jalna, India<br/>
-* The goal was to develop wheat lines and hybrids using advanced statistical and genomics tools<br/>
+**Ph. D (ICAR International Fellow and Graduate Research Assistantship)**<br/>
+	January 2014 to April 2017
 	
-**Ph.D ([ICAR International Fellow](https://icar.org.in/) and Graduate Research Assistantship)**<br/>
-January 2014 to April 2017 <br/>
-* Focused on the development and evaluation of RIL mapping population related to drought tolerance.
-* Development of high-density linkage map based on SNPs derived from genotyping-by-sequencing.
-* Genome-wide QTL mapping for various agro-physiological traits phenotyped across a wide range of environments.
-* High-throughput phenotyping in wheat and soybean using newly developed phenotyping platforms.
-* Genome selection/predictions in Nebraska wheat breeding program.
-* Gained proficiency in statistical analysis and programming including Unix operating system, perl language, GBS data analysis, and statistical analysis using R and SAS software.
-* Conducted extensive field trials, crossing, phenoyping and data collections across multiple environments for the four years.
-* Analyzed multi-environment phenotypic data in ASReml package in R and incorporating spatial corrections using mixed linear models and generate variance components.
-* BLUP/BLUE estimates for genomic selections and QTL mapping.
-* Molecular mapping of Tan spot resistance in wheat.
-  	
-**Research Fellow ([INSPIRE Fellowship](http://www.inspire-dst.gov.in/))**<br/>
-December 2011 to December 2013 <br/>
-Agricultural University, [CSKHPKV](http://www.hillagric.ac.in/), Palampur India<br/>
-* Diversity analysis in oats, screening and molecular mapping of powdery mildew resistance in oats.
-* Double haploid breeding in wheat using *Imperata cylindrica* grass.
+**Research Fellow (INSPIRE Fellowship)**
+	March 2012 to December 2013
+	Agricultural University, CSKHPKV, Palampur India
 	
-**Graduate Research Assistant (M.S.)**<br/>
-June 2009 to December 2011 <br/>
-* Identification of potential restorers for newly developed temperate CMS lines and identify the heterotic combinations.
-	 
+**Graduate Research Assistant (M.S.)**
+	June 2009 to December 2011
  ------ 
  
 <span style="color:black">**Publications**</span>
