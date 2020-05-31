@@ -42,14 +42,16 @@ speedy development of the products and efficient management of resources.
 <span style="color:black">**Professional Positions**</span>
 ======
 **Rice Breeder (Scientist-I)**<br/>
-	September 2019 to present
-	Rice Breeding platform
-	[International Rice Research Institute](https://www.irri.org/), Los Banos, Philippines.
-	100% Research
+	September 2019 to present <br/>
+	Rice Breeding platform <br/>
+	[International Rice Research Institute](https://www.irri.org/), Los Banos, Philippines<br/>
+	100% Research <br/>
+	
 **Wheat Breeder (Associate Scientist-II)**<br/>
-	May 2017 to December 2017
-	Maharashtra Hybrid Seed Company (MAHYCO), Aurangabad, Jalna, India
-	100% Research
+	May 2017 to December 2017 <br/>
+	Maharashtra Hybrid Seed Company (MAHYCO), Aurangabad, Jalna, India <br/>
+	100% Research <br/>
+ 
  ------
 
 <span style="color:black">**Research Experience**</span>
@@ -57,18 +59,19 @@ speedy development of the products and efficient management of resources.
 ------
 	
 **Postdoctoral Research Associate**<br/>
-	March 2018 to July 2019
-	Department of Animal Sciences and Agronomy and Horticulture, University of Nebraska –Lincoln
+	March 2018 to July 2019 <br/>
+	Department of Animal Sciences and Agronomy and Horticulture, University of Nebraska –Lincoln <br/>
 	
 **Ph. D (ICAR International Fellow and Graduate Research Assistantship)**<br/>
-	January 2014 to April 2017
+	January 2014 to April 2017 <br/>
 	
-**Research Fellow (INSPIRE Fellowship)**
-	March 2012 to December 2013
-	Agricultural University, CSKHPKV, Palampur India
+**Research Fellow (INSPIRE Fellowship)** <br/>
+	March 2012 to December 2013 <br/>
+	Agricultural University, CSKHPKV, Palampur India <br/>
 	
-**Graduate Research Assistant (M.S.)**
-	June 2009 to December 2011
+**Graduate Research Assistant (M.S.)** <br/>
+	June 2009 to December 2011 <br/>
+	
  ------ 
  
 <span style="color:black">**Publications**</span>
