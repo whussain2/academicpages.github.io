@@ -250,7 +250,7 @@ defaults:
       layout: single
       author_profile: true
       share: true  
-  # _R_for_PlantBreeding
+  # _RforPlantBreeding
   - scope:
       path: ""
       type: RforPlantBreeding
