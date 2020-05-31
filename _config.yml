@@ -261,7 +261,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true     
+      share: true  
+# _R_for_PlantBreeding
+  - scope:
+      path: ""
+      type: R_for_PlantBreeding
+    values:
+      layout: single
+      author_profile: true
+      share: true   
 # Sass/SCSS
 sass:
   sass_dir: _sass
