@@ -18,12 +18,8 @@ redirect_from:
 Interested in the development of improved germplasm and products. Keen to integrate and utilize multi-disciplinary approach and tools to modernize the breeding programs, and for speedy development of the products and efficient management of resources.
  ------
 
-mark {
-  background: red;
-  color: white;
+<span style="color:blue">**Education**</span>
 
-<span style="color:black">**Education**</span>
-}
 ======
 
 ------
@@ -229,7 +225,7 @@ mark {
 
 ------
 
-<span style="color:black">**Skills**</span>
+<span style="color:blue">**Skills**</span>
 ======
 
 ------
