@@ -194,6 +194,9 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
+R_for_PlantBreeding:
+    output: true
+    permalink: /:collection/:path/
  
 
 # Defaults
