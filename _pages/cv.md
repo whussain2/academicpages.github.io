@@ -77,15 +77,6 @@ speedy development of the products and efficient management of resources.
 <span style="color:black">**Publications**</span>
 ======
 ------
-**Under Preparation**
-
-------
-
-* **Hussain, W**., Walia, H., Jarquin, D., and Morota, G. 2019. Variance-heterogeneity genome-wide mapping for cadmium in wheat (*Triticum Aestivum L.*) revealed novel genomic regions and candidate genes. Target Journal: *BMC Plant Biology*.
- 
-* **Hussain, W**., Belamkar, V., Guttieri, M.J., Poland, J and Baenziger, P.S. 2019. Genotyping-by-sequencing derived high-density linkage map reveled novel genomic loci and candidate genes for plant height in wheat (*Triticum Aestivum L.*) Target Journal: *The Plant Journal*. 
-
-------
 
 **Peer-Reviewed Articles**
 
@@ -100,11 +91,25 @@ speedy development of the products and efficient management of resources.
 <span style="color:black">**Book Chapters**</span>
 ======
 ------
+* Chaudhary, H.K., Badiyal, A., **Hussain**, W., Jamwal, N.S., Kumar, N., Sharma, P and Singh, D. (2019). In: book: Genomics Assisted Breeding of Crops for Crop Stresses, Vol, II. *Innovative Role of DH Breeding in Genomics Assisted-Crop Improvement: Focus on Drought Tolerance in Wheat**. Springer, pp 69-90. [Link](https://link.springer.com/chapter/10.1007/978-3-319-99573-1_5)
 * Rana,M., Sood, A., **Hussain, W**., Kaldate, R., Sharma, T.R., Gill, R.K.,  Kumar, S., Singh, S. (2019). In: Mohar Singh (eds), Gene Pyramiding and Multiple Character Breeding, Lentils: Potential Resources for Enhancing Genetic Gains, 2019, Pages 83-124. [Link](https://doi.org/10.1016/B978-0-12-813522-8.00006-6).
 * Sanghera, G.S., Wani, S.H.,  **Hussain, W**., and Singh, N.B. (2015). *Genetic Engineering for Cold Stress Tolerance in Crop Plants*. In book: Advances in Genome Science, Edition: Volume 4, Publisher: Bentham Science, Editors: Atta-ur-Rahman, pp. 173-201. [Link](http://www.eurekaselect.com/138849/volume/4)
 * Chaudhary, H.K., Kaila, V., Rather, S.A., Badiyal, A., **Hussain, W**., Jamwal, N.S., and Mahato, A. (2013). In: Pratap and J. Kumar (eds.), *Alien Gene Transfer in Crop Plants, Volume Achievements and Impacts*. Springer, pp 1-26. [Link](https://link.springer.com/chapter/10.1007/978-1-4614-9572-7_1)
 * **Hussain, W**., Sanghera, G.S., Jamawal, N.S, and Badiyal,A. (2013). *Crop improvement through genomic interventions in sustainable way*. In: Malik CP, Sanghera GS and Sharma P(ed) Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 61-68. ISBN 978-81-7533-456-4. [Link](https://www.researchgate.net/publication/236857092_Crop_Improvement_in_Sustainable_way_Through_Genomic_Interventions)
 * Dar, S.H., **Hussain, W**., and Sanghera, G.S. (2013). *Advances in hybrid rice technology through applications of novel technologies*. In: Malik CP, Sanghera GS and Sharma P(ed), Crop improvement: An integrated approach. MD Publications Pvt Ltd, New Delhi. pp 1-12. [Link](https://www.cabdirect.org/cabdirect/abstract/20143204150) 
+
+------
+
+<span style="color:black">**Teaching Experience**</span>
+======
+------
+
+[**Teaching Experience 1**](https://whussain2.github.io/teaching/2018-ASCI%20944/STAT%20844%20Quantitative%20Methods%20for%20Genomics%20of%20Complex%20Traits)<br/>
+	Lecture on GWAS and practical demonstration on course ASCI 944/STAT 844-Quantitative Methods for Genomics of Complex Traits taught by Dr. Gota Morota.<br/>
+[**Teaching Experience 2**](https://whussain2.github.io/teaching/2018-Rclub-Lecture)<br/>
+	Lecture on R data visualizations in Rclub hosted by students in the Agronomy and Horticulture department, University of Nebraska, Lincoln.<br/>
+[**Teaching Experience 3**](https://whussain2.github.io/teaching/2019-STAT%20892-007%20-%20Integrative%20Data%20Science%20for%20Plant%20Phenomics)<br/>
+	Two lectures on genomic predictions and GWAS in the course STAT 892-007- Integrative Data Science for Plant Phenomics taught by multiple instructors.<br/>
 
 ------
 
@@ -234,17 +239,5 @@ speedy development of the products and efficient management of resources.
 
 ------
 
-<span style="color:black">**Teaching Experience**</span>
-======
-------
-[**Teaching Experience 1**](https://whussain2.github.io/teaching/2018-ASCI%20944/STAT%20844%20Quantitative%20Methods%20for%20Genomics%20of%20Complex%20Traits)
 
-* This lecture was one of the lecture in course **ASCI 944/STAT 844 Quantitative Methods for Genomics of Complex Traits**  taught by [Dr. Gota Morota](http://morotalab.org/). In this lecture I talk about **basic concepts in GWAS**, **how to correct for population stratification**, and **statistical models to run GWAS** and also showed **practical demonstration** how to perform **GWAS in R-software**.
-
-[**Teaching Experience 2**](https://whussain2.github.io/teaching/2018-Rclub-Lecture)
-
-* This lecture was delivered in R-club hosted by students in the Agronomy and Horticulture department, University of Nebraska, Lincoln. In this lecture I discussed about **data visualizations in ggplot**, **interactive visualizations using plotly**, **multiple plots in same panel**, **correlations** and **correlation heat maps**. 
-
-
-------
 
