@@ -35,7 +35,7 @@ comments:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
     appid                :
-    num_posts            : # 5 (default)
+    num_posts            : # 7 (default)
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
@@ -191,7 +191,7 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
-  RforPlantBreeding:
+  rplantbreeding:
     output: true
     permalink: /:collection/:path/
  
@@ -250,10 +250,10 @@ defaults:
       layout: single
       author_profile: true
       share: true  
-  # _RforPlantBreeding
+  # _rforplantbreeding
   - scope:
       path: ""
-      type: RforPlantBreeding
+      type: rforplantbreeding
     values:
       layout: single
       author_profile: true
