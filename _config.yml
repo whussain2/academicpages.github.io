@@ -194,7 +194,7 @@ collections:
   resources:
     output: true
     permalink: /:collection/:path/
-R_for_PlantBreeding:
+  R_for_PlantBreeding:
     output: true
     permalink: /:collection/:path/
  
@@ -262,7 +262,7 @@ defaults:
       layout: single
       author_profile: true
       share: true  
-# _R_for_PlantBreeding
+  # _R_for_PlantBreeding
   - scope:
       path: ""
       type: R_for_PlantBreeding
