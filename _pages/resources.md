@@ -14,6 +14,10 @@ author_profile: true
 
 * The aim of this application was to dynamically view and interpret temporal GWAS output.
 
+****
 
+## [Career Counseling to Kashmiri Students](http://whussain2.github.io/resources/careercounseling)
+
+* This page contins useful information and materials to study abroad.
 
 **Check for updates, more to come**
