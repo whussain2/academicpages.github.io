@@ -113,7 +113,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  publons          : "https://publons.com/researcher/1661206/waseem-hussain/"
 
 
 # Reading Files
@@ -242,6 +241,7 @@ defaults:
       layout: single
       author_profile: true
       share: true  
+      comment: true
  
 # Sass/SCSS
 sass:
@@ -258,7 +258,6 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 # Plugins
 gems:
-  - jekyll-remote-theme
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
